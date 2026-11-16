@@ -1,0 +1,254 @@
+[
+  {
+    "ingredientPattern": "CHS,UPT",
+    "ingredients": {
+      "C": {
+        "type": "block",
+        "code": "game:seashell-scallop-seafoam",
+        "quantity": 1
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hoop-tinbronze",
+        "quantity": 1
+      },
+      "S": {
+        "type": "block",
+        "code": "game:seashell-seastar-latte",
+        "quantity": 1
+      },
+      "U": {
+        "type": "block",
+        "code": "game:seashell-sundial-turquoise",
+        "quantity": 1
+      },
+      "P": {
+        "type": "item",
+        "code": "game:resin",
+        "quantity": 1
+      },
+      "T": {
+        "type": "block",
+        "code": "game:seashell-turritella-darkpurple",
+        "quantity": 1
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-seashellcrown-shore",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CHS,UPT",
+    "ingredients": {
+      "C": {
+        "type": "block",
+        "code": "game:seashell-scallop-plain",
+        "quantity": 1
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hoop-gold",
+        "quantity": 1
+      },
+      "S": {
+        "type": "block",
+        "code": "game:seashell-seastar-plain",
+        "quantity": 1
+      },
+      "U": {
+        "type": "block",
+        "code": "game:seashell-sundial-plain",
+        "quantity": 1
+      },
+      "P": {
+        "type": "item",
+        "code": "game:resin",
+        "quantity": 1
+      },
+      "T": {
+        "type": "block",
+        "code": "game:seashell-turritella-plain",
+        "quantity": 1
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-seashellcrown-pearl",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CHS,UPT",
+    "ingredients": {
+      "C": {
+        "type": "block",
+        "code": "game:seashell-scallop-latte",
+        "quantity": 1
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hoop-tinbronze",
+        "quantity": 1
+      },
+      "S": {
+        "type": "block",
+        "code": "game:seashell-seastar-latte",
+        "quantity": 1
+      },
+      "U": {
+        "type": "block",
+        "code": "game:seashell-sundial-latte",
+        "quantity": 1
+      },
+      "P": {
+        "type": "item",
+        "code": "game:resin",
+        "quantity": 1
+      },
+      "T": {
+        "type": "block",
+        "code": "game:seashell-turritella-latte",
+        "quantity": 1
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-seashellcrown-latte",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CHS,UPT",
+    "ingredients": {
+      "C": {
+        "type": "block",
+        "code": "game:seashell-scallop-cinnamon",
+        "quantity": 1
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hoop-blackbronze",
+        "quantity": 1
+      },
+      "S": {
+        "type": "block",
+        "code": "game:seashell-seastar-cinnamon",
+        "quantity": 1
+      },
+      "U": {
+        "type": "block",
+        "code": "game:seashell-sundial-cinnamon",
+        "quantity": 1
+      },
+      "P": {
+        "type": "item",
+        "code": "game:resin",
+        "quantity": 1
+      },
+      "T": {
+        "type": "block",
+        "code": "game:seashell-turritella-cinnamon",
+        "quantity": 1
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-seashellcrown-cinnamon",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CHS,UPT",
+    "ingredients": {
+      "C": {
+        "type": "block",
+        "code": "game:seashell-scallop-seafoam",
+        "quantity": 1
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hoop-meteoriciron",
+        "quantity": 1
+      },
+      "S": {
+        "type": "block",
+        "code": "game:seashell-seastar-seafoam",
+        "quantity": 1
+      },
+      "U": {
+        "type": "block",
+        "code": "game:seashell-sundial-seafoam",
+        "quantity": 1
+      },
+      "P": {
+        "type": "item",
+        "code": "game:resin",
+        "quantity": 1
+      },
+      "T": {
+        "type": "block",
+        "code": "game:seashell-turritella-seafoam",
+        "quantity": 1
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-seashellcrown-seafoam",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CHS,UPT",
+    "ingredients": {
+      "C": {
+        "type": "block",
+        "code": "game:seashell-scallop-turquoise",
+        "quantity": 1
+      },
+      "H": {
+        "type": "item",
+        "code": "game:hoop-bismuthbronze",
+        "quantity": 1
+      },
+      "S": {
+        "type": "block",
+        "code": "game:seashell-seastar-turquoise",
+        "quantity": 1
+      },
+      "U": {
+        "type": "block",
+        "code": "game:seashell-sundial-turquoise",
+        "quantity": 1
+      },
+      "P": {
+        "type": "item",
+        "code": "game:resin",
+        "quantity": 1
+      },
+      "T": {
+        "type": "block",
+        "code": "game:seashell-turritella-turquoise",
+        "quantity": 1
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-seashellcrown-turquoise",
+      "quantity": 1
+    }
+  }
+]

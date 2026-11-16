@@ -1,0 +1,109 @@
+{
+  "code": "clothes",
+  "variantgroups": [
+    {
+      "code": "category",
+      "states": [
+        "upperbodyover"
+      ]
+    },
+    {
+      "code": "upperbodyover",
+      "combine": "SelectiveMultiply",
+      "onVariant": "category",
+      "states": [
+        "leathercorset"
+      ]
+    },
+    {
+      "code": "color",
+      "states": [
+        "brown",
+        "red",
+        "black"
+      ]
+    }
+  ],
+  "storageFlags": 128,
+  "maxstacksize": 1,
+  "shape": {
+    "base": "garment/leathercorset"
+  },
+  "behaviors": [
+    {
+      "name": "Wearable"
+    }
+  ],
+  "attributes": {
+    "clothescategory": "upperbodyover",
+    "wearableAttachment": true,
+    "wearableTexturePrefixCode": null,
+    "displaycaseable": true
+  },
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "items": [
+      "*"
+    ],
+    "clothing": [
+      "*"
+    ]
+  },
+  "renderAlphaTest": 0.25,
+  "guiTransform": {
+    "rotate": false,
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": -180,
+      "y": -66,
+      "z": 5
+    },
+    "origin": {
+      "x": 0.53,
+      "y": 1.2,
+      "z": 0.5
+    },
+    "scale": 2.4
+  },
+  "texturesByType": {
+    "*-brown": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-leathercorset-leather": {
+        "base": "game:item/tool/shield/leather/brown"
+      },
+      "aoa-leathercorset-lace": {
+        "base": "game:block/cloth/basic/black"
+      }
+    },
+    "*-red": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-leathercorset-leather": {
+        "base": "game:item/tool/shield/leather/red"
+      },
+      "aoa-leathercorset-lace": {
+        "base": "game:block/cloth/basic/black"
+      }
+    },
+    "*-black": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-leathercorset-leather": {
+        "base": "game:item/tool/shield/leather/black"
+      },
+      "aoa-leathercorset-lace": {
+        "base": "game:block/cloth/basic/black"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "ingredientPattern": "SBK",
+    "ingredients": {
+      "S": {
+        "type": "item",
+        "code": "game:saw-*",
+        "isTool": true,
+        "toolDurabilityCost": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "game:bone",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:knife-generic-*",
+        "isTool": true,
+        "toolDurabilityCost": 1
+      }
+    },
+    "width": 3,
+    "height": 1,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:boneinsert",
+      "quantity": 4
+    }
+  }
+]

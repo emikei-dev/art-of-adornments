@@ -1,0 +1,393 @@
+[
+  {
+    "ingredientPattern": "LLL,LBL,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-*",
+        "quantity": 1,
+        "name": "color",
+        "allowedVariants": [
+          "plain",
+          "white",
+          "black",
+          "brown",
+          "red",
+          "blue",
+          "green"
+        ]
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbodyover-corset-{color}",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LLL,TBT,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "tailorsdelight:leatherbundle-plain",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-black",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbodyover-leathercorset-brown",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LLL,TBT,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "tailorsdelight:leatherbundle-red",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-black",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbodyover-leathercorset-red",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LLL,TBT,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "tailorsdelight:leatherbundle-black",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-black",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbodyover-leathercorset-black",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "L_L,T_T,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "tailorsdelight:leatherbundle-plain",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-black",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbodyover-underbustcorset-brown",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "L_L,T_T,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "tailorsdelight:leatherbundle-red",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-black",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbodyover-underbustcorset-red",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "L_L,T_T,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "tailorsdelight:leatherbundle-black",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-black",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbodyover-underbustcorset-black",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LLL,TBT,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "tailorsdelight:leatherbundle-plain",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-black",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbodyover-barkeepcorset-natural",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LLL,TBT,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "tailorsdelight:leatherbundle-black",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-black",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbodyover-barkeepcorset-black",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CCC,CBC,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "game:cloth-green",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "tailorsdelight:buttons-gold",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbody-highnecktop-green",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CCC,CBC,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "game:cloth-black",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "tailorsdelight:buttons-silver",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbody-highnecktop-black",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CCC,CBC,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "game:cloth-red",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "tailorsdelight:buttons-gold",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbody-highnecktop-red",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LLL,LTL,L_L",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "tailorsdelight:leatherbundle-plain",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:leatherstrips-plain",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-lowerbody-leatherpants-brown",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LLL,LTL,L_L",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "tailorsdelight:leatherbundle-black",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:leatherstrips-plain",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-lowerbody-leatherpants-black",
+      "quantity": 1
+    }
+  }
+]

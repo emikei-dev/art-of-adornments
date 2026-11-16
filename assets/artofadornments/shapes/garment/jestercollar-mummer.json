@@ -1,0 +1,2360 @@
+{
+  "textureWidth": 64,
+  "textureHeight": 64,
+  "textureSizes": {
+    "aoa-jestercollarmummer-cloth": [
+      64,
+      64
+    ],
+    "aoa-jestercollarmummer-metal": [
+      32,
+      32
+    ]
+  },
+  "textures": {
+    "aoa-jestercollarmummer-cloth": "fabric/trim/jester-mummer",
+    "aoa-jestercollarmummer-metal": "game:block/metal/plate/tinbronze"
+  },
+  "elements": [
+    {
+      "name": "jester-mummer-1-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-1",
+          "from": [
+            -0.6007,
+            1.2416,
+            4.212
+          ],
+          "to": [
+            -0.6007,
+            5.2416,
+            7.212
+          ],
+          "rotationOrigin": [
+            -0.6007,
+            3.2416,
+            5.712
+          ],
+          "rotationX": -1.398,
+          "rotationY": 24.9634,
+          "rotationZ": -10.6905,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                39,
+                51,
+                27,
+                64
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                2,
+                0,
+                2,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                64,
+                6,
+                32,
+                32
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                3,
+                0,
+                0
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                4,
+                0,
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-2-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-2",
+          "from": [
+            0.5821,
+            4.1191,
+            3.505
+          ],
+          "to": [
+            0.5821,
+            6.1191,
+            6.505
+          ],
+          "rotationOrigin": [
+            0.5821,
+            5.1191,
+            5.005
+          ],
+          "rotationX": -1.398,
+          "rotationY": 24.9634,
+          "rotationZ": -93.1905,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                3
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                39,
+                51,
+                27,
+                64
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                2,
+                1,
+                2,
+                3
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                64,
+                1,
+                32,
+                7
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                3,
+                0,
+                0
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                4,
+                0,
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-3-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-3",
+          "from": [
+            -1.1725,
+            1.0777,
+            5.4655
+          ],
+          "to": [
+            -0.6725,
+            1.5777,
+            5.9655
+          ],
+          "rotationOrigin": [
+            -0.9225,
+            1.3277,
+            5.7155
+          ],
+          "rotationX": -1.398,
+          "rotationY": 24.9634,
+          "rotationZ": -93.1905,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-4-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-4",
+          "from": [
+            -1.2756,
+            1.2062,
+            1.6
+          ],
+          "to": [
+            -1.2756,
+            5.2062,
+            4.6
+          ],
+          "rotationOrigin": [
+            -1.2756,
+            3.2062,
+            3.1
+          ],
+          "rotationZ": -11.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                2,
+                0,
+                2,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                39,
+                51,
+                27,
+                64
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                6,
+                32,
+                32
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-5-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-5",
+          "from": [
+            0.0859,
+            4.0931,
+            1.6
+          ],
+          "to": [
+            0.0859,
+            6.0931,
+            4.6
+          ],
+          "rotationOrigin": [
+            0.0859,
+            5.0931,
+            3.1
+          ],
+          "rotationZ": -93.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                2,
+                1,
+                2,
+                3
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                39,
+                51,
+                27,
+                64
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                3
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                32,
+                7
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-6-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-6",
+          "from": [
+            -1.8276,
+            1.1171,
+            3.025
+          ],
+          "to": [
+            -1.3276,
+            1.6171,
+            3.525
+          ],
+          "rotationOrigin": [
+            -1.5776,
+            1.3671,
+            3.275
+          ],
+          "rotationZ": -93.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-7-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-7",
+          "from": [
+            -0.6875,
+            1.237,
+            -0.9861
+          ],
+          "to": [
+            -0.6875,
+            5.237,
+            2.0139
+          ],
+          "rotationOrigin": [
+            -0.6875,
+            3.237,
+            0.5139
+          ],
+          "rotationX": 1.398,
+          "rotationY": -24.9634,
+          "rotationZ": -10.6905,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                2,
+                0,
+                2,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                39,
+                51,
+                27,
+                64
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                38,
+                32,
+                64
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-8-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-8",
+          "from": [
+            0.4953,
+            4.1145,
+            -0.2791
+          ],
+          "to": [
+            0.4953,
+            6.1145,
+            2.7209
+          ],
+          "rotationOrigin": [
+            0.4953,
+            5.1145,
+            1.2209
+          ],
+          "rotationX": 1.398,
+          "rotationY": -24.9634,
+          "rotationZ": -93.1905,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                2,
+                1,
+                2,
+                3
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                39,
+                51,
+                27,
+                64
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                3
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                33,
+                32,
+                39
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-9-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-9",
+          "from": [
+            -1.2761,
+            1.146,
+            0.2544
+          ],
+          "to": [
+            -0.7761,
+            1.646,
+            0.7544
+          ],
+          "rotationOrigin": [
+            -1.0261,
+            1.396,
+            0.5044
+          ],
+          "rotationX": 1.398,
+          "rotationY": -24.9634,
+          "rotationZ": -93.1905,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-10-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-10",
+          "from": [
+            2.563,
+            1.5558,
+            -3.3579
+          ],
+          "to": [
+            2.563,
+            5.5558,
+            -0.3579
+          ],
+          "rotationOrigin": [
+            2.563,
+            3.5558,
+            -1.8579
+          ],
+          "rotationX": 90.0,
+          "rotationY": -87.0,
+          "rotationZ": 72.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                2,
+                0,
+                2,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                39,
+                51,
+                27,
+                64
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                32,
+                38,
+                64,
+                64
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-11-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-11",
+          "from": [
+            2.4729,
+            4.274,
+            -1.7915
+          ],
+          "to": [
+            2.4729,
+            6.274,
+            1.2085
+          ],
+          "rotationOrigin": [
+            2.4729,
+            5.274,
+            -0.2915
+          ],
+          "rotationX": 90.0,
+          "rotationY": -87.0,
+          "rotationZ": -10.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                2,
+                1,
+                2,
+                3
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                39,
+                51,
+                27,
+                64
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                3
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                32,
+                33,
+                64,
+                39
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-12-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-12",
+          "from": [
+            2.2071,
+            1.5046,
+            -2.6161
+          ],
+          "to": [
+            2.7071,
+            2.0046,
+            -2.1161
+          ],
+          "rotationOrigin": [
+            2.4571,
+            1.7546,
+            -2.3661
+          ],
+          "rotationX": 90.0,
+          "rotationY": -87.0,
+          "rotationZ": -10.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-13-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-13",
+          "from": [
+            5.6923,
+            1.5714,
+            4.387
+          ],
+          "to": [
+            5.6923,
+            5.5714,
+            7.387
+          ],
+          "rotationOrigin": [
+            5.6923,
+            3.5714,
+            5.887
+          ],
+          "rotationX": 1.398,
+          "rotationY": -24.9634,
+          "rotationZ": 17.3095,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                38,
+                32,
+                64
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                2,
+                0,
+                2,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                39,
+                51,
+                27,
+                64
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                3,
+                0,
+                0
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                4,
+                0,
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-14-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-14",
+          "from": [
+            4.3197,
+            4.3149,
+            3.68
+          ],
+          "to": [
+            4.3197,
+            6.3149,
+            6.68
+          ],
+          "rotationOrigin": [
+            4.3197,
+            5.3149,
+            5.18
+          ],
+          "rotationX": 1.398,
+          "rotationY": -24.9634,
+          "rotationZ": 99.8095,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                3
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                33,
+                32,
+                39
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                2,
+                1,
+                2,
+                3
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                39,
+                51,
+                27,
+                64
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                3,
+                0,
+                0
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                4,
+                0,
+                1
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-15-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-15",
+          "from": [
+            5.9715,
+            1.5258,
+            5.6465
+          ],
+          "to": [
+            6.4715,
+            2.0258,
+            6.1465
+          ],
+          "rotationOrigin": [
+            6.2215,
+            1.7758,
+            5.8965
+          ],
+          "rotationX": 1.398,
+          "rotationY": -24.9634,
+          "rotationZ": 99.8095,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-16-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-16",
+          "from": [
+            6.3672,
+            1.6068,
+            1.6
+          ],
+          "to": [
+            6.3672,
+            5.6068,
+            4.6
+          ],
+          "rotationOrigin": [
+            6.3672,
+            3.6068,
+            3.1
+          ],
+          "rotationZ": 17.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                2,
+                0,
+                2,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                32,
+                6,
+                0,
+                32
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                39,
+                51,
+                27,
+                64
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-17-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-17",
+          "from": [
+            4.8159,
+            4.341,
+            1.6
+          ],
+          "to": [
+            4.8159,
+            6.341,
+            4.6
+          ],
+          "rotationOrigin": [
+            4.8159,
+            5.341,
+            3.1
+          ],
+          "rotationZ": 99.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                2,
+                1,
+                2,
+                3
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                32,
+                1,
+                0,
+                7
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                3
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                39,
+                51,
+                27,
+                64
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-18-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-18",
+          "from": [
+            6.6097,
+            1.5592,
+            3.025
+          ],
+          "to": [
+            7.1097,
+            2.0592,
+            3.525
+          ],
+          "rotationOrigin": [
+            6.8597,
+            1.8092,
+            3.275
+          ],
+          "rotationZ": 99.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-19-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-19",
+          "from": [
+            5.7791,
+            1.5759,
+            -1.1611
+          ],
+          "to": [
+            5.7791,
+            5.5759,
+            1.8389
+          ],
+          "rotationOrigin": [
+            5.7791,
+            3.5759,
+            0.3389
+          ],
+          "rotationX": -1.398,
+          "rotationY": 24.9634,
+          "rotationZ": 17.3095,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                2,
+                0,
+                2,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                64,
+                6,
+                32,
+                32
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                39,
+                51,
+                27,
+                64
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-20-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-20",
+          "from": [
+            4.4064,
+            4.3195,
+            -0.4541
+          ],
+          "to": [
+            4.4064,
+            6.3195,
+            2.5459
+          ],
+          "rotationOrigin": [
+            4.4064,
+            5.3195,
+            1.0459
+          ],
+          "rotationX": -1.398,
+          "rotationY": 24.9634,
+          "rotationZ": 99.8095,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                2,
+                1,
+                2,
+                3
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                64,
+                1,
+                32,
+                7
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                3
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                39,
+                51,
+                27,
+                64
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-21-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-21",
+          "from": [
+            6.0583,
+            1.5303,
+            0.0794
+          ],
+          "to": [
+            6.5583,
+            2.0303,
+            0.5794
+          ],
+          "rotationOrigin": [
+            6.3083,
+            1.7803,
+            0.3294
+          ],
+          "rotationX": -1.398,
+          "rotationY": 24.9634,
+          "rotationZ": 99.8095,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-22-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-22",
+          "from": [
+            2.563,
+            1.5558,
+            6.5079
+          ],
+          "to": [
+            2.563,
+            5.5558,
+            9.5079
+          ],
+          "rotationOrigin": [
+            2.563,
+            3.5558,
+            8.0079
+          ],
+          "rotationX": -90.0,
+          "rotationY": 87.0,
+          "rotationZ": 72.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                2,
+                0,
+                2,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                39,
+                51,
+                27,
+                64
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                32,
+                38,
+                64,
+                64
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-23-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-23",
+          "from": [
+            2.4729,
+            4.274,
+            4.9415
+          ],
+          "to": [
+            2.4729,
+            6.274,
+            7.9415
+          ],
+          "rotationOrigin": [
+            2.4729,
+            5.274,
+            6.4415
+          ],
+          "rotationX": -90.0,
+          "rotationY": 87.0,
+          "rotationZ": -10.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                2,
+                1,
+                2,
+                3
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                39,
+                51,
+                27,
+                64
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                3
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                32,
+                33,
+                64,
+                39
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                0,
+                0,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-cloth",
+              "uv": [
+                0,
+                1,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "jester-mummer-24-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "jester-mummer-24",
+          "from": [
+            2.6066,
+            1.5256,
+            8.2661
+          ],
+          "to": [
+            3.1066,
+            2.0256,
+            8.7661
+          ],
+          "rotationOrigin": [
+            2.8566,
+            1.7756,
+            8.5161
+          ],
+          "rotationX": -90.0,
+          "rotationY": 87.0,
+          "rotationZ": -10.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-jestercollarmummer-metal",
+              "uv": [
+                6.2,
+                31,
+                6.7,
+                30.5
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

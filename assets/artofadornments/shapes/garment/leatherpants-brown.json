@@ -1,0 +1,3626 @@
+{
+  "textureWidth": 48,
+  "textureHeight": 48,
+  "textureSizes": {
+    "aoa-leatherpants-leather": [
+      887,
+      887
+    ],
+    "aoa-leatherpants-lace": [
+      32,
+      32
+    ]
+  },
+  "textures": {
+    "aoa-leatherpants-leather": "garment/leather-pants-brown",
+    "aoa-leatherpants-lace": "game:block/cloth/basic/black"
+  },
+  "elements": [
+    {
+      "name": "pants-brown-1-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-1",
+          "from": [
+            -0.0486,
+            -0.0858,
+            -0.01
+          ],
+          "to": [
+            5.0514,
+            3.9907,
+            6.01
+          ],
+          "rotationOrigin": [
+            2.5014,
+            1.9524,
+            3.0
+          ],
+          "rotationZ": -0.25,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                425.0208,
+                592.5115,
+                314.1458,
+                420.1719
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                258.7083,
+                407.7198,
+                443.5,
+                296.3615
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                425.0208,
+                592.5115,
+                314.1458,
+                420.1719
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                258.7083,
+                407.7198,
+                443.5,
+                296.3615
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                441.1547,
+                404.9635,
+                277.651,
+                616.6927
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                441.1547,
+                404.9635,
+                277.651,
+                616.6927
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-2-attach",
+      "stepParentName": "LowerFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-2",
+          "from": [
+            -0.015,
+            -0.0144,
+            -0.0176
+          ],
+          "to": [
+            4.005,
+            10.0056,
+            3.0024
+          ],
+          "rotationOrigin": [
+            1.995,
+            4.9956,
+            1.4924
+          ],
+          "rotationX": -0.0029,
+          "rotationY": -0.0232,
+          "rotationZ": -0.0026,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                385.7172,
+                501.1047,
+                261.9438,
+                887
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                261.9438,
+                501.1047,
+                385.7172,
+                887
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                868.4854,
+                497.3594,
+                685.1167,
+                887
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                385.7172,
+                501.1047,
+                261.9438,
+                887
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                237.8838,
+                423.4427,
+                111.3385,
+                505.8177
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-3-attach",
+      "stepParentName": "LowerFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-3",
+          "from": [
+            -0.0136,
+            -0.0108,
+            -0.008
+          ],
+          "to": [
+            4.0064,
+            10.0092,
+            3.012
+          ],
+          "rotationOrigin": [
+            1.9964,
+            4.9992,
+            1.502
+          ],
+          "rotationX": 0.0029,
+          "rotationY": 0.0232,
+          "rotationZ": -0.0026,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                702.2083,
+                497.3594,
+                850.0417,
+                887
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                385.7172,
+                501.1047,
+                261.9438,
+                887
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                261.9438,
+                501.1047,
+                385.7172,
+                887
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                261.9438,
+                501.1047,
+                385.7172,
+                887
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                237.8838,
+                423.4427,
+                111.3385,
+                505.8177
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-4-attach",
+      "stepParentName": "UpperFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-4",
+          "from": [
+            -0.0077,
+            -0.0117,
+            -0.012
+          ],
+          "to": [
+            4.2123,
+            9.1883,
+            3.208
+          ],
+          "rotationOrigin": [
+            2.1023,
+            4.5883,
+            1.598
+          ],
+          "rotationX": -0.0096,
+          "rotationY": 0.1567,
+          "rotationZ": 0.0041,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                385.7172,
+                445.6672,
+                261.9438,
+                831.5625
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                261.9438,
+                794.6042,
+                367.238,
+                461.9792
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                702.2083,
+                35.3802,
+                850.0417,
+                425.0208
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                367.238,
+                831.5625,
+                261.9438,
+                498.9375
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                237.8838,
+                423.4427,
+                111.3385,
+                505.8177
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                237.8838,
+                423.4427,
+                111.3385,
+                505.8177
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-5-attach",
+      "stepParentName": "UpperFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-5",
+          "from": [
+            -0.0152,
+            -0.0255,
+            -0.009
+          ],
+          "to": [
+            4.2048,
+            9.1745,
+            3.211
+          ],
+          "rotationOrigin": [
+            2.0948,
+            4.5745,
+            1.601
+          ],
+          "rotationX": 0.0096,
+          "rotationY": -0.1567,
+          "rotationZ": 0.0041,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                702.2083,
+                35.3802,
+                850.0417,
+                425.0208
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                367.238,
+                794.6042,
+                261.9438,
+                461.9792
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                261.9438,
+                445.6672,
+                385.7172,
+                831.5625
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                261.9438,
+                572.8542,
+                367.238,
+                240.2292
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                237.8838,
+                423.4427,
+                111.3385,
+                505.8177
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-leather",
+              "uv": [
+                237.8838,
+                423.4427,
+                111.3385,
+                505.8177
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-6-attach",
+      "stepParentName": "UpperFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-6",
+          "from": [
+            1.9943,
+            1.0586,
+            -1.0259
+          ],
+          "to": [
+            2.2443,
+            1.3086,
+            1.2241
+          ],
+          "rotationOrigin": [
+            2.1193,
+            1.1836,
+            0.0991
+          ],
+          "rotationX": -90.0879,
+          "rotationY": 62.4963,
+          "rotationZ": 89.5473,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-7-attach",
+      "stepParentName": "UpperFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-7",
+          "from": [
+            1.9635,
+            1.0583,
+            -1.0282
+          ],
+          "to": [
+            2.2135,
+            1.3083,
+            1.2218
+          ],
+          "rotationOrigin": [
+            2.0885,
+            1.1833,
+            0.0968
+          ],
+          "rotationX": 89.1088,
+          "rotationY": 62.5023,
+          "rotationZ": -89.5472,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-8-attach",
+      "stepParentName": "UpperFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-8",
+          "from": [
+            1.9939,
+            7.0586,
+            -1.0522
+          ],
+          "to": [
+            2.2439,
+            7.3086,
+            1.1978
+          ],
+          "rotationOrigin": [
+            2.1189,
+            7.1836,
+            0.0728
+          ],
+          "rotationX": -90.0879,
+          "rotationY": 62.4963,
+          "rotationZ": 89.5473,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-9-attach",
+      "stepParentName": "UpperFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-9",
+          "from": [
+            1.963,
+            7.0583,
+            -1.0545
+          ],
+          "to": [
+            2.213,
+            7.3083,
+            1.1955
+          ],
+          "rotationOrigin": [
+            2.088,
+            7.1833,
+            0.0705
+          ],
+          "rotationX": 89.1088,
+          "rotationY": 62.5023,
+          "rotationZ": -89.5472,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-10-attach",
+      "stepParentName": "UpperFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-10",
+          "from": [
+            1.994,
+            5.0587,
+            -1.0351
+          ],
+          "to": [
+            2.244,
+            5.3087,
+            1.2149
+          ],
+          "rotationOrigin": [
+            2.119,
+            5.1837,
+            0.0899
+          ],
+          "rotationX": -90.0879,
+          "rotationY": 62.4963,
+          "rotationZ": 89.5473,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-11-attach",
+      "stepParentName": "UpperFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-11",
+          "from": [
+            1.9631,
+            5.0583,
+            -1.0374
+          ],
+          "to": [
+            2.2131,
+            5.3083,
+            1.2126
+          ],
+          "rotationOrigin": [
+            2.0881,
+            5.1833,
+            0.0876
+          ],
+          "rotationX": 89.1088,
+          "rotationY": 62.5023,
+          "rotationZ": -89.5472,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-12-attach",
+      "stepParentName": "UpperFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-12",
+          "from": [
+            1.9941,
+            3.0588,
+            -1.018
+          ],
+          "to": [
+            2.2441,
+            3.3088,
+            1.232
+          ],
+          "rotationOrigin": [
+            2.1191,
+            3.1838,
+            0.107
+          ],
+          "rotationX": -90.0879,
+          "rotationY": 62.4963,
+          "rotationZ": 89.5473,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-13-attach",
+      "stepParentName": "UpperFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-13",
+          "from": [
+            1.9633,
+            3.0584,
+            -1.0203
+          ],
+          "to": [
+            2.2133,
+            3.3084,
+            1.2297
+          ],
+          "rotationOrigin": [
+            2.0883,
+            3.1834,
+            0.1047
+          ],
+          "rotationX": 89.1088,
+          "rotationY": 62.5023,
+          "rotationZ": -89.5472,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-14-attach",
+      "stepParentName": "UpperFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-14",
+          "from": [
+            1.9943,
+            1.0586,
+            1.9759
+          ],
+          "to": [
+            2.2443,
+            1.3086,
+            4.2259
+          ],
+          "rotationOrigin": [
+            2.1193,
+            1.1836,
+            3.1009
+          ],
+          "rotationX": 90.0879,
+          "rotationY": -62.4963,
+          "rotationZ": 89.5473,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-15-attach",
+      "stepParentName": "UpperFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-15",
+          "from": [
+            1.9635,
+            1.0583,
+            1.9782
+          ],
+          "to": [
+            2.2135,
+            1.3083,
+            4.2282
+          ],
+          "rotationOrigin": [
+            2.0885,
+            1.1833,
+            3.1032
+          ],
+          "rotationX": -89.1088,
+          "rotationY": -62.5023,
+          "rotationZ": -89.5472,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-16-attach",
+      "stepParentName": "UpperFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-16",
+          "from": [
+            1.9939,
+            7.0586,
+            2.0022
+          ],
+          "to": [
+            2.2439,
+            7.3086,
+            4.2522
+          ],
+          "rotationOrigin": [
+            2.1189,
+            7.1836,
+            3.1272
+          ],
+          "rotationX": 90.0879,
+          "rotationY": -62.4963,
+          "rotationZ": 89.5473,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-17-attach",
+      "stepParentName": "UpperFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-17",
+          "from": [
+            1.963,
+            7.0583,
+            2.0045
+          ],
+          "to": [
+            2.213,
+            7.3083,
+            4.2545
+          ],
+          "rotationOrigin": [
+            2.088,
+            7.1833,
+            3.1295
+          ],
+          "rotationX": -89.1088,
+          "rotationY": -62.5023,
+          "rotationZ": -89.5472,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-18-attach",
+      "stepParentName": "UpperFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-18",
+          "from": [
+            1.994,
+            5.0587,
+            1.9851
+          ],
+          "to": [
+            2.244,
+            5.3087,
+            4.2351
+          ],
+          "rotationOrigin": [
+            2.119,
+            5.1837,
+            3.1101
+          ],
+          "rotationX": 90.0879,
+          "rotationY": -62.4963,
+          "rotationZ": 89.5473,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-19-attach",
+      "stepParentName": "UpperFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-19",
+          "from": [
+            1.9631,
+            5.0583,
+            1.9874
+          ],
+          "to": [
+            2.2131,
+            5.3083,
+            4.2374
+          ],
+          "rotationOrigin": [
+            2.0881,
+            5.1833,
+            3.1124
+          ],
+          "rotationX": -89.1088,
+          "rotationY": -62.5023,
+          "rotationZ": -89.5472,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-20-attach",
+      "stepParentName": "UpperFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-20",
+          "from": [
+            1.9941,
+            3.0588,
+            1.968
+          ],
+          "to": [
+            2.2441,
+            3.3088,
+            4.218
+          ],
+          "rotationOrigin": [
+            2.1191,
+            3.1838,
+            3.093
+          ],
+          "rotationX": 90.0879,
+          "rotationY": -62.4963,
+          "rotationZ": 89.5473,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-21-attach",
+      "stepParentName": "UpperFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-21",
+          "from": [
+            1.9633,
+            3.0584,
+            1.9703
+          ],
+          "to": [
+            2.2133,
+            3.3084,
+            4.2203
+          ],
+          "rotationOrigin": [
+            2.0883,
+            3.1834,
+            3.0953
+          ],
+          "rotationX": -89.1088,
+          "rotationY": -62.5023,
+          "rotationZ": -89.5472,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-22-attach",
+      "stepParentName": "LowerFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-22",
+          "from": [
+            1.9047,
+            2.0474,
+            -1.0505
+          ],
+          "to": [
+            2.1547,
+            2.2974,
+            1.1995
+          ],
+          "rotationOrigin": [
+            2.0297,
+            2.1724,
+            0.0745
+          ],
+          "rotationX": -90.0277,
+          "rotationY": 62.5033,
+          "rotationZ": 89.4711,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-23-attach",
+      "stepParentName": "LowerFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-23",
+          "from": [
+            1.8738,
+            2.047,
+            -1.0528
+          ],
+          "to": [
+            2.1238,
+            2.297,
+            1.1972
+          ],
+          "rotationOrigin": [
+            1.9988,
+            2.172,
+            0.0722
+          ],
+          "rotationX": 89.0342,
+          "rotationY": 62.4947,
+          "rotationZ": -89.4713,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-24-attach",
+      "stepParentName": "LowerFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-24",
+          "from": [
+            1.905,
+            8.0473,
+            -1.0775
+          ],
+          "to": [
+            2.155,
+            8.2973,
+            1.1725
+          ],
+          "rotationOrigin": [
+            2.03,
+            8.1723,
+            0.0475
+          ],
+          "rotationX": -90.0277,
+          "rotationY": 62.5033,
+          "rotationZ": 89.4711,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-25-attach",
+      "stepParentName": "LowerFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-25",
+          "from": [
+            1.8741,
+            8.047,
+            -1.0798
+          ],
+          "to": [
+            2.1241,
+            8.297,
+            1.1702
+          ],
+          "rotationOrigin": [
+            1.9991,
+            8.172,
+            0.0452
+          ],
+          "rotationX": 89.0342,
+          "rotationY": 62.4947,
+          "rotationZ": -89.4713,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-26-attach",
+      "stepParentName": "LowerFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-26",
+          "from": [
+            1.9049,
+            6.0474,
+            -1.0601
+          ],
+          "to": [
+            2.1549,
+            6.2974,
+            1.1899
+          ],
+          "rotationOrigin": [
+            2.0299,
+            6.1724,
+            0.0649
+          ],
+          "rotationX": -90.0277,
+          "rotationY": 62.5033,
+          "rotationZ": 89.4711,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-27-attach",
+      "stepParentName": "LowerFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-27",
+          "from": [
+            1.874,
+            6.0471,
+            -1.0624
+          ],
+          "to": [
+            2.124,
+            6.2971,
+            1.1876
+          ],
+          "rotationOrigin": [
+            1.999,
+            6.1721,
+            0.0626
+          ],
+          "rotationX": 89.0342,
+          "rotationY": 62.4947,
+          "rotationZ": -89.4713,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-28-attach",
+      "stepParentName": "LowerFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-28",
+          "from": [
+            1.9047,
+            4.0475,
+            -1.0428
+          ],
+          "to": [
+            2.1547,
+            4.2975,
+            1.2072
+          ],
+          "rotationOrigin": [
+            2.0297,
+            4.1725,
+            0.0822
+          ],
+          "rotationX": -90.0277,
+          "rotationY": 62.5033,
+          "rotationZ": 89.4711,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-29-attach",
+      "stepParentName": "LowerFootR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-29",
+          "from": [
+            1.8738,
+            4.0471,
+            -1.0451
+          ],
+          "to": [
+            2.1238,
+            4.2971,
+            1.2049
+          ],
+          "rotationOrigin": [
+            1.9988,
+            4.1721,
+            0.0799
+          ],
+          "rotationX": 89.0342,
+          "rotationY": 62.4947,
+          "rotationZ": -89.4713,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-30-attach",
+      "stepParentName": "LowerFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-30",
+          "from": [
+            1.9072,
+            2.0611,
+            1.8079
+          ],
+          "to": [
+            2.1572,
+            2.3111,
+            4.0579
+          ],
+          "rotationOrigin": [
+            2.0322,
+            2.1861,
+            2.9329
+          ],
+          "rotationX": 90.0277,
+          "rotationY": -62.5033,
+          "rotationZ": 89.4711,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-31-attach",
+      "stepParentName": "LowerFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-31",
+          "from": [
+            1.8764,
+            2.0608,
+            1.8102
+          ],
+          "to": [
+            2.1264,
+            2.3108,
+            4.0602
+          ],
+          "rotationOrigin": [
+            2.0014,
+            2.1858,
+            2.9352
+          ],
+          "rotationX": -89.0342,
+          "rotationY": -62.4947,
+          "rotationZ": -89.4713,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-32-attach",
+      "stepParentName": "LowerFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-32",
+          "from": [
+            1.9076,
+            8.0611,
+            1.8349
+          ],
+          "to": [
+            2.1576,
+            8.3111,
+            4.0849
+          ],
+          "rotationOrigin": [
+            2.0326,
+            8.1861,
+            2.9599
+          ],
+          "rotationX": 90.0277,
+          "rotationY": -62.5033,
+          "rotationZ": 89.4711,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-33-attach",
+      "stepParentName": "LowerFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-33",
+          "from": [
+            1.8767,
+            8.0608,
+            1.8372
+          ],
+          "to": [
+            2.1267,
+            8.3108,
+            4.0872
+          ],
+          "rotationOrigin": [
+            2.0017,
+            8.1858,
+            2.9622
+          ],
+          "rotationX": -89.0342,
+          "rotationY": -62.4947,
+          "rotationZ": -89.4713,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-34-attach",
+      "stepParentName": "LowerFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-34",
+          "from": [
+            1.9074,
+            6.0612,
+            1.8176
+          ],
+          "to": [
+            2.1574,
+            6.3112,
+            4.0676
+          ],
+          "rotationOrigin": [
+            2.0324,
+            6.1862,
+            2.9426
+          ],
+          "rotationX": 90.0277,
+          "rotationY": -62.5033,
+          "rotationZ": 89.4711,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-35-attach",
+      "stepParentName": "LowerFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-35",
+          "from": [
+            1.8765,
+            6.0608,
+            1.8199
+          ],
+          "to": [
+            2.1265,
+            6.3108,
+            4.0699
+          ],
+          "rotationOrigin": [
+            2.0015,
+            6.1858,
+            2.9449
+          ],
+          "rotationX": -89.0342,
+          "rotationY": -62.4947,
+          "rotationZ": -89.4713,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-36-attach",
+      "stepParentName": "LowerFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-36",
+          "from": [
+            1.9073,
+            4.0613,
+            1.8002
+          ],
+          "to": [
+            2.1573,
+            4.3113,
+            4.0502
+          ],
+          "rotationOrigin": [
+            2.0323,
+            4.1863,
+            2.9252
+          ],
+          "rotationX": 90.0277,
+          "rotationY": -62.5033,
+          "rotationZ": 89.4711,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "pants-brown-37-attach",
+      "stepParentName": "LowerFootL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "pants-brown-37",
+          "from": [
+            1.8764,
+            4.0609,
+            1.8026
+          ],
+          "to": [
+            2.1264,
+            4.3109,
+            4.0526
+          ],
+          "rotationOrigin": [
+            2.0014,
+            4.1859,
+            2.9276
+          ],
+          "rotationX": -89.0342,
+          "rotationY": -62.4947,
+          "rotationZ": -89.4713,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                1,
+                2.9,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                3,
+                3,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leatherpants-lace",
+              "uv": [
+                0,
+                5.9,
+                1,
+                3
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

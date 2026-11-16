@@ -1,0 +1,837 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "earring-metal": [
+      128,
+      85
+    ],
+    "earring-parts": [
+      16,
+      16
+    ],
+    "earring-gem": [
+      32,
+      32
+    ]
+  },
+  "textures": {
+    "earring-metal": "metal/chains",
+    "earring-parts": "garment/earring-parts",
+    "earring-gem": "game:block/stone/gem/lapislazuli"
+  },
+  "elements": [
+    {
+      "name": "brasslapis-lobe-L",
+      "stepParentName": "Head",
+      "from": [
+        2.6111,
+        1.745,
+        5.428
+      ],
+      "to": [
+        2.6111,
+        1.745,
+        5.428
+      ],
+      "rotationOrigin": [
+        2.6111,
+        1.745,
+        5.428
+      ],
+      "children": [
+        {
+          "name": "brasslapis-lobe-L-hook_R",
+          "from": [
+            -0.091,
+            -0.665,
+            -0.119
+          ],
+          "to": [
+            0.077,
+            0.035,
+            0.049
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -0.315,
+            -0.035
+          ],
+          "rotationX": -179.999,
+          "rotationY": -0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brasslapis-lobe-L-link_R",
+          "from": [
+            -0.063,
+            -1.015,
+            -0.091
+          ],
+          "to": [
+            0.049,
+            -0.665,
+            0.021
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -0.84,
+            -0.035
+          ],
+          "rotationX": -179.999,
+          "rotationY": -0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brasslapis-lobe-L-cap_R",
+          "from": [
+            -0.161,
+            -1.155,
+            -0.105
+          ],
+          "to": [
+            0.147,
+            -1.015,
+            0.035
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -1.085,
+            -0.035
+          ],
+          "rotationX": -179.999,
+          "rotationY": -0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brasslapis-lobe-L-drop_R",
+          "from": [
+            -0.259,
+            -1.855,
+            -0.119
+          ],
+          "to": [
+            0.245,
+            -1.155,
+            0.049
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -1.505,
+            -0.035
+          ],
+          "rotationX": -179.999,
+          "rotationY": -0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-gem",
+              "uv": [
+                5.0,
+                0.0,
+                0.0,
+                8.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-gem",
+              "uv": [
+                3.0,
+                0.0,
+                0.0,
+                11.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-gem",
+              "uv": [
+                5.0,
+                0.0,
+                0.0,
+                8.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-gem",
+              "uv": [
+                3.0,
+                0.0,
+                0.0,
+                11.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                0.0,
+                5.0,
+                3.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                8.0,
+                7.0,
+                11.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brasslapis-lobe-L-tip_R",
+          "from": [
+            -0.091,
+            -2.065,
+            -0.091
+          ],
+          "to": [
+            0.077,
+            -1.855,
+            0.021
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -1.96,
+            -0.035
+          ],
+          "rotationX": -179.999,
+          "rotationY": -0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "brasslapis-lobe-R",
+      "stepParentName": "Head",
+      "from": [
+        2.6111,
+        1.745,
+        -0.428
+      ],
+      "to": [
+        2.6111,
+        1.745,
+        -0.428
+      ],
+      "rotationOrigin": [
+        2.6111,
+        1.745,
+        -0.428
+      ],
+      "children": [
+        {
+          "name": "brasslapis-lobe-R-hook_R",
+          "from": [
+            -0.091,
+            -0.665,
+            -0.049
+          ],
+          "to": [
+            0.077,
+            0.035,
+            0.119
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -0.315,
+            0.035
+          ],
+          "rotationX": 179.999,
+          "rotationY": 0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brasslapis-lobe-R-link_R",
+          "from": [
+            -0.063,
+            -1.015,
+            -0.021
+          ],
+          "to": [
+            0.049,
+            -0.665,
+            0.091
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -0.84,
+            0.035
+          ],
+          "rotationX": 179.999,
+          "rotationY": 0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brasslapis-lobe-R-cap_R",
+          "from": [
+            -0.161,
+            -1.155,
+            -0.035
+          ],
+          "to": [
+            0.147,
+            -1.015,
+            0.105
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -1.085,
+            0.035
+          ],
+          "rotationX": 179.999,
+          "rotationY": 0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brasslapis-lobe-R-drop_R",
+          "from": [
+            -0.259,
+            -1.855,
+            -0.049
+          ],
+          "to": [
+            0.245,
+            -1.155,
+            0.119
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -1.505,
+            0.035
+          ],
+          "rotationX": 179.999,
+          "rotationY": 0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-gem",
+              "uv": [
+                5.0,
+                0.0,
+                0.0,
+                8.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-gem",
+              "uv": [
+                3.0,
+                0.0,
+                0.0,
+                11.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-gem",
+              "uv": [
+                5.0,
+                0.0,
+                0.0,
+                8.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-gem",
+              "uv": [
+                3.0,
+                0.0,
+                0.0,
+                11.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                0.0,
+                5.0,
+                3.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                8.0,
+                7.0,
+                11.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brasslapis-lobe-R-tip_R",
+          "from": [
+            -0.091,
+            -2.065,
+            -0.021
+          ],
+          "to": [
+            0.077,
+            -1.855,
+            0.091
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -1.96,
+            0.035
+          ],
+          "rotationX": 179.999,
+          "rotationY": 0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

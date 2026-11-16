@@ -1,0 +1,71 @@
+{
+  "code": "clothes",
+  "variantgroups": [
+    {
+      "code": "category",
+      "states": [
+        "shoulder"
+      ]
+    },
+    {
+      "code": "shoulder",
+      "combine": "SelectiveMultiply",
+      "onVariant": "category",
+      "states": [
+        "feralmantle"
+      ]
+    }
+  ],
+  "storageFlags": 128,
+  "maxstacksize": 1,
+  "shape": {
+    "base": "garment/feralmantle"
+  },
+  "textures": {
+    "seraph": {
+      "base": "game:block/transparent"
+    }
+  },
+  "behaviors": [
+    {
+      "name": "Wearable"
+    }
+  ],
+  "attributes": {
+    "clothescategory": "shoulder",
+    "wearableAttachment": true,
+    "wearableTexturePrefixCode": null,
+    "displaycaseable": true
+  },
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "items": [
+      "*"
+    ],
+    "clothing": [
+      "*"
+    ]
+  },
+  "renderAlphaTest": 0.25,
+  "guiTransform": {
+    "rotate": false,
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": -180,
+      "y": -66,
+      "z": 5
+    },
+    "origin": {
+      "x": 0.53,
+      "y": 1.36,
+      "z": 0.5
+    },
+    "scale": 2.21
+  }
+}

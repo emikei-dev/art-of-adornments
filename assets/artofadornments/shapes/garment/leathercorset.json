@@ -1,0 +1,2734 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "aoa-leathercorset-leather": [
+      32,
+      32
+    ],
+    "aoa-leathercorset-lace": [
+      32,
+      32
+    ]
+  },
+  "textures": {
+    "aoa-leathercorset-leather": "game:item/tool/shield/leather/brown",
+    "aoa-leathercorset-lace": "game:block/cloth/basic/black"
+  },
+  "elements": [
+    {
+      "name": "leathercorset-1-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-1",
+          "from": [
+            5.1,
+            2.8828,
+            2.5397
+          ],
+          "to": [
+            5.3,
+            3.0828,
+            3.5397
+          ],
+          "rotationOrigin": [
+            5.2,
+            2.9828,
+            3.0397
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-2-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-2",
+          "from": [
+            5.1,
+            2.8696,
+            2.5223
+          ],
+          "to": [
+            5.3,
+            3.0696,
+            3.5223
+          ],
+          "rotationOrigin": [
+            5.2,
+            2.9696,
+            3.0223
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-3-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-3",
+          "from": [
+            5.1,
+            3.7446,
+            2.5223
+          ],
+          "to": [
+            5.3,
+            3.9446,
+            3.5223
+          ],
+          "rotationOrigin": [
+            5.2,
+            3.8446,
+            3.0223
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-4-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-4",
+          "from": [
+            5.1,
+            3.7578,
+            2.5397
+          ],
+          "to": [
+            5.3,
+            3.9578,
+            3.5397
+          ],
+          "rotationOrigin": [
+            5.2,
+            3.8578,
+            3.0397
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-7-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-7",
+          "from": [
+            5.1,
+            0.3446,
+            2.6223
+          ],
+          "to": [
+            5.3,
+            0.5446,
+            3.6223
+          ],
+          "rotationOrigin": [
+            5.2,
+            0.4446,
+            3.1223
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-8-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-8",
+          "from": [
+            5.1,
+            0.3578,
+            2.6397
+          ],
+          "to": [
+            5.3,
+            0.5578,
+            3.6397
+          ],
+          "rotationOrigin": [
+            5.2,
+            0.4578,
+            3.1397
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-9-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-9",
+          "from": [
+            -0.25,
+            0.3578,
+            2.6397
+          ],
+          "to": [
+            -0.05,
+            0.5578,
+            3.6397
+          ],
+          "rotationOrigin": [
+            -0.15,
+            0.4578,
+            3.1397
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-10-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-10",
+          "from": [
+            -0.25,
+            0.3446,
+            2.6223
+          ],
+          "to": [
+            -0.05,
+            0.5446,
+            3.6223
+          ],
+          "rotationOrigin": [
+            -0.15,
+            0.4446,
+            3.1223
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-13-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-13",
+          "from": [
+            -0.25,
+            3.5578,
+            2.5397
+          ],
+          "to": [
+            -0.05,
+            3.7578,
+            3.5397
+          ],
+          "rotationOrigin": [
+            -0.15,
+            3.6578,
+            3.0397
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-14-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-14",
+          "from": [
+            -0.25,
+            3.5446,
+            2.5223
+          ],
+          "to": [
+            -0.05,
+            3.7446,
+            3.5223
+          ],
+          "rotationOrigin": [
+            -0.15,
+            3.6446,
+            3.0223
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-15-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-15",
+          "from": [
+            -0.25,
+            2.6696,
+            2.5223
+          ],
+          "to": [
+            -0.05,
+            2.8696,
+            3.5223
+          ],
+          "rotationOrigin": [
+            -0.15,
+            2.7696,
+            3.0223
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-16-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-16",
+          "from": [
+            -0.25,
+            2.6828,
+            2.5397
+          ],
+          "to": [
+            -0.05,
+            2.8828,
+            3.5397
+          ],
+          "rotationOrigin": [
+            -0.15,
+            2.7828,
+            3.0397
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-17-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-17",
+          "from": [
+            5.1,
+            1.9905,
+            2.4038
+          ],
+          "to": [
+            5.3,
+            2.1905,
+            3.6538
+          ],
+          "rotationOrigin": [
+            5.2,
+            2.0905,
+            3.0288
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-18-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-18",
+          "from": [
+            5.1,
+            1.9619,
+            2.3865
+          ],
+          "to": [
+            5.3,
+            2.1619,
+            3.6365
+          ],
+          "rotationOrigin": [
+            5.2,
+            2.0619,
+            3.0115
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-19-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-19",
+          "from": [
+            5.1,
+            1.1869,
+            2.4865
+          ],
+          "to": [
+            5.3,
+            1.3869,
+            3.7365
+          ],
+          "rotationOrigin": [
+            5.2,
+            1.2869,
+            3.1115
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-20-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-20",
+          "from": [
+            5.1,
+            1.2155,
+            2.5038
+          ],
+          "to": [
+            5.3,
+            1.4155,
+            3.7538
+          ],
+          "rotationOrigin": [
+            5.2,
+            1.3155,
+            3.1288
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-21-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-21",
+          "from": [
+            -0.275,
+            1.2405,
+            2.5038
+          ],
+          "to": [
+            -0.075,
+            1.4405,
+            3.7538
+          ],
+          "rotationOrigin": [
+            -0.175,
+            1.3405,
+            3.1288
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-22-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-22",
+          "from": [
+            -0.275,
+            1.2119,
+            2.5115
+          ],
+          "to": [
+            -0.075,
+            1.4119,
+            3.7615
+          ],
+          "rotationOrigin": [
+            -0.175,
+            1.3119,
+            3.1365
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-23-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-23",
+          "from": [
+            -0.275,
+            1.7619,
+            2.3865
+          ],
+          "to": [
+            -0.075,
+            1.9619,
+            3.6365
+          ],
+          "rotationOrigin": [
+            -0.175,
+            1.8619,
+            3.0115
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-24-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-24",
+          "from": [
+            -0.275,
+            1.7905,
+            2.4038
+          ],
+          "to": [
+            -0.075,
+            1.9905,
+            3.6538
+          ],
+          "rotationOrigin": [
+            -0.175,
+            1.8905,
+            3.0288
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-25-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-25",
+          "from": [
+            -0.175,
+            -1.1903,
+            3.3908
+          ],
+          "to": [
+            5.15,
+            1.8097,
+            6.3908
+          ],
+          "rotationOrigin": [
+            2.4875,
+            0.3097,
+            4.8908
+          ],
+          "rotationX": -171.0,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                21,
+                0,
+                11,
+                6
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                6,
+                32,
+                0,
+                26
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                21,
+                0,
+                11,
+                6
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                0,
+                32,
+                6,
+                26
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                21,
+                0,
+                11,
+                6
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                21,
+                0,
+                11,
+                6
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-26-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        1,
+        0
+      ],
+      "to": [
+        0,
+        1,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        1,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-26",
+          "from": [
+            -0.125,
+            0.5437,
+            3.3215
+          ],
+          "to": [
+            5.125,
+            3.5437,
+            6.3215
+          ],
+          "rotationOrigin": [
+            2.5,
+            2.0437,
+            4.8215
+          ],
+          "rotationX": 173.0,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                21,
+                6,
+                11,
+                0
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                26,
+                6,
+                32,
+                0
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                21,
+                0,
+                11,
+                6
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                32,
+                8,
+                26,
+                0
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                21,
+                0,
+                11,
+                6
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                21,
+                0,
+                11,
+                6
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-27-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        1,
+        0
+      ],
+      "to": [
+        0,
+        1,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        1,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-27",
+          "from": [
+            -0.125,
+            0.5437,
+            -0.3215
+          ],
+          "to": [
+            5.125,
+            3.5437,
+            2.6785
+          ],
+          "rotationOrigin": [
+            2.5,
+            2.0437,
+            1.1785
+          ],
+          "rotationX": 7.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                11,
+                6,
+                21,
+                0
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                26,
+                8,
+                32,
+                0
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                11,
+                0,
+                21,
+                6
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                32,
+                6,
+                26,
+                0
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                11,
+                0,
+                21,
+                6
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                11,
+                0,
+                21,
+                6
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-28-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "leathercorset-28",
+          "from": [
+            -0.175,
+            -1.1903,
+            -0.1908
+          ],
+          "to": [
+            5.15,
+            1.8097,
+            2.8092
+          ],
+          "rotationOrigin": [
+            2.4875,
+            0.3097,
+            1.3092
+          ],
+          "rotationX": -9.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                11,
+                0,
+                21,
+                6
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                6,
+                32,
+                0,
+                26
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                11,
+                0,
+                21,
+                6
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                0,
+                32,
+                6,
+                26
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                11,
+                0,
+                21,
+                6
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-leather",
+              "uv": [
+                11,
+                0,
+                21,
+                6
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-12-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0.0,
+        -4.3,
+        0.1
+      ],
+      "to": [
+        0.0,
+        -4.3,
+        0.1
+      ],
+      "rotationOrigin": [
+        0.0,
+        -4.3,
+        0.1
+      ],
+      "children": [
+        {
+          "name": "leathercorset-12",
+          "from": [
+            -0.25,
+            3.8078,
+            2.5397
+          ],
+          "to": [
+            -0.05,
+            4.0078,
+            3.5397
+          ],
+          "rotationOrigin": [
+            -0.15,
+            3.9078,
+            3.0397
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-11-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0.0,
+        -4.3,
+        0.1
+      ],
+      "to": [
+        0.0,
+        -4.3,
+        0.1
+      ],
+      "rotationOrigin": [
+        0.0,
+        -4.3,
+        0.1
+      ],
+      "children": [
+        {
+          "name": "leathercorset-11",
+          "from": [
+            -0.25,
+            3.7946,
+            2.5223
+          ],
+          "to": [
+            -0.05,
+            3.9946,
+            3.5223
+          ],
+          "rotationOrigin": [
+            -0.15,
+            3.8946,
+            3.0223
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-5-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0.0,
+        -4.3,
+        0.1
+      ],
+      "to": [
+        0.0,
+        -4.3,
+        0.1
+      ],
+      "rotationOrigin": [
+        0.0,
+        -4.3,
+        0.1
+      ],
+      "children": [
+        {
+          "name": "leathercorset-5",
+          "from": [
+            5.1,
+            3.8078,
+            2.5397
+          ],
+          "to": [
+            5.3,
+            4.0078,
+            3.5397
+          ],
+          "rotationOrigin": [
+            5.2,
+            3.9078,
+            3.0397
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "leathercorset-6-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0.0,
+        -4.3,
+        0.1
+      ],
+      "to": [
+        0.0,
+        -4.3,
+        0.1
+      ],
+      "rotationOrigin": [
+        0.0,
+        -4.3,
+        0.1
+      ],
+      "children": [
+        {
+          "name": "leathercorset-6",
+          "from": [
+            5.1,
+            3.7946,
+            2.5223
+          ],
+          "to": [
+            5.3,
+            3.9946,
+            3.5223
+          ],
+          "rotationOrigin": [
+            5.2,
+            3.8946,
+            3.0223
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-leathercorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

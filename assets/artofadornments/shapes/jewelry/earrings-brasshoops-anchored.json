@@ -1,0 +1,613 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "earring-metal": [
+      128,
+      85
+    ],
+    "earring-parts": [
+      16,
+      16
+    ],
+    "earring-gem": [
+      32,
+      32
+    ]
+  },
+  "textures": {
+    "earring-metal": "metal/chains",
+    "earring-parts": "garment/earring-parts",
+    "earring-gem": "game:item/resource/ungraded/graphite"
+  },
+  "elements": [
+    {
+      "name": "brasshoops-lobe-L",
+      "stepParentName": "aoa-lobe-L",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "brasshoops-lobe-L-lobe_loop",
+          "from": [
+            -0.0361,
+            -0.8051,
+            -0.5985
+          ],
+          "to": [
+            0.1039,
+            0.211,
+            0.4176
+          ],
+          "rotationOrigin": [
+            0.0339,
+            -0.2971,
+            -0.0904
+          ],
+          "rotationX": -150.8917,
+          "rotationY": 89.9988,
+          "rotationZ": 150.8927,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "brasshoops-conch-L",
+      "stepParentName": "aoa-conch-L",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "brasshoops-conch-L-conch_loop",
+          "from": [
+            -0.1057,
+            -0.5407,
+            -0.3885
+          ],
+          "to": [
+            0.0945,
+            0.16,
+            0.3122
+          ],
+          "rotationOrigin": [
+            -0.0056,
+            -0.1904,
+            -0.0382
+          ],
+          "rotationX": -150.8917,
+          "rotationY": 89.9988,
+          "rotationZ": 150.8927,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "brasshoops-helix-L",
+      "stepParentName": "aoa-helix-L",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "brasshoops-helix-L-helix_loop",
+          "from": [
+            -0.1102,
+            -0.5981,
+            -0.3661
+          ],
+          "to": [
+            0.09,
+            0.1026,
+            0.3346
+          ],
+          "rotationOrigin": [
+            -0.0101,
+            -0.2478,
+            -0.0158
+          ],
+          "rotationX": -150.8917,
+          "rotationY": 89.9988,
+          "rotationZ": 150.8927,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "brasshoops-lobe-R",
+      "stepParentName": "aoa-lobe-R",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "brasshoops-lobe-R-lobe_loop",
+          "from": [
+            -0.0361,
+            -0.8051,
+            -0.4176
+          ],
+          "to": [
+            0.1039,
+            0.211,
+            0.5985
+          ],
+          "rotationOrigin": [
+            0.0339,
+            -0.2971,
+            0.0904
+          ],
+          "rotationX": 150.8917,
+          "rotationY": -89.9988,
+          "rotationZ": 150.8927,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "brasshoops-conch-R",
+      "stepParentName": "aoa-conch-R",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "brasshoops-conch-R-conch_loop",
+          "from": [
+            -0.1057,
+            -0.5407,
+            -0.3122
+          ],
+          "to": [
+            0.0945,
+            0.16,
+            0.3885
+          ],
+          "rotationOrigin": [
+            -0.0056,
+            -0.1904,
+            0.0382
+          ],
+          "rotationX": 150.8917,
+          "rotationY": -89.9988,
+          "rotationZ": 150.8927,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "brasshoops-helix-R",
+      "stepParentName": "aoa-helix-R",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "brasshoops-helix-R-helix_loop",
+          "from": [
+            -0.1102,
+            -0.5981,
+            -0.3346
+          ],
+          "to": [
+            0.09,
+            0.1026,
+            0.3661
+          ],
+          "rotationOrigin": [
+            -0.0101,
+            -0.2478,
+            0.0158
+          ],
+          "rotationX": 150.8917,
+          "rotationY": -89.9988,
+          "rotationZ": 150.8927,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "code": "boneinsert",
+  "attributes": {
+    "displaycaseable": true,
+    "shelvable": true
+  },
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "items": [
+      "*"
+    ]
+  },
+  "maxstacksize": 32,
+  "materialDensity": 300,
+  "shape": {
+    "base": "boneinsert"
+  },
+  "textures": {
+    "bone": {
+      "base": "item/boneinsert"
+    }
+  },
+  "guiTransform": {
+    "rotation": {
+      "x": 0,
+      "y": -45,
+      "z": -30
+    },
+    "origin": {
+      "x": 0.5,
+      "y": 0.45,
+      "z": 0.5
+    },
+    "scale": 2.6
+  },
+  "tpHandTransform": {
+    "translation": {
+      "x": -0.9,
+      "y": -0.9,
+      "z": -0.6
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": -70
+    },
+    "scale": 0.7
+  },
+  "groundTransform": {
+    "rotation": {
+      "x": 90,
+      "y": 0,
+      "z": 0
+    },
+    "origin": {
+      "x": 0.5,
+      "y": 0.45,
+      "z": 0.5
+    },
+    "scale": 3
+  }
+}

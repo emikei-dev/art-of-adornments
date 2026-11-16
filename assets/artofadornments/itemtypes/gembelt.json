@@ -1,0 +1,330 @@
+{
+  "code": "clothes",
+  "variantgroups": [
+    {
+      "code": "category",
+      "states": [
+        "waist"
+      ]
+    },
+    {
+      "code": "waist",
+      "combine": "SelectiveMultiply",
+      "onVariant": "category",
+      "states": [
+        "gembelt"
+      ]
+    },
+    {
+      "code": "style",
+      "states": [
+        "silveramethyst",
+        "goldamethyst",
+        "silverlapis",
+        "goldlapis",
+        "silverolivine",
+        "goldolivine",
+        "silversylvite",
+        "goldsylvite",
+        "silvergraphite",
+        "goldgraphite",
+        "silvermixed",
+        "goldmixed"
+      ]
+    }
+  ],
+  "storageFlags": 128,
+  "maxstacksize": 1,
+  "texturesByType": {
+    "*-silveramethyst": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-gembelt-metal": {
+        "base": "game:block/metal/plate/steel"
+      },
+      "aoa-gembelt-gem1": {
+        "base": "game:item/resource/ungraded/amethyst"
+      },
+      "aoa-gembelt-gem2": {
+        "base": "game:item/resource/ungraded/amethyst"
+      },
+      "aoa-gembelt-gem3": {
+        "base": "game:item/resource/ungraded/amethyst"
+      },
+      "aoa-gembelt-gem4": {
+        "base": "game:item/resource/ungraded/amethyst"
+      }
+    },
+    "*-goldamethyst": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-gembelt-metal": {
+        "base": "game:block/metal/plate/brass"
+      },
+      "aoa-gembelt-gem1": {
+        "base": "game:item/resource/ungraded/amethyst"
+      },
+      "aoa-gembelt-gem2": {
+        "base": "game:item/resource/ungraded/amethyst"
+      },
+      "aoa-gembelt-gem3": {
+        "base": "game:item/resource/ungraded/amethyst"
+      },
+      "aoa-gembelt-gem4": {
+        "base": "game:item/resource/ungraded/amethyst"
+      }
+    },
+    "*-silverlapis": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-gembelt-metal": {
+        "base": "game:block/metal/plate/steel"
+      },
+      "aoa-gembelt-gem1": {
+        "base": "game:item/resource/ungraded/lapislazuli"
+      },
+      "aoa-gembelt-gem2": {
+        "base": "game:item/resource/ungraded/lapislazuli"
+      },
+      "aoa-gembelt-gem3": {
+        "base": "game:item/resource/ungraded/lapislazuli"
+      },
+      "aoa-gembelt-gem4": {
+        "base": "game:item/resource/ungraded/lapislazuli"
+      }
+    },
+    "*-goldlapis": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-gembelt-metal": {
+        "base": "game:block/metal/plate/brass"
+      },
+      "aoa-gembelt-gem1": {
+        "base": "game:item/resource/ungraded/lapislazuli"
+      },
+      "aoa-gembelt-gem2": {
+        "base": "game:item/resource/ungraded/lapislazuli"
+      },
+      "aoa-gembelt-gem3": {
+        "base": "game:item/resource/ungraded/lapislazuli"
+      },
+      "aoa-gembelt-gem4": {
+        "base": "game:item/resource/ungraded/lapislazuli"
+      }
+    },
+    "*-silverolivine": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-gembelt-metal": {
+        "base": "game:block/metal/plate/steel"
+      },
+      "aoa-gembelt-gem1": {
+        "base": "game:item/resource/ungraded/olivine"
+      },
+      "aoa-gembelt-gem2": {
+        "base": "game:item/resource/ungraded/olivine"
+      },
+      "aoa-gembelt-gem3": {
+        "base": "game:item/resource/ungraded/olivine"
+      },
+      "aoa-gembelt-gem4": {
+        "base": "game:item/resource/ungraded/olivine"
+      }
+    },
+    "*-goldolivine": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-gembelt-metal": {
+        "base": "game:block/metal/plate/brass"
+      },
+      "aoa-gembelt-gem1": {
+        "base": "game:item/resource/ungraded/olivine"
+      },
+      "aoa-gembelt-gem2": {
+        "base": "game:item/resource/ungraded/olivine"
+      },
+      "aoa-gembelt-gem3": {
+        "base": "game:item/resource/ungraded/olivine"
+      },
+      "aoa-gembelt-gem4": {
+        "base": "game:item/resource/ungraded/olivine"
+      }
+    },
+    "*-silversylvite": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-gembelt-metal": {
+        "base": "game:block/metal/plate/steel"
+      },
+      "aoa-gembelt-gem1": {
+        "base": "game:item/resource/ungraded/sylvite"
+      },
+      "aoa-gembelt-gem2": {
+        "base": "game:item/resource/ungraded/sylvite"
+      },
+      "aoa-gembelt-gem3": {
+        "base": "game:item/resource/ungraded/sylvite"
+      },
+      "aoa-gembelt-gem4": {
+        "base": "game:item/resource/ungraded/sylvite"
+      }
+    },
+    "*-goldsylvite": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-gembelt-metal": {
+        "base": "game:block/metal/plate/brass"
+      },
+      "aoa-gembelt-gem1": {
+        "base": "game:item/resource/ungraded/sylvite"
+      },
+      "aoa-gembelt-gem2": {
+        "base": "game:item/resource/ungraded/sylvite"
+      },
+      "aoa-gembelt-gem3": {
+        "base": "game:item/resource/ungraded/sylvite"
+      },
+      "aoa-gembelt-gem4": {
+        "base": "game:item/resource/ungraded/sylvite"
+      }
+    },
+    "*-silvergraphite": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-gembelt-metal": {
+        "base": "game:block/metal/plate/steel"
+      },
+      "aoa-gembelt-gem1": {
+        "base": "game:item/resource/ungraded/graphite"
+      },
+      "aoa-gembelt-gem2": {
+        "base": "game:item/resource/ungraded/graphite"
+      },
+      "aoa-gembelt-gem3": {
+        "base": "game:item/resource/ungraded/graphite"
+      },
+      "aoa-gembelt-gem4": {
+        "base": "game:item/resource/ungraded/graphite"
+      }
+    },
+    "*-goldgraphite": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-gembelt-metal": {
+        "base": "game:block/metal/plate/brass"
+      },
+      "aoa-gembelt-gem1": {
+        "base": "game:item/resource/ungraded/graphite"
+      },
+      "aoa-gembelt-gem2": {
+        "base": "game:item/resource/ungraded/graphite"
+      },
+      "aoa-gembelt-gem3": {
+        "base": "game:item/resource/ungraded/graphite"
+      },
+      "aoa-gembelt-gem4": {
+        "base": "game:item/resource/ungraded/graphite"
+      }
+    },
+    "*-silvermixed": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-gembelt-metal": {
+        "base": "game:block/metal/plate/steel"
+      },
+      "aoa-gembelt-gem1": {
+        "base": "game:item/resource/ungraded/graphite"
+      },
+      "aoa-gembelt-gem2": {
+        "base": "game:item/resource/ungraded/lapislazuli"
+      },
+      "aoa-gembelt-gem3": {
+        "base": "game:item/resource/ungraded/olivine"
+      },
+      "aoa-gembelt-gem4": {
+        "base": "game:item/resource/ungraded/sylvite"
+      }
+    },
+    "*-goldmixed": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-gembelt-metal": {
+        "base": "game:block/metal/plate/brass"
+      },
+      "aoa-gembelt-gem1": {
+        "base": "game:item/resource/ungraded/cinnabar"
+      },
+      "aoa-gembelt-gem2": {
+        "base": "game:item/resource/ungraded/rosyquartz"
+      },
+      "aoa-gembelt-gem3": {
+        "base": "game:item/resource/ungraded/amethyst"
+      },
+      "aoa-gembelt-gem4": {
+        "base": "game:item/resource/ungraded/cinnabar"
+      }
+    }
+  },
+  "behaviors": [
+    {
+      "name": "Wearable"
+    }
+  ],
+  "attributes": {
+    "clothescategory": "waist",
+    "wearableAttachment": true,
+    "wearableTexturePrefixCode": null,
+    "displaycaseable": true
+  },
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "items": [
+      "*"
+    ],
+    "clothing": [
+      "*"
+    ]
+  },
+  "renderAlphaTest": 0.1,
+  "guiTransform": {
+    "rotate": false,
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": -180,
+      "y": -30,
+      "z": 0
+    },
+    "origin": {
+      "x": 0.51,
+      "y": 0.7,
+      "z": 0.5
+    },
+    "scale": 2.6
+  },
+  "shapeByType": {
+    "*-silvermixed": {
+      "base": "jewelry/gembelt-mixed4"
+    },
+    "*": {
+      "base": "jewelry/gembelt"
+    }
+  }
+}

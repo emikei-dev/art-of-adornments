@@ -1,0 +1,1447 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "feralearrings-feather": [
+      32,
+      32
+    ],
+    "feralearrings-bone": [
+      32,
+      32
+    ],
+    "feralearrings-chain": [
+      128,
+      85
+    ]
+  },
+  "textures": {
+    "feralearrings-feather": "game:item/tool/feather",
+    "feralearrings-bone": "game:block/creature/bone/bone2",
+    "feralearrings-chain": "metal/chains"
+  },
+  "elements": [
+    {
+      "name": "feral-lobe-L",
+      "stepParentName": "aoa-lobe-L",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "feral-lobe-L-Cube2",
+          "from": [
+            -0.1683,
+            -1.0055,
+            -0.058
+          ],
+          "to": [
+            0.1299,
+            -0.7073,
+            0.2402
+          ],
+          "rotationOrigin": [
+            -0.0192,
+            -0.8564,
+            0.0911
+          ],
+          "rotationX": 179.9994,
+          "rotationY": 12.4988,
+          "rotationZ": -168.5008,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                9.6,
+                11.2069,
+                12.8,
+                14.569
+              ]
+            },
+            "east": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                9.6,
+                10.0862,
+                12.8,
+                13.4483
+              ]
+            },
+            "south": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                24.5333,
+                14.569,
+                27.7333,
+                17.931
+              ]
+            },
+            "west": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                6.4,
+                14.569,
+                9.6,
+                17.931
+              ]
+            },
+            "up": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                10.6667,
+                10.0862,
+                13.8667,
+                13.4483
+              ]
+            },
+            "down": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                12.8,
+                10.0862,
+                16.0,
+                13.4483
+              ]
+            }
+          }
+        },
+        {
+          "name": "feral-lobe-L-Cube3",
+          "from": [
+            -0.3195,
+            -0.8796,
+            -0.131
+          ],
+          "to": [
+            -0.0213,
+            -0.5814,
+            0.2666
+          ],
+          "rotationOrigin": [
+            -0.1704,
+            -0.7305,
+            0.0678
+          ],
+          "rotationX": 179.9994,
+          "rotationY": 12.4988,
+          "rotationZ": 174.4992,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                28.8,
+                2.2414,
+                32.0,
+                5.6034
+              ]
+            },
+            "east": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                18.1333,
+                13.4483,
+                22.4,
+                16.8103
+              ]
+            },
+            "south": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                18.1333,
+                26.8966,
+                21.3333,
+                30.2586
+              ]
+            },
+            "west": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                7.4667,
+                16.8103,
+                11.7333,
+                20.1724
+              ]
+            },
+            "up": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                20.2667,
+                12.3276,
+                23.4667,
+                16.8103
+              ]
+            },
+            "down": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                12.8,
+                7.8448,
+                16.0,
+                12.3276
+              ]
+            }
+          }
+        },
+        {
+          "name": "feral-lobe-L-Cube4",
+          "from": [
+            -0.2074,
+            -2.1182,
+            -0.0776
+          ],
+          "to": [
+            -0.0086,
+            -1.9194,
+            0.2206
+          ],
+          "rotationOrigin": [
+            -0.108,
+            -2.0188,
+            0.0715
+          ],
+          "rotationX": 179.9994,
+          "rotationY": 12.4988,
+          "rotationZ": 160.4992,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                23.4667,
+                5.6034,
+                25.6,
+                7.8448
+              ]
+            },
+            "east": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                9.6,
+                5.6034,
+                12.8,
+                7.8448
+              ]
+            },
+            "south": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                12.8,
+                25.7759,
+                14.9333,
+                28.0172
+              ]
+            },
+            "west": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                9.6,
+                11.2069,
+                12.8,
+                13.4483
+              ]
+            },
+            "up": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                14.9333,
+                17.931,
+                17.0667,
+                21.2931
+              ]
+            },
+            "down": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                13.8667,
+                16.8103,
+                16.0,
+                20.1724
+              ]
+            }
+          }
+        },
+        {
+          "name": "feral-lobe-L-Cube5",
+          "from": [
+            -0.3238,
+            -2.077,
+            -0.0831
+          ],
+          "to": [
+            -0.125,
+            -1.8782,
+            0.2151
+          ],
+          "rotationOrigin": [
+            -0.2244,
+            -1.9776,
+            0.066
+          ],
+          "rotationX": 179.9994,
+          "rotationY": 12.4988,
+          "rotationZ": -171.5008,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                26.6667,
+                24.6552,
+                28.8,
+                26.8966
+              ]
+            },
+            "east": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                18.1333,
+                16.8103,
+                21.3333,
+                19.0517
+              ]
+            },
+            "south": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                9.6,
+                30.2586,
+                11.7333,
+                32.5
+              ]
+            },
+            "west": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                19.2,
+                15.6897,
+                22.4,
+                17.931
+              ]
+            },
+            "up": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                22.4,
+                14.569,
+                24.5333,
+                17.931
+              ]
+            },
+            "down": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                11.7333,
+                1.1207,
+                13.8667,
+                4.4828
+              ]
+            }
+          }
+        },
+        {
+          "name": "feral-lobe-L-Cube1_geo",
+          "from": [
+            -0.2387,
+            -1.9709,
+            -0.0247
+          ],
+          "to": [
+            -0.0399,
+            -0.7781,
+            0.1741
+          ],
+          "rotationOrigin": [
+            -0.1393,
+            -1.3745,
+            0.0747
+          ],
+          "rotationX": 179.9994,
+          "rotationY": 12.4988,
+          "rotationZ": -176.5008,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                5.3333,
+                14.569,
+                7.4667,
+                28.0172
+              ]
+            },
+            "east": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                8.5333,
+                5.6034,
+                10.6667,
+                19.0517
+              ]
+            },
+            "south": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                8.5333,
+                4.4828,
+                10.6667,
+                17.931
+              ]
+            },
+            "west": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                21.3333,
+                17.931,
+                23.4667,
+                31.3793
+              ]
+            },
+            "up": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                0.0,
+                0.0,
+                2.1333,
+                2.2414
+              ]
+            },
+            "down": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                0.0,
+                0.0,
+                2.1333,
+                2.2414
+              ]
+            }
+          }
+        },
+        {
+          "name": "feral-lobe-L-lobe_chain",
+          "from": [
+            -0.0712,
+            -0.645,
+            -0.0746
+          ],
+          "to": [
+            0.0708,
+            0.065,
+            0.0674
+          ],
+          "rotationOrigin": [
+            -0.0002,
+            -0.29,
+            -0.0036
+          ],
+          "rotationX": 179.9994,
+          "rotationY": 12.4988,
+          "rotationZ": 179.9992,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                92.9,
+                57.5,
+                99.0,
+                78.0
+              ]
+            },
+            "east": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                92.9,
+                62.5,
+                99.0,
+                83.0
+              ]
+            },
+            "south": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                92.9,
+                57.5,
+                99.0,
+                78.0
+              ]
+            },
+            "west": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                92.9,
+                62.5,
+                99.0,
+                83.0
+              ]
+            },
+            "up": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                92.9,
+                57.5,
+                99.0,
+                78.0
+              ]
+            },
+            "down": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                92.9,
+                57.5,
+                99.0,
+                78.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "feral-lobe-L-feather",
+          "from": [
+            -0.5347,
+            -2.5264,
+            -0.176
+          ],
+          "to": [
+            0.8853,
+            -0.3964,
+            -0.176
+          ],
+          "rotationOrigin": [
+            0.1753,
+            -1.4614,
+            -0.176
+          ],
+          "rotationX": -171.8091,
+          "rotationY": 12.3751,
+          "rotationZ": 168.7321,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-feather",
+              "uv": [
+                12.0,
+                32.0,
+                19.0,
+                20.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "feral-conch-L",
+      "stepParentName": "aoa-conch-L",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "feral-conch-L-conch_loop",
+          "from": [
+            -0.0755,
+            -0.3863,
+            -0.2775
+          ],
+          "to": [
+            0.0675,
+            0.1142,
+            0.223
+          ],
+          "rotationOrigin": [
+            -0.004,
+            -0.136,
+            -0.0272
+          ],
+          "rotationX": -147.1183,
+          "rotationY": 89.9986,
+          "rotationZ": 147.1175,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "feral-helix-L",
+      "stepParentName": "aoa-helix-L",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "feral-helix-L-helix_loop",
+          "from": [
+            -0.0787,
+            -0.4273,
+            -0.2615
+          ],
+          "to": [
+            0.0643,
+            0.0732,
+            0.239
+          ],
+          "rotationOrigin": [
+            -0.0072,
+            -0.177,
+            -0.0112
+          ],
+          "rotationX": -147.1183,
+          "rotationY": 89.9986,
+          "rotationZ": 147.1175,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "feral-lobe-R",
+      "stepParentName": "aoa-lobe-R",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "feral-lobe-R-Cube2",
+          "from": [
+            -0.1683,
+            -1.0055,
+            -0.2402
+          ],
+          "to": [
+            0.1299,
+            -0.7073,
+            0.058
+          ],
+          "rotationOrigin": [
+            -0.0192,
+            -0.8564,
+            -0.0911
+          ],
+          "rotationX": -179.9994,
+          "rotationY": -12.4988,
+          "rotationZ": -168.5008,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                9.6,
+                11.2069,
+                12.8,
+                14.569
+              ]
+            },
+            "east": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                9.6,
+                10.0862,
+                12.8,
+                13.4483
+              ]
+            },
+            "south": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                24.5333,
+                14.569,
+                27.7333,
+                17.931
+              ]
+            },
+            "west": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                6.4,
+                14.569,
+                9.6,
+                17.931
+              ]
+            },
+            "up": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                10.6667,
+                10.0862,
+                13.8667,
+                13.4483
+              ]
+            },
+            "down": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                12.8,
+                10.0862,
+                16.0,
+                13.4483
+              ]
+            }
+          }
+        },
+        {
+          "name": "feral-lobe-R-Cube3",
+          "from": [
+            -0.3195,
+            -0.8796,
+            -0.2666
+          ],
+          "to": [
+            -0.0213,
+            -0.5814,
+            0.131
+          ],
+          "rotationOrigin": [
+            -0.1704,
+            -0.7305,
+            -0.0678
+          ],
+          "rotationX": -179.9994,
+          "rotationY": -12.4988,
+          "rotationZ": 174.4992,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                28.8,
+                2.2414,
+                32.0,
+                5.6034
+              ]
+            },
+            "east": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                18.1333,
+                13.4483,
+                22.4,
+                16.8103
+              ]
+            },
+            "south": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                18.1333,
+                26.8966,
+                21.3333,
+                30.2586
+              ]
+            },
+            "west": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                7.4667,
+                16.8103,
+                11.7333,
+                20.1724
+              ]
+            },
+            "up": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                20.2667,
+                12.3276,
+                23.4667,
+                16.8103
+              ]
+            },
+            "down": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                12.8,
+                7.8448,
+                16.0,
+                12.3276
+              ]
+            }
+          }
+        },
+        {
+          "name": "feral-lobe-R-Cube4",
+          "from": [
+            -0.2074,
+            -2.1182,
+            -0.2206
+          ],
+          "to": [
+            -0.0086,
+            -1.9194,
+            0.0776
+          ],
+          "rotationOrigin": [
+            -0.108,
+            -2.0188,
+            -0.0715
+          ],
+          "rotationX": -179.9994,
+          "rotationY": -12.4988,
+          "rotationZ": 160.4992,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                23.4667,
+                5.6034,
+                25.6,
+                7.8448
+              ]
+            },
+            "east": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                9.6,
+                5.6034,
+                12.8,
+                7.8448
+              ]
+            },
+            "south": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                12.8,
+                25.7759,
+                14.9333,
+                28.0172
+              ]
+            },
+            "west": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                9.6,
+                11.2069,
+                12.8,
+                13.4483
+              ]
+            },
+            "up": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                14.9333,
+                17.931,
+                17.0667,
+                21.2931
+              ]
+            },
+            "down": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                13.8667,
+                16.8103,
+                16.0,
+                20.1724
+              ]
+            }
+          }
+        },
+        {
+          "name": "feral-lobe-R-Cube5",
+          "from": [
+            -0.3238,
+            -2.077,
+            -0.2151
+          ],
+          "to": [
+            -0.125,
+            -1.8782,
+            0.0831
+          ],
+          "rotationOrigin": [
+            -0.2244,
+            -1.9776,
+            -0.066
+          ],
+          "rotationX": -179.9994,
+          "rotationY": -12.4988,
+          "rotationZ": -171.5008,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                26.6667,
+                24.6552,
+                28.8,
+                26.8966
+              ]
+            },
+            "east": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                18.1333,
+                16.8103,
+                21.3333,
+                19.0517
+              ]
+            },
+            "south": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                9.6,
+                30.2586,
+                11.7333,
+                32.5
+              ]
+            },
+            "west": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                19.2,
+                15.6897,
+                22.4,
+                17.931
+              ]
+            },
+            "up": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                22.4,
+                14.569,
+                24.5333,
+                17.931
+              ]
+            },
+            "down": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                11.7333,
+                1.1207,
+                13.8667,
+                4.4828
+              ]
+            }
+          }
+        },
+        {
+          "name": "feral-lobe-R-Cube1_geo",
+          "from": [
+            -0.2387,
+            -1.9709,
+            -0.1741
+          ],
+          "to": [
+            -0.0399,
+            -0.7781,
+            0.0247
+          ],
+          "rotationOrigin": [
+            -0.1393,
+            -1.3745,
+            -0.0747
+          ],
+          "rotationX": -179.9994,
+          "rotationY": -12.4988,
+          "rotationZ": -176.5008,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                5.3333,
+                14.569,
+                7.4667,
+                28.0172
+              ]
+            },
+            "east": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                8.5333,
+                5.6034,
+                10.6667,
+                19.0517
+              ]
+            },
+            "south": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                8.5333,
+                4.4828,
+                10.6667,
+                17.931
+              ]
+            },
+            "west": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                21.3333,
+                17.931,
+                23.4667,
+                31.3793
+              ]
+            },
+            "up": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                0.0,
+                0.0,
+                2.1333,
+                2.2414
+              ]
+            },
+            "down": {
+              "texture": "#feralearrings-bone",
+              "uv": [
+                0.0,
+                0.0,
+                2.1333,
+                2.2414
+              ]
+            }
+          }
+        },
+        {
+          "name": "feral-lobe-R-lobe_chain",
+          "from": [
+            -0.0712,
+            -0.645,
+            -0.0674
+          ],
+          "to": [
+            0.0708,
+            0.065,
+            0.0746
+          ],
+          "rotationOrigin": [
+            -0.0002,
+            -0.29,
+            0.0036
+          ],
+          "rotationX": -179.9994,
+          "rotationY": -12.4988,
+          "rotationZ": 179.9992,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                92.9,
+                57.5,
+                99.0,
+                78.0
+              ]
+            },
+            "east": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                92.9,
+                62.5,
+                99.0,
+                83.0
+              ]
+            },
+            "south": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                92.9,
+                57.5,
+                99.0,
+                78.0
+              ]
+            },
+            "west": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                92.9,
+                62.5,
+                99.0,
+                83.0
+              ]
+            },
+            "up": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                92.9,
+                57.5,
+                99.0,
+                78.0
+              ]
+            },
+            "down": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                92.9,
+                57.5,
+                99.0,
+                78.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "feral-lobe-R-feather",
+          "from": [
+            -0.5347,
+            -2.5264,
+            0.176
+          ],
+          "to": [
+            0.8853,
+            -0.3964,
+            0.176
+          ],
+          "rotationOrigin": [
+            0.1753,
+            -1.4614,
+            0.176
+          ],
+          "rotationX": 171.8091,
+          "rotationY": -12.3751,
+          "rotationZ": 168.7321,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-feather",
+              "uv": [
+                12.0,
+                32.0,
+                19.0,
+                20.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "feral-conch-R",
+      "stepParentName": "aoa-conch-R",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "feral-conch-R-conch_loop",
+          "from": [
+            -0.0755,
+            -0.3863,
+            -0.223
+          ],
+          "to": [
+            0.0675,
+            0.1142,
+            0.2775
+          ],
+          "rotationOrigin": [
+            -0.004,
+            -0.136,
+            0.0272
+          ],
+          "rotationX": 147.1183,
+          "rotationY": -89.9986,
+          "rotationZ": 147.1175,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "feral-helix-R",
+      "stepParentName": "aoa-helix-R",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "feral-helix-R-helix_loop",
+          "from": [
+            -0.0787,
+            -0.4273,
+            -0.239
+          ],
+          "to": [
+            0.0643,
+            0.0732,
+            0.2615
+          ],
+          "rotationOrigin": [
+            -0.0072,
+            -0.177,
+            0.0112
+          ],
+          "rotationX": 147.1183,
+          "rotationY": -89.9986,
+          "rotationZ": 147.1175,
+          "faces": {
+            "north": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#feralearrings-chain",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

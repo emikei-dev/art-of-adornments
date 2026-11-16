@@ -1,0 +1,678 @@
+[
+  {
+    "ingredientPattern": "LLL,_K_",
+    "width": 3,
+    "height": 2,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-*",
+        "quantity": 1,
+        "name": "color",
+        "allowedVariants": [
+          "plain",
+          "white",
+          "black",
+          "brown"
+        ]
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbody-barkeepersblouse-{color}",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LLL,LK_",
+    "width": 3,
+    "height": 2,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-*",
+        "quantity": 1,
+        "name": "color",
+        "allowedVariants": [
+          "plain",
+          "white",
+          "black",
+          "brown"
+        ]
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbody-laceblouse-{color}",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "SSS,LBL,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-black",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "tailorsdelight:buttons-gold",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      },
+      "S": {
+        "type": "item",
+        "code": "artofadornments:sheercloth-black",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-shoulder-bolero-black",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "SSS,LBL,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-white",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "tailorsdelight:buttons-silver",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      },
+      "S": {
+        "type": "item",
+        "code": "artofadornments:sheercloth-white",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-shoulder-bolero-white",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "SSS,LBL,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-plain",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "tailorsdelight:buttons-silver",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      },
+      "S": {
+        "type": "item",
+        "code": "artofadornments:sheercloth-plain",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-shoulder-bolero-plain",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CCC,TLT,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "game:cloth-blue",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-black",
+        "quantity": 1
+      },
+      "L": {
+        "type": "item",
+        "code": "tailorsdelight:leatherstrips-plain",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbody-plaidshirt-navy",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CCC,TLT,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "game:cloth-black",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-black",
+        "quantity": 1
+      },
+      "L": {
+        "type": "item",
+        "code": "tailorsdelight:leatherstrips-plain",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbody-plaidshirt-black",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CCC,TLT,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "game:cloth-brown",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-black",
+        "quantity": 1
+      },
+      "L": {
+        "type": "item",
+        "code": "tailorsdelight:leatherstrips-plain",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbody-plaidshirt-brown",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CCC,TLT,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "game:cloth-red",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-black",
+        "quantity": 1
+      },
+      "L": {
+        "type": "item",
+        "code": "tailorsdelight:leatherstrips-plain",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbody-plaidshirt-red",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "ABC,DMK",
+    "width": 3,
+    "height": 2,
+    "ingredients": {
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-tinbronze",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      },
+      "A": {
+        "type": "block",
+        "code": "tailorsdelight:panel-cloth-small-none-white",
+        "quantity": 1
+      },
+      "B": {
+        "type": "block",
+        "code": "tailorsdelight:panel-cloth-small-none-red",
+        "quantity": 1
+      },
+      "C": {
+        "type": "block",
+        "code": "tailorsdelight:panel-cloth-small-none-blue",
+        "quantity": 1
+      },
+      "D": {
+        "type": "block",
+        "code": "tailorsdelight:panel-cloth-small-none-orange",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-neck-jestercollar-harlequin",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "ABC,DMK",
+    "width": 3,
+    "height": 2,
+    "ingredients": {
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-tinbronze",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      },
+      "A": {
+        "type": "block",
+        "code": "tailorsdelight:panel-cloth-small-none-white",
+        "quantity": 1
+      },
+      "B": {
+        "type": "block",
+        "code": "tailorsdelight:panel-cloth-small-none-purple",
+        "quantity": 1
+      },
+      "C": {
+        "type": "block",
+        "code": "tailorsdelight:panel-cloth-small-none-pink",
+        "quantity": 1
+      },
+      "D": {
+        "type": "block",
+        "code": "tailorsdelight:panel-cloth-small-none-green",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-neck-jestercollar-folly",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "ABC,DMK",
+    "width": 3,
+    "height": 2,
+    "ingredients": {
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-tinbronze",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      },
+      "A": {
+        "type": "block",
+        "code": "tailorsdelight:panel-cloth-small-none-white",
+        "quantity": 1
+      },
+      "B": {
+        "type": "block",
+        "code": "tailorsdelight:panel-cloth-small-none-blue",
+        "quantity": 1
+      },
+      "C": {
+        "type": "block",
+        "code": "tailorsdelight:panel-cloth-small-none-brown",
+        "quantity": 1
+      },
+      "D": {
+        "type": "block",
+        "code": "tailorsdelight:panel-cloth-small-none-green",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-neck-jestercollar-mummer",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "SS_,MK_",
+    "width": 3,
+    "height": 2,
+    "ingredients": {
+      "S": {
+        "type": "item",
+        "code": "artofadornments:sheercloth-plain",
+        "quantity": 2
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-gold",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-hand-regalsleeves-goldplain",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "SS_,MK_",
+    "width": 3,
+    "height": 2,
+    "ingredients": {
+      "S": {
+        "type": "item",
+        "code": "artofadornments:sheercloth-black",
+        "quantity": 2
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-gold",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-hand-regalsleeves-goldblack",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "SS_,MK_",
+    "width": 3,
+    "height": 2,
+    "ingredients": {
+      "S": {
+        "type": "item",
+        "code": "artofadornments:sheercloth-white",
+        "quantity": 2
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-silver",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-hand-regalsleeves-silverwhite",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "SS_,MK_",
+    "width": 3,
+    "height": 2,
+    "ingredients": {
+      "S": {
+        "type": "item",
+        "code": "artofadornments:sheercloth-black",
+        "quantity": 2
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-silver",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-hand-regalsleeves-silverblack",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CMC,CBC,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "game:cloth-red",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-gold",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbodyover-regalcorset-redsilver",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CMC,CBC,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "game:cloth-green",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-silver",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbodyover-regalcorset-greensilver",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CMC,CBC,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "game:cloth-blue",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-silver",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbodyover-regalcorset-bluesilver",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CMC,CBC,_K_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "game:cloth-purple",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-silver",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbodyover-regalcorset-purplesilver",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "MMM,GKG",
+    "width": 3,
+    "height": 2,
+    "ingredients": {
+      "M": {
+        "type": "item",
+        "code": "artofadornments:mesh-chain",
+        "quantity": 1
+      },
+      "G": {
+        "type": "item",
+        "code": "game:ore-graphite",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-shoulder-chainmeshshawl-silver",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "MMM,GKG",
+    "width": 3,
+    "height": 2,
+    "ingredients": {
+      "M": {
+        "type": "item",
+        "code": "artofadornments:mesh-gold",
+        "quantity": 1
+      },
+      "G": {
+        "type": "item",
+        "code": "game:ore-graphite",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-shoulder-chainmeshshawl-gold",
+      "quantity": 1
+    }
+  }
+]

@@ -1,0 +1,109 @@
+{
+  "code": "clothes",
+  "variantgroups": [
+    {
+      "code": "category",
+      "states": [
+        "upperbody"
+      ]
+    },
+    {
+      "code": "upperbody",
+      "combine": "SelectiveMultiply",
+      "onVariant": "category",
+      "states": [
+        "plaidshirt"
+      ]
+    },
+    {
+      "code": "color",
+      "states": [
+        "navy",
+        "black",
+        "brown",
+        "red"
+      ]
+    }
+  ],
+  "storageFlags": 128,
+  "maxstacksize": 1,
+  "shape": {
+    "base": "garment/plaidshirt"
+  },
+  "texturesByType": {
+    "*-navy": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-plaidshirt-fabric": {
+        "base": "garment/plaid-shirt-navy"
+      }
+    },
+    "*-black": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-plaidshirt-fabric": {
+        "base": "garment/plaid-shirt-black"
+      }
+    },
+    "*-brown": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-plaidshirt-fabric": {
+        "base": "garment/plaid-shirt-brown"
+      }
+    },
+    "*-red": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-plaidshirt-fabric": {
+        "base": "garment/plaid-shirt-red"
+      }
+    }
+  },
+  "behaviors": [
+    {
+      "name": "Wearable"
+    }
+  ],
+  "attributes": {
+    "clothescategory": "upperbody",
+    "wearableAttachment": true,
+    "wearableTexturePrefixCode": null,
+    "displaycaseable": true
+  },
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "items": [
+      "*"
+    ],
+    "clothing": [
+      "*"
+    ]
+  },
+  "renderAlphaTest": 0.25,
+  "guiTransform": {
+    "rotate": false,
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": -180,
+      "y": -66,
+      "z": 5
+    },
+    "origin": {
+      "x": 0.53,
+      "y": 1.32,
+      "z": 0.5
+    },
+    "scale": 1.79
+  }
+}

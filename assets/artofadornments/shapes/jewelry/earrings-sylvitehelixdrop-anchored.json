@@ -1,0 +1,1229 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "earring-metal": [
+      128,
+      85
+    ],
+    "earring-parts": [
+      16,
+      16
+    ],
+    "earring-gem": [
+      32,
+      32
+    ]
+  },
+  "textures": {
+    "earring-metal": "metal/chains",
+    "earring-parts": "garment/earring-parts",
+    "earring-gem": "game:item/resource/ungraded/sylvite"
+  },
+  "elements": [
+    {
+      "name": "sylvitehelixdrop-lobe-L",
+      "stepParentName": "aoa-lobe-L",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "sylvitehelixdrop-lobe-L-lobe_loop",
+          "from": [
+            -0.0361,
+            -0.8051,
+            -0.5985
+          ],
+          "to": [
+            0.1039,
+            0.211,
+            0.4176
+          ],
+          "rotationOrigin": [
+            0.0339,
+            -0.2971,
+            -0.0904
+          ],
+          "rotationX": -150.8917,
+          "rotationY": 89.9988,
+          "rotationZ": 150.8927,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "sylvitehelixdrop-conch-L",
+      "stepParentName": "aoa-conch-L",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "sylvitehelixdrop-conch-L-conch_loop",
+          "from": [
+            -0.1057,
+            -0.5407,
+            -0.3885
+          ],
+          "to": [
+            0.0945,
+            0.16,
+            0.3122
+          ],
+          "rotationOrigin": [
+            -0.0056,
+            -0.1904,
+            -0.0382
+          ],
+          "rotationX": -150.8917,
+          "rotationY": 89.9988,
+          "rotationZ": 150.8927,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "sylvitehelixdrop-helix-L",
+      "stepParentName": "aoa-helix-L",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "sylvitehelixdrop-helix-L-hook_R",
+          "from": [
+            -0.126,
+            -0.56,
+            -0.049
+          ],
+          "to": [
+            0.042,
+            0.14,
+            0.119
+          ],
+          "rotationOrigin": [
+            -0.042,
+            -0.21,
+            0.035
+          ],
+          "rotationX": -179.999,
+          "rotationY": -0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "sylvitehelixdrop-helix-L-link_R",
+          "from": [
+            -0.098,
+            -0.91,
+            -0.021
+          ],
+          "to": [
+            0.014,
+            -0.56,
+            0.091
+          ],
+          "rotationOrigin": [
+            -0.042,
+            -0.735,
+            0.035
+          ],
+          "rotationX": -179.999,
+          "rotationY": -0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "sylvitehelixdrop-helix-L-cap_R",
+          "from": [
+            -0.196,
+            -1.05,
+            -0.035
+          ],
+          "to": [
+            0.112,
+            -0.91,
+            0.105
+          ],
+          "rotationOrigin": [
+            -0.042,
+            -0.98,
+            0.035
+          ],
+          "rotationX": -179.999,
+          "rotationY": -0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "sylvitehelixdrop-helix-L-drop_R",
+          "from": [
+            -0.294,
+            -1.75,
+            -0.049
+          ],
+          "to": [
+            0.21,
+            -1.05,
+            0.119
+          ],
+          "rotationOrigin": [
+            -0.042,
+            -1.4,
+            0.035
+          ],
+          "rotationX": -179.999,
+          "rotationY": -0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                0.0,
+                9.0,
+                10.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                10.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                0.0,
+                9.0,
+                10.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                10.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                0.0,
+                6.0,
+                2.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                0.0,
+                6.0,
+                2.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "sylvitehelixdrop-helix-L-tip_R",
+          "from": [
+            -0.126,
+            -1.855,
+            -0.021
+          ],
+          "to": [
+            0.042,
+            -1.645,
+            0.091
+          ],
+          "rotationOrigin": [
+            -0.042,
+            -1.75,
+            0.035
+          ],
+          "rotationX": -179.999,
+          "rotationY": -0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "sylvitehelixdrop-lobe-R",
+      "stepParentName": "aoa-lobe-R",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "sylvitehelixdrop-lobe-R-lobe_loop",
+          "from": [
+            -0.0361,
+            -0.8051,
+            -0.4176
+          ],
+          "to": [
+            0.1039,
+            0.211,
+            0.5985
+          ],
+          "rotationOrigin": [
+            0.0339,
+            -0.2971,
+            0.0904
+          ],
+          "rotationX": 150.8917,
+          "rotationY": -89.9988,
+          "rotationZ": 150.8927,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "sylvitehelixdrop-conch-R",
+      "stepParentName": "aoa-conch-R",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "sylvitehelixdrop-conch-R-conch_loop",
+          "from": [
+            -0.1057,
+            -0.5407,
+            -0.3122
+          ],
+          "to": [
+            0.0945,
+            0.16,
+            0.3885
+          ],
+          "rotationOrigin": [
+            -0.0056,
+            -0.1904,
+            0.0382
+          ],
+          "rotationX": 150.8917,
+          "rotationY": -89.9988,
+          "rotationZ": 150.8927,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "sylvitehelixdrop-helix-R",
+      "stepParentName": "aoa-helix-R",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "sylvitehelixdrop-helix-R-hook_R",
+          "from": [
+            -0.126,
+            -0.56,
+            -0.119
+          ],
+          "to": [
+            0.042,
+            0.14,
+            0.049
+          ],
+          "rotationOrigin": [
+            -0.042,
+            -0.21,
+            -0.035
+          ],
+          "rotationX": 179.999,
+          "rotationY": 0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "sylvitehelixdrop-helix-R-link_R",
+          "from": [
+            -0.098,
+            -0.91,
+            -0.091
+          ],
+          "to": [
+            0.014,
+            -0.56,
+            0.021
+          ],
+          "rotationOrigin": [
+            -0.042,
+            -0.735,
+            -0.035
+          ],
+          "rotationX": 179.999,
+          "rotationY": 0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "sylvitehelixdrop-helix-R-cap_R",
+          "from": [
+            -0.196,
+            -1.05,
+            -0.105
+          ],
+          "to": [
+            0.112,
+            -0.91,
+            0.035
+          ],
+          "rotationOrigin": [
+            -0.042,
+            -0.98,
+            -0.035
+          ],
+          "rotationX": 179.999,
+          "rotationY": 0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "sylvitehelixdrop-helix-R-drop_R",
+          "from": [
+            -0.294,
+            -1.75,
+            -0.119
+          ],
+          "to": [
+            0.21,
+            -1.05,
+            0.049
+          ],
+          "rotationOrigin": [
+            -0.042,
+            -1.4,
+            -0.035
+          ],
+          "rotationX": 179.999,
+          "rotationY": 0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                0.0,
+                9.0,
+                10.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                10.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                0.0,
+                9.0,
+                10.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                10.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                0.0,
+                6.0,
+                2.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                0.0,
+                6.0,
+                2.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "sylvitehelixdrop-helix-R-tip_R",
+          "from": [
+            -0.126,
+            -1.855,
+            -0.091
+          ],
+          "to": [
+            0.042,
+            -1.645,
+            0.021
+          ],
+          "rotationOrigin": [
+            -0.042,
+            -1.75,
+            -0.035
+          ],
+          "rotationX": 179.999,
+          "rotationY": 0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

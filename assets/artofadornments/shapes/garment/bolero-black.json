@@ -1,0 +1,1693 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "aoa-bolero-fabric": [
+      128,
+      104
+    ],
+    "aoa-bolero-metal": [
+      32,
+      32
+    ]
+  },
+  "textures": {
+    "aoa-bolero-fabric": "fabric/lace/delicate-lace/black",
+    "aoa-bolero-metal": "game:block/metal/plate/gold"
+  },
+  "elements": [
+    {
+      "name": "bolero-black-1-attach",
+      "stepParentName": "UpperArmL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-1",
+          "from": [
+            -0.1407,
+            -0.2123,
+            -0.1883
+          ],
+          "to": [
+            3.1093,
+            7.0377,
+            2.0617
+          ],
+          "rotationOrigin": [
+            1.4843,
+            3.4127,
+            0.9367
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                53,
+                67,
+                62,
+                99
+              ]
+            },
+            "east": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                58.6667,
+                67,
+                53.3333,
+                99
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                61.3333,
+                67,
+                53.3333,
+                80.3333
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                58.6667,
+                67,
+                53.3333,
+                99
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                90.6667,
+                80.3333,
+                82.6667,
+                85.6667
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                90.6667,
+                80.3333,
+                82.6667,
+                85.6667
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-2-attach",
+      "stepParentName": "UpperArmR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-2",
+          "from": [
+            -0.1157,
+            -0.2373,
+            -0.1133
+          ],
+          "to": [
+            3.1343,
+            7.0127,
+            2.1367
+          ],
+          "rotationOrigin": [
+            1.5093,
+            3.3877,
+            1.0117
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                61.3333,
+                67,
+                53.3333,
+                84.3333
+              ]
+            },
+            "east": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                58.6667,
+                67,
+                53.3333,
+                84.3333
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                53,
+                67,
+                62,
+                84.3333
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                58.6667,
+                67,
+                53.3333,
+                84.3333
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                90.6667,
+                80.3333,
+                82.6667,
+                85.6667
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                90.6667,
+                80.3333,
+                82.6667,
+                85.6667
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-3-attach",
+      "stepParentName": "LowerArmL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-3",
+          "from": [
+            -0.1263,
+            1.0373,
+            -0.1121
+          ],
+          "to": [
+            2.6237,
+            8.0373,
+            2.1379
+          ],
+          "rotationOrigin": [
+            1.2487,
+            4.5373,
+            1.0129
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                92.3333,
+                37.3333,
+                98.5,
+                54.6667
+              ]
+            },
+            "east": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                98.5,
+                37.3333,
+                93.6667,
+                54.6667
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                92.3333,
+                37.3333,
+                98.5,
+                54.6667
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                98.5,
+                37.3333,
+                93.6667,
+                54.6667
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                90.6667,
+                80.3333,
+                82.6667,
+                85.6667
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                90.6667,
+                80.3333,
+                82.6667,
+                85.6667
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-4-attach",
+      "stepParentName": "LowerArmR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-4",
+          "from": [
+            -0.0513,
+            1.0373,
+            -0.1371
+          ],
+          "to": [
+            2.6987,
+            8.0373,
+            2.1129
+          ],
+          "rotationOrigin": [
+            1.3237,
+            4.5373,
+            0.9879
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                92.3333,
+                37.3333,
+                98.5,
+                54.6667
+              ]
+            },
+            "east": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                93.6667,
+                37.3333,
+                98.5,
+                54.6667
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                92.3333,
+                37.3333,
+                98.5,
+                54.6667
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                93.6667,
+                37.3333,
+                98.5,
+                54.6667
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                90.6667,
+                80.3333,
+                82.6667,
+                85.6667
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                90.6667,
+                80.3333,
+                82.6667,
+                85.6667
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-5-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-5",
+          "from": [
+            -0.05,
+            4.6931,
+            -0.1633
+          ],
+          "to": [
+            5.05,
+            5.1931,
+            6.3367
+          ],
+          "rotationOrigin": [
+            2.5,
+            4.9431,
+            3.0867
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                13.3333,
+                80,
+                29.3333,
+                81.3333
+              ]
+            },
+            "east": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                13.3333,
+                80,
+                30.6667,
+                81.3333
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                13.3333,
+                80,
+                29.3333,
+                81.3333
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                13.3333,
+                80,
+                30.6667,
+                81.3333
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                84,
+                82.6667,
+                100,
+                100
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                100,
+                98,
+                83,
+                86
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-6-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-6",
+          "from": [
+            -0.025,
+            1.6931,
+            -0.1633
+          ],
+          "to": [
+            -0.025,
+            4.6931,
+            3.0867
+          ],
+          "rotationOrigin": [
+            -0.025,
+            3.1931,
+            1.4617
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                78,
+                57,
+                88,
+                65
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                78,
+                57,
+                88,
+                65
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                106.6667,
+                56.3333,
+                114.6667,
+                64
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                78,
+                57,
+                88,
+                65
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                78,
+                57,
+                88,
+                65
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-7-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-7",
+          "from": [
+            -0.025,
+            1.6931,
+            3.0367
+          ],
+          "to": [
+            -0.025,
+            4.6931,
+            6.2867
+          ],
+          "rotationOrigin": [
+            -0.025,
+            3.1931,
+            4.6617
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                3,
+                29,
+                8,
+                34
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                29,
+                5,
+                34,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                114.6667,
+                56.3333,
+                106.6667,
+                64
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                26,
+                16,
+                21,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                26,
+                16,
+                21,
+                22
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-8-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-8",
+          "from": [
+            5.0,
+            1.7431,
+            -0.1633
+          ],
+          "to": [
+            5.0,
+            4.7431,
+            6.3367
+          ],
+          "rotationOrigin": [
+            5.0,
+            3.2431,
+            3.0867
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                3,
+                29,
+                8,
+                34
+              ]
+            },
+            "east": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                83.9333,
+                69.2667,
+                100,
+                76.6667
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                29,
+                5,
+                34,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                26,
+                16,
+                21,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                26,
+                16,
+                21,
+                22
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-9-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-9",
+          "from": [
+            0.0,
+            1.7431,
+            -0.0883
+          ],
+          "to": [
+            5.0,
+            4.7431,
+            -0.0883
+          ],
+          "rotationOrigin": [
+            2.5,
+            3.2431,
+            -0.0883
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                84,
+                70.6667,
+                97.3333,
+                78.6667
+              ]
+            },
+            "east": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                4,
+                19,
+                10,
+                24
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                10,
+                19,
+                16,
+                24
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                26,
+                16,
+                21,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                26,
+                16,
+                21,
+                22
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-10-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-10",
+          "from": [
+            0.0,
+            1.7431,
+            6.2617
+          ],
+          "to": [
+            5.0,
+            4.7431,
+            6.2617
+          ],
+          "rotationOrigin": [
+            2.5,
+            3.2431,
+            6.2617
+          ],
+          "faces": {
+            "east": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                4,
+                19,
+                10,
+                24
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                84,
+                70.6667,
+                97.3333,
+                78.6667
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                10,
+                19,
+                16,
+                24
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                26,
+                16,
+                21,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-fabric",
+              "uv": [
+                40.6667,
+                60,
+                35.6667,
+                66
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-11-attach",
+      "stepParentName": "LowerArmL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-11",
+          "from": [
+            -0.1864,
+            2.1857,
+            0.3726
+          ],
+          "to": [
+            0.2436,
+            2.6157,
+            0.8026
+          ],
+          "rotationOrigin": [
+            0.0286,
+            2.4007,
+            0.5876
+          ],
+          "rotationX": 45.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "east": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-12-attach",
+      "stepParentName": "LowerArmR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-12",
+          "from": [
+            -0.2364,
+            2.2107,
+            1.1826
+          ],
+          "to": [
+            0.1936,
+            2.6407,
+            1.6126
+          ],
+          "rotationOrigin": [
+            -0.0214,
+            2.4257,
+            1.3976
+          ],
+          "rotationX": 45.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "east": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-13-attach",
+      "stepParentName": "LowerArmR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-13",
+          "from": [
+            -0.2364,
+            3.0707,
+            1.1826
+          ],
+          "to": [
+            0.1936,
+            3.5007,
+            1.6126
+          ],
+          "rotationOrigin": [
+            -0.0214,
+            3.2857,
+            1.3976
+          ],
+          "rotationX": 45.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "east": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-14-attach",
+      "stepParentName": "LowerArmL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-14",
+          "from": [
+            -0.1864,
+            3.0457,
+            0.3726
+          ],
+          "to": [
+            0.2436,
+            3.4757,
+            0.8026
+          ],
+          "rotationOrigin": [
+            0.0286,
+            3.2607,
+            0.5876
+          ],
+          "rotationX": 45.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "east": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-15-attach",
+      "stepParentName": "LowerArmL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-15",
+          "from": [
+            -0.1864,
+            3.9057,
+            0.3726
+          ],
+          "to": [
+            0.2436,
+            4.3357,
+            0.8026
+          ],
+          "rotationOrigin": [
+            0.0286,
+            4.1207,
+            0.5876
+          ],
+          "rotationX": 45.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "east": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-16-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-16",
+          "from": [
+            -0.1981,
+            4.0303,
+            2.783
+          ],
+          "to": [
+            0.0969,
+            4.6203,
+            3.373
+          ],
+          "rotationOrigin": [
+            -0.0506,
+            4.3253,
+            3.078
+          ],
+          "rotationX": 45.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "east": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-17-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-17",
+          "from": [
+            -0.1981,
+            4.0309,
+            2.7952
+          ],
+          "to": [
+            0.0969,
+            4.6209,
+            3.3852
+          ],
+          "rotationOrigin": [
+            -0.0506,
+            4.3259,
+            3.0902
+          ],
+          "rotationX": 90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "east": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "bolero-black-18-attach",
+      "stepParentName": "LowerArmR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "bolero-black-18",
+          "from": [
+            -0.2364,
+            3.9307,
+            1.1826
+          ],
+          "to": [
+            0.1936,
+            4.3607,
+            1.6126
+          ],
+          "rotationOrigin": [
+            -0.0214,
+            4.1457,
+            1.3976
+          ],
+          "rotationX": 45.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "east": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "south": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "west": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "up": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            },
+            "down": {
+              "texture": "#aoa-bolero-metal",
+              "uv": [
+                15.8,
+                31.5,
+                16.3,
+                32
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

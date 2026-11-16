@@ -1,0 +1,104 @@
+[
+  {
+    "ingredientPattern": "TTT,TTT,_N_",
+    "ingredients": {
+      "T": {
+        "type": "item",
+        "code": "game:flaxtwine",
+        "quantity": 1
+      },
+      "N": {
+        "type": "item",
+        "code": "tailorsdelight:needle-*"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:lace-plain",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "TTT,TTT,_N_",
+    "ingredients": {
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-*",
+        "name": "color",
+        "quantity": 1,
+        "allowedVariants": [
+          "white",
+          "black",
+          "red",
+          "darkred",
+          "blue",
+          "brown",
+          "gray",
+          "green",
+          "orange",
+          "pink",
+          "purple",
+          "yellow",
+          "darkblue",
+          "darkbrown",
+          "darkgreen"
+        ]
+      },
+      "N": {
+        "type": "item",
+        "code": "tailorsdelight:needle-*"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:lace-{color}",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "TTT,TTT,_N_",
+    "ingredients": {
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-gold",
+        "quantity": 1
+      },
+      "N": {
+        "type": "item",
+        "code": "tailorsdelight:needle-*"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:mesh-gold",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "TTT,TTT,_N_",
+    "ingredients": {
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-silver",
+        "quantity": 1
+      },
+      "N": {
+        "type": "item",
+        "code": "tailorsdelight:needle-*"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:mesh-chain",
+      "quantity": 1
+    }
+  }
+]

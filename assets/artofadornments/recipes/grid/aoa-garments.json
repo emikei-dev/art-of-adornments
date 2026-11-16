@@ -1,0 +1,350 @@
+[
+  {
+    "ingredientPattern": "BLB,F_F",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-silver",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "game:bone",
+        "quantity": 1
+      },
+      "F": {
+        "type": "item",
+        "code": "game:feather",
+        "quantity": 1
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-neck-feralearrings",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LTL",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-brass",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-gold",
+        "quantity": 1
+      }
+    },
+    "width": 3,
+    "height": 1,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-neck-earrings-brasshoops",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LTL",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-silver",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-silver",
+        "quantity": 1
+      }
+    },
+    "width": 3,
+    "height": 1,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-neck-earrings-silverhoops",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "GLG,B_B",
+    "ingredients": {
+      "G": {
+        "type": "item",
+        "code": "game:ore-graphite",
+        "quantity": 1
+      },
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-brass",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "game:metalbit-brass",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-neck-earrings-brassgraphite",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "GLG,B_B",
+    "ingredients": {
+      "G": {
+        "type": "item",
+        "code": "game:ore-graphite",
+        "quantity": 1
+      },
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-silver",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "game:metalbit-silver",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-neck-earrings-silvergraphite",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "GLG,B_B",
+    "ingredients": {
+      "G": {
+        "type": "item",
+        "code": "game:ore-lapislazuli",
+        "quantity": 1
+      },
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-brass",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "game:metalbit-brass",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-neck-earrings-brasslapis",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "GLG,B_B",
+    "ingredients": {
+      "G": {
+        "type": "item",
+        "code": "game:ore-lapislazuli",
+        "quantity": 1
+      },
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-silver",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "game:metalbit-silver",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-neck-earrings-silverlapis",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "GLG,B_B",
+    "ingredients": {
+      "G": {
+        "type": "item",
+        "code": "game:ore-sylvite",
+        "quantity": 1
+      },
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-brass",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "game:metalbit-brass",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-neck-earrings-brasssylvite",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "GLG,B_B",
+    "ingredients": {
+      "G": {
+        "type": "item",
+        "code": "game:ore-sylvite",
+        "quantity": 1
+      },
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-silver",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "game:metalbit-silver",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-neck-earrings-silversylvite",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "GLG,B_B",
+    "ingredients": {
+      "G": {
+        "type": "item",
+        "code": "game:ore-sylvite",
+        "quantity": 1
+      },
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-silver",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "game:metalbit-silver",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-neck-earrings-sylvitehelixdrop",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CCC,CTC,_K_",
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "tailorsdelight:cloth-darkbrown",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-brown",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbodyover-trinketjumper",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "SPS,BLB,_K_",
+    "ingredients": {
+      "S": {
+        "type": "item",
+        "code": "game:clutter-skull/humanoid",
+        "quantity": 2
+      },
+      "P": {
+        "type": "item",
+        "code": "tailorsdelight:leatherbundle-pelt",
+        "quantity": 2
+      },
+      "B": {
+        "type": "item",
+        "code": "game:bone-tiny",
+        "quantity": 1
+      },
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-brass",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-shoulder-feralmantle",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "SPS,SKS",
+    "ingredients": {
+      "S": {
+        "type": "item",
+        "code": "tailorsdelight:leatherstrips-plain",
+        "quantity": 1
+      },
+      "P": {
+        "type": "item",
+        "code": "game:hide-pelt-bear-black-body",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-upperbody-hidevest",
+      "quantity": 1
+    }
+  }
+]

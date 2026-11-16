@@ -1,0 +1,66 @@
+[
+  {
+    "ingredientPattern": "TT,TR",
+    "ingredients": {
+      "T": {
+        "type": "item",
+        "code": "game:flaxtwine",
+        "quantity": 1
+      },
+      "R": {
+        "type": "item",
+        "code": "tailorsdelight:ruler-*",
+        "isTool": true,
+        "toolDurabilityCost": 3
+      }
+    },
+    "width": 2,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:sheercloth-plain",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "TT,TR",
+    "ingredients": {
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-*",
+        "name": "color",
+        "quantity": 1,
+        "allowedVariants": [
+          "white",
+          "black",
+          "red",
+          "darkred",
+          "blue",
+          "brown",
+          "gray",
+          "green",
+          "orange",
+          "pink",
+          "purple",
+          "yellow",
+          "darkblue",
+          "darkbrown",
+          "darkgreen"
+        ]
+      },
+      "R": {
+        "type": "item",
+        "code": "tailorsdelight:ruler-*",
+        "isTool": true,
+        "toolDurabilityCost": 3
+      }
+    },
+    "width": 2,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:sheercloth-{color}",
+      "quantity": 1
+    }
+  }
+]

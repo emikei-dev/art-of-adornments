@@ -1,0 +1,108 @@
+{
+  "code": "clothes",
+  "variantgroups": [
+    {
+      "code": "category",
+      "states": [
+        "hand"
+      ]
+    },
+    {
+      "code": "hand",
+      "combine": "SelectiveMultiply",
+      "onVariant": "category",
+      "states": [
+        "regalsleeves"
+      ]
+    },
+    {
+      "code": "design",
+      "states": [
+        "goldplain",
+        "goldblack",
+        "silverwhite",
+        "silverblack"
+      ]
+    }
+  ],
+  "storageFlags": 128,
+  "maxstacksize": 1,
+  "texturesByType": {
+    "*-goldplain": {
+      "seraph": {
+        "base": "game:block/transparent"
+      }
+    },
+    "*-goldblack": {
+      "seraph": {
+        "base": "game:block/transparent"
+      }
+    },
+    "*-silverwhite": {
+      "seraph": {
+        "base": "game:block/transparent"
+      }
+    },
+    "*-silverblack": {
+      "seraph": {
+        "base": "game:block/transparent"
+      }
+    }
+  },
+  "behaviors": [
+    {
+      "name": "Wearable"
+    }
+  ],
+  "attributes": {
+    "clothescategory": "hand",
+    "wearableAttachment": true,
+    "wearableTexturePrefixCode": null,
+    "displaycaseable": true
+  },
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "items": [
+      "*"
+    ],
+    "clothing": [
+      "*"
+    ]
+  },
+  "renderAlphaTest": 0.25,
+  "guiTransform": {
+    "rotate": false,
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": -180,
+      "y": -66,
+      "z": 5
+    },
+    "origin": {
+      "x": 0.54,
+      "y": 1.01,
+      "z": 0.5
+    },
+    "scale": 2.01
+  },
+  "shapeByType": {
+    "*-goldplain": {
+      "base": "garment/regalsleeves-goldplain"
+    },
+    "*-goldblack": {
+      "base": "garment/regalsleeves-goldblack"
+    },
+    "*-silverwhite": {
+      "base": "garment/regalsleeves-silverwhite"
+    },
+    "*-silverblack": {
+      "base": "garment/regalsleeves-silverblack"
+    }
+  }
+}

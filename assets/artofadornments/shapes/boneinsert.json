@@ -1,0 +1,83 @@
+{
+  "textureWidth": 16,
+  "textureHeight": 16,
+  "textures": {
+    "bone": "item/boneinsert"
+  },
+  "elements": [
+    {
+      "name": "busk",
+      "from": [
+        7.2,
+        1,
+        7.7
+      ],
+      "to": [
+        8.8,
+        14,
+        8.3
+      ],
+      "rotationOrigin": [
+        8,
+        1,
+        8
+      ],
+      "faces": {
+        "north": {
+          "texture": "#bone",
+          "uv": [
+            2,
+            1,
+            6,
+            14
+          ]
+        },
+        "south": {
+          "texture": "#bone",
+          "uv": [
+            6,
+            1,
+            2,
+            14
+          ]
+        },
+        "east": {
+          "texture": "#bone",
+          "uv": [
+            6,
+            1,
+            8,
+            14
+          ]
+        },
+        "west": {
+          "texture": "#bone",
+          "uv": [
+            8,
+            1,
+            6,
+            14
+          ]
+        },
+        "up": {
+          "texture": "#bone",
+          "uv": [
+            8,
+            1,
+            10,
+            3
+          ]
+        },
+        "down": {
+          "texture": "#bone",
+          "uv": [
+            8,
+            1,
+            10,
+            3
+          ]
+        }
+      }
+    }
+  ]
+}

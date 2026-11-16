@@ -1,0 +1,153 @@
+{
+  "code": "clothes",
+  "variantgroups": [
+    {
+      "code": "category",
+      "states": [
+        "head"
+      ]
+    },
+    {
+      "code": "head",
+      "combine": "SelectiveMultiply",
+      "onVariant": "category",
+      "states": [
+        "fedora"
+      ]
+    },
+    {
+      "code": "color",
+      "states": [
+        "black",
+        "white",
+        "brown",
+        "red",
+        "green",
+        "navy",
+        "pink"
+      ]
+    }
+  ],
+  "storageFlags": 128,
+  "maxstacksize": 1,
+  "shape": {
+    "base": "garment/fedora"
+  },
+  "textures": {
+    "aoa-fedora-cloth": {
+      "base": "garment/fedora/{color}"
+    },
+    "seraph": {
+      "base": "game:block/transparent"
+    }
+  },
+  "behaviors": [
+    {
+      "name": "Wearable"
+    }
+  ],
+  "attributes": {
+    "clothescategory": "head",
+    "wearableAttachment": true,
+    "warmth": 1,
+    "rainProtectionPerc": 0.5,
+    "disableElements": [
+      "ponytailhigh",
+      "sidehigh",
+      "hoodshoulder",
+      "hoodupperover"
+    ],
+    "keepElements": [
+      "hair-covered",
+      "hoodtight"
+    ],
+    "handbook": {
+      "groupBy": [
+        "clothes-head-fedora-*"
+      ]
+    }
+  },
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "items": [
+      "*"
+    ],
+    "clothing": [
+      "*"
+    ]
+  },
+  "guiTransform": {
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 19
+    },
+    "rotation": {
+      "x": 174,
+      "y": -45,
+      "z": 23
+    },
+    "origin": {
+      "x": 0.52,
+      "y": 1.96,
+      "z": 0.6
+    },
+    "scale": 2.3
+  },
+  "tpHandTransform": {
+    "translation": {
+      "x": -0.89,
+      "y": -2.6,
+      "z": -0.4
+    },
+    "rotation": {
+      "x": -109,
+      "y": -80,
+      "z": 17
+    },
+    "origin": {
+      "x": 0.5,
+      "y": 1.5,
+      "z": 0.5
+    },
+    "scale": 0.63
+  },
+  "fpHandTransform": {
+    "translation": {
+      "x": 0.1,
+      "y": 0.05,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": -10,
+      "z": 0
+    },
+    "origin": {
+      "x": 0.453,
+      "y": 0.401,
+      "z": 0.159
+    },
+    "scale": 0.9
+  },
+  "groundTransform": {
+    "translation": {
+      "x": 0.05,
+      "y": -1.1,
+      "z": 0
+    },
+    "rotation": {
+      "x": -2,
+      "y": 0,
+      "z": -4
+    },
+    "origin": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0.5299
+    },
+    "scale": 4
+  }
+}

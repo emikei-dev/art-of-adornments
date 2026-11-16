@@ -1,0 +1,217 @@
+{
+  "code": "clothes",
+  "variantgroups": [
+    {
+      "code": "category",
+      "states": [
+        "head"
+      ]
+    },
+    {
+      "code": "head",
+      "combine": "SelectiveMultiply",
+      "onVariant": "category",
+      "states": [
+        "seashellcrown"
+      ]
+    },
+    {
+      "code": "design",
+      "states": [
+        "shore",
+        "pearl",
+        "latte",
+        "cinnamon",
+        "seafoam",
+        "turquoise"
+      ]
+    }
+  ],
+  "storageFlags": 128,
+  "maxstacksize": 1,
+  "shape": {
+    "base": "{head}"
+  },
+  "texturesByType": {
+    "*-shore": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "seashellcrown-metal": {
+        "base": "game:block/metal/riveted/tinbronze3"
+      },
+      "seashellcrown-shell1": {
+        "base": "game:block/creature/aquatic/seashell/latte"
+      },
+      "seashellcrown-shell2": {
+        "base": "game:block/creature/aquatic/seashell/cinnamon"
+      },
+      "seashellcrown-shell3": {
+        "base": "game:block/creature/aquatic/seashell/darkpurple"
+      },
+      "seashellcrown-shell4": {
+        "base": "game:block/creature/aquatic/seashell/seafoam"
+      },
+      "seashellcrown-shell5": {
+        "base": "game:block/creature/aquatic/seashell/turquoise"
+      }
+    },
+    "*-pearl": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "seashellcrown-metal": {
+        "base": "game:block/metal/riveted/gold3"
+      },
+      "seashellcrown-shell1": {
+        "base": "game:block/creature/aquatic/seashell/plain"
+      },
+      "seashellcrown-shell2": {
+        "base": "game:block/creature/aquatic/seashell/plain"
+      },
+      "seashellcrown-shell3": {
+        "base": "game:block/creature/aquatic/seashell/plain"
+      },
+      "seashellcrown-shell4": {
+        "base": "game:block/creature/aquatic/seashell/plain"
+      },
+      "seashellcrown-shell5": {
+        "base": "game:block/creature/aquatic/seashell/plain"
+      }
+    },
+    "*-latte": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "seashellcrown-metal": {
+        "base": "game:block/metal/riveted/tinbronze3"
+      },
+      "seashellcrown-shell1": {
+        "base": "game:block/creature/aquatic/seashell/latte"
+      },
+      "seashellcrown-shell2": {
+        "base": "game:block/creature/aquatic/seashell/latte"
+      },
+      "seashellcrown-shell3": {
+        "base": "game:block/creature/aquatic/seashell/latte"
+      },
+      "seashellcrown-shell4": {
+        "base": "game:block/creature/aquatic/seashell/latte"
+      },
+      "seashellcrown-shell5": {
+        "base": "game:block/creature/aquatic/seashell/latte"
+      }
+    },
+    "*-cinnamon": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "seashellcrown-metal": {
+        "base": "game:block/metal/riveted/blackbronze3"
+      },
+      "seashellcrown-shell1": {
+        "base": "game:block/creature/aquatic/seashell/cinnamon"
+      },
+      "seashellcrown-shell2": {
+        "base": "game:block/creature/aquatic/seashell/cinnamon"
+      },
+      "seashellcrown-shell3": {
+        "base": "game:block/creature/aquatic/seashell/cinnamon"
+      },
+      "seashellcrown-shell4": {
+        "base": "game:block/creature/aquatic/seashell/cinnamon"
+      },
+      "seashellcrown-shell5": {
+        "base": "game:block/creature/aquatic/seashell/cinnamon"
+      }
+    },
+    "*-seafoam": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "seashellcrown-metal": {
+        "base": "game:block/metal/riveted/meteoriciron3"
+      },
+      "seashellcrown-shell1": {
+        "base": "game:block/creature/aquatic/seashell/seafoam"
+      },
+      "seashellcrown-shell2": {
+        "base": "game:block/creature/aquatic/seashell/seafoam"
+      },
+      "seashellcrown-shell3": {
+        "base": "game:block/creature/aquatic/seashell/seafoam"
+      },
+      "seashellcrown-shell4": {
+        "base": "game:block/creature/aquatic/seashell/seafoam"
+      },
+      "seashellcrown-shell5": {
+        "base": "game:block/creature/aquatic/seashell/seafoam"
+      }
+    },
+    "*-turquoise": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "seashellcrown-metal": {
+        "base": "game:block/metal/riveted/bismuthbronze3"
+      },
+      "seashellcrown-shell1": {
+        "base": "game:block/creature/aquatic/seashell/turquoise"
+      },
+      "seashellcrown-shell2": {
+        "base": "game:block/creature/aquatic/seashell/turquoise"
+      },
+      "seashellcrown-shell3": {
+        "base": "game:block/creature/aquatic/seashell/turquoise"
+      },
+      "seashellcrown-shell4": {
+        "base": "game:block/creature/aquatic/seashell/turquoise"
+      },
+      "seashellcrown-shell5": {
+        "base": "game:block/creature/aquatic/seashell/turquoise"
+      }
+    }
+  },
+  "behaviors": [
+    {
+      "name": "Wearable"
+    }
+  ],
+  "attributes": {
+    "clothescategory": "head",
+    "wearableAttachment": true,
+    "wearableTexturePrefixCode": null,
+    "displaycaseable": true
+  },
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "items": [
+      "*"
+    ],
+    "clothing": [
+      "*"
+    ]
+  },
+  "renderAlphaTest": 0.25,
+  "guiTransform": {
+    "rotate": false,
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": -180,
+      "y": -66,
+      "z": 5
+    },
+    "origin": {
+      "x": 0.5,
+      "y": 1.99,
+      "z": 0.5
+    },
+    "scale": 2.93
+  }
+}

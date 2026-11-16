@@ -1,0 +1,409 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "aoa-plaidshirt-fabric": [
+      32,
+      32
+    ]
+  },
+  "textures": {
+    "aoa-plaidshirt-fabric": "garment/plaid-shirt"
+  },
+  "elements": [
+    {
+      "name": "plaidshirt-1-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "plaidshirt-1",
+          "from": [
+            0.7729,
+            3.8239,
+            1.525
+          ],
+          "to": [
+            3.9729,
+            7.8239,
+            4.725
+          ],
+          "rotationOrigin": [
+            2.3729,
+            5.8239,
+            3.125
+          ],
+          "rotationZ": 13.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                13,
+                18.5,
+                15.95,
+                14.5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                13,
+                18.5,
+                15.95,
+                14.5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                13,
+                18.5,
+                15.95,
+                14.5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                13,
+                18.5,
+                15.95,
+                14.5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                13,
+                18.5,
+                15.95,
+                14.5
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "plaidshirt-2-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "plaidshirt-2",
+          "from": [
+            -0.0148,
+            -0.0977,
+            -0.125
+          ],
+          "to": [
+            5.0352,
+            5.1023,
+            6.15
+          ],
+          "rotationOrigin": [
+            2.5102,
+            2.5023,
+            3.0125
+          ],
+          "rotationZ": 0.25,
+          "faces": {
+            "north": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                6.5,
+                12,
+                11.45,
+                17.25
+              ]
+            },
+            "east": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                0.5,
+                6,
+                6.5,
+                10.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                6.5,
+                12,
+                11.45,
+                17.25
+              ]
+            },
+            "west": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                0.5,
+                6,
+                6.5,
+                10.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "plaidshirt-3-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "plaidshirt-3",
+          "from": [
+            -0.113,
+            -0.0995,
+            -0.05
+          ],
+          "to": [
+            5.087,
+            5.1005,
+            6.265
+          ],
+          "rotationOrigin": [
+            2.487,
+            2.5005,
+            3.1075
+          ],
+          "rotationZ": 1.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                12,
+                12,
+                17.25,
+                17.25
+              ]
+            },
+            "east": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                7.5,
+                0,
+                13.5,
+                4.95
+              ]
+            },
+            "south": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                12,
+                12,
+                16.95,
+                17.05
+              ]
+            },
+            "west": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                7.5,
+                6,
+                13.5,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                4.95,
+                18.5,
+                0,
+                12.5
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "plaidshirt-4-attach",
+      "stepParentName": "UpperArmL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "plaidshirt-4",
+          "from": [
+            -0.1293,
+            4.0631,
+            0.2536
+          ],
+          "to": [
+            3.1207,
+            7.0631,
+            2.1036
+          ],
+          "rotationOrigin": [
+            1.4957,
+            5.5631,
+            1.1786
+          ],
+          "rotationX": -0.0197,
+          "rotationY": -0.1725,
+          "rotationZ": 0.9848,
+          "faces": {
+            "east": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                10.5,
+                18,
+                12.75,
+                21
+              ]
+            },
+            "west": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                12.75,
+                18,
+                10.5,
+                21
+              ]
+            },
+            "up": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                9.25,
+                19.95,
+                6,
+                18
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "plaidshirt-5-attach",
+      "stepParentName": "UpperArmR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "plaidshirt-5",
+          "from": [
+            -0.1251,
+            4.0976,
+            -0.1066
+          ],
+          "to": [
+            3.1249,
+            7.0976,
+            1.7434
+          ],
+          "rotationOrigin": [
+            1.4999,
+            5.5976,
+            0.8184
+          ],
+          "rotationX": 0.0197,
+          "rotationY": 0.1725,
+          "rotationZ": 0.9848,
+          "faces": {
+            "east": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                12.75,
+                18,
+                10.5,
+                21
+              ]
+            },
+            "west": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                10.5,
+                18,
+                12.75,
+                21
+              ]
+            },
+            "up": {
+              "texture": "#aoa-plaidshirt-fabric",
+              "uv": [
+                9.25,
+                19.95,
+                6,
+                18
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

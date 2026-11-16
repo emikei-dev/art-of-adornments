@@ -1,0 +1,202 @@
+{
+  "code": "clothes",
+  "variantgroups": [
+    {
+      "code": "category",
+      "states": [
+        "neck"
+      ]
+    },
+    {
+      "code": "neck",
+      "combine": "SelectiveMultiply",
+      "onVariant": "category",
+      "states": [
+        "earrings"
+      ]
+    },
+    {
+      "code": "style",
+      "states": [
+        "brasshoops",
+        "silverhoops",
+        "sylvitehelixdrop",
+        "brassgraphite",
+        "silvergraphite",
+        "brasslapis",
+        "silverlapis",
+        "brasssylvite",
+        "silversylvite"
+      ]
+    }
+  ],
+  "storageFlags": 128,
+  "maxstacksize": 1,
+  "shape": {
+    "base": "jewelry/earrings-{style}"
+  },
+  "texturesByType": {
+    "*-brasshoops": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "earring-metal": {
+        "base": "metal/chains"
+      },
+      "earring-parts": {
+        "base": "garment/earring-parts"
+      },
+      "earring-gem": {
+        "base": "game:item/resource/ungraded/graphite"
+      }
+    },
+    "*-silverhoops": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "earring-metal": {
+        "base": "metal/chains"
+      },
+      "earring-parts": {
+        "base": "garment/earring-parts"
+      },
+      "earring-gem": {
+        "base": "game:item/resource/ungraded/graphite"
+      }
+    },
+    "*-sylvitehelixdrop": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "earring-metal": {
+        "base": "metal/chains"
+      },
+      "earring-parts": {
+        "base": "garment/earring-parts"
+      },
+      "earring-gem": {
+        "base": "game:item/resource/ungraded/sylvite"
+      }
+    },
+    "*-brassgraphite": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "earring-metal": {
+        "base": "metal/chains"
+      },
+      "earring-parts": {
+        "base": "garment/earring-parts"
+      },
+      "earring-gem": {
+        "base": "game:item/resource/ungraded/graphite"
+      }
+    },
+    "*-silvergraphite": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "earring-metal": {
+        "base": "metal/chains"
+      },
+      "earring-parts": {
+        "base": "garment/earring-parts"
+      },
+      "earring-gem": {
+        "base": "game:item/resource/ungraded/graphite"
+      }
+    },
+    "*-brasslapis": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "earring-metal": {
+        "base": "metal/chains"
+      },
+      "earring-parts": {
+        "base": "garment/earring-parts"
+      },
+      "earring-gem": {
+        "base": "game:block/stone/gem/lapislazuli"
+      }
+    },
+    "*-silverlapis": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "earring-metal": {
+        "base": "metal/chains"
+      },
+      "earring-parts": {
+        "base": "garment/earring-parts"
+      },
+      "earring-gem": {
+        "base": "game:block/stone/gem/lapislazuli"
+      }
+    },
+    "*-brasssylvite": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "earring-metal": {
+        "base": "metal/chains"
+      },
+      "earring-parts": {
+        "base": "garment/earring-parts"
+      },
+      "earring-gem": {
+        "base": "game:item/resource/ungraded/sylvite"
+      }
+    },
+    "*-silversylvite": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "earring-metal": {
+        "base": "metal/chains"
+      },
+      "earring-parts": {
+        "base": "garment/earring-parts"
+      },
+      "earring-gem": {
+        "base": "game:item/resource/ungraded/sylvite"
+      }
+    }
+  },
+  "behaviors": [
+    {
+      "name": "Wearable"
+    }
+  ],
+  "attributes": {
+    "clothescategory": "neck",
+    "wearableAttachment": true,
+    "wearableTexturePrefixCode": null,
+    "displaycaseable": true
+  },
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "items": [
+      "*"
+    ],
+    "clothing": [
+      "*"
+    ]
+  },
+  "renderAlphaTest": 0.1,
+  "guiTransform": {
+    "rotation": {
+      "x": -180,
+      "y": -20,
+      "z": 0
+    },
+    "origin": {
+      "x": 0.44,
+      "y": 1.65,
+      "z": 0.672
+    },
+    "scale": 14.9
+  }
+}

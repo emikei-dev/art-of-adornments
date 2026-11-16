@@ -1,0 +1,188 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "aoa-hidevest-fabric": [
+      32,
+      32
+    ]
+  },
+  "textures": {
+    "aoa-hidevest-fabric": "garment/hide-vest"
+  },
+  "elements": [
+    {
+      "name": "hidevest-1-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hidevest-1",
+          "from": [
+            -0.0421,
+            -0.0976,
+            -0.075
+          ],
+          "to": [
+            5.0579,
+            5.1024,
+            6.075
+          ],
+          "rotationOrigin": [
+            2.5079,
+            2.5024,
+            3.0
+          ],
+          "rotationZ": -0.25,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hidevest-fabric",
+              "uv": [
+                12,
+                12,
+                16.95,
+                16.95
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hidevest-fabric",
+              "uv": [
+                0.5,
+                0,
+                6.5,
+                4.975
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hidevest-fabric",
+              "uv": [
+                12,
+                12,
+                16.95,
+                16.95
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hidevest-fabric",
+              "uv": [
+                0.5,
+                6.5,
+                6.5,
+                11.45
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hidevest-2-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hidevest-2",
+          "from": [
+            -0.0045,
+            -0.1166,
+            -0.025
+          ],
+          "to": [
+            5.0205,
+            5.0834,
+            6.225
+          ],
+          "rotationOrigin": [
+            2.508,
+            2.4834,
+            3.1
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-hidevest-fabric",
+              "uv": [
+                14,
+                0,
+                18.95,
+                4.95
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hidevest-fabric",
+              "uv": [
+                7.5,
+                0,
+                13.5,
+                4.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hidevest-fabric",
+              "uv": [
+                14,
+                0,
+                18.95,
+                4.95
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hidevest-fabric",
+              "uv": [
+                7.5,
+                6,
+                13.5,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hidevest-fabric",
+              "uv": [
+                4.95,
+                18.5,
+                0,
+                12.5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hidevest-fabric",
+              "uv": [
+                11.25,
+                12,
+                6,
+                18.5
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

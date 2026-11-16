@@ -1,0 +1,120 @@
+{
+  "code": "clothes",
+  "variantgroups": [
+    {
+      "code": "category",
+      "states": [
+        "upperbodyover"
+      ]
+    },
+    {
+      "code": "upperbodyover",
+      "combine": "SelectiveMultiply",
+      "onVariant": "category",
+      "states": [
+        "corset"
+      ]
+    },
+    {
+      "code": "color",
+      "states": [
+        "plain",
+        "white",
+        "black",
+        "brown",
+        "red",
+        "blue",
+        "green"
+      ]
+    }
+  ],
+  "storageFlags": 128,
+  "maxstacksize": 1,
+  "behaviors": [
+    {
+      "name": "Wearable"
+    }
+  ],
+  "attributes": {
+    "clothescategory": "upperbodyover",
+    "wearableAttachment": true,
+    "wearableTexturePrefixCode": null,
+    "displaycaseable": true
+  },
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "items": [
+      "*"
+    ],
+    "clothing": [
+      "*"
+    ]
+  },
+  "renderAlphaTest": 0.25,
+  "tpHandTransform": {
+    "translation": {
+      "x": -0.2,
+      "y": -0.8,
+      "z": -0.6
+    },
+    "rotation": {
+      "x": 49,
+      "y": 180,
+      "z": 83
+    },
+    "origin": {
+      "x": 0.6,
+      "y": 0.6,
+      "z": 0.2
+    },
+    "scale": 0.55
+  },
+  "fpHandTransform": {
+    "translation": {
+      "x": 0.05,
+      "y": -0.6,
+      "z": 0.3
+    },
+    "rotation": {
+      "x": 180,
+      "y": 150,
+      "z": 180
+    },
+    "scale": 2
+  },
+  "guiTransform": {
+    "rotate": false,
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": -180,
+      "y": -66,
+      "z": 5
+    },
+    "origin": {
+      "x": 0.54,
+      "y": 1.19,
+      "z": 0.5
+    },
+    "scale": 3.21
+  },
+  "shape": {
+    "base": "garment/corset"
+  },
+  "textures": {
+    "seraph": {
+      "base": "game:block/transparent"
+    },
+    "aoa-corset-lace": {
+      "base": "fabric/lace/{color}"
+    },
+    "aoa-corset-cord": {
+      "base": "game:item/tool/shield/leather/brown"
+    }
+  }
+}

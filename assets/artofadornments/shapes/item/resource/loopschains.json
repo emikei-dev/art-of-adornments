@@ -1,0 +1,2215 @@
+{
+  "editor": {
+    "allAngles": false,
+    "entityTextureMode": false
+  },
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textures": {
+    "aoa-loopschains-metal": "game:block/metal/ingot/brass"
+  },
+  "elements": [
+    {
+      "name": "origin",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "loop1-n",
+          "from": [
+            5.15,
+            0.05,
+            5.846
+          ],
+          "to": [
+            7.35,
+            0.55,
+            6.196
+          ],
+          "rotationOrigin": [
+            6.25,
+            0.55,
+            6.946
+          ],
+          "rotationY": 20.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.0
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.0
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.0
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.0
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.0
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop1-s",
+          "from": [
+            5.15,
+            0.05,
+            7.696
+          ],
+          "to": [
+            7.35,
+            0.55,
+            8.046
+          ],
+          "rotationOrigin": [
+            6.25,
+            0.55,
+            6.946
+          ],
+          "rotationY": 20.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop1-w",
+          "from": [
+            5.15,
+            0.05,
+            6.196
+          ],
+          "to": [
+            5.5,
+            0.55,
+            7.696
+          ],
+          "rotationOrigin": [
+            6.25,
+            0.55,
+            6.946
+          ],
+          "rotationY": 20.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop1-e",
+          "from": [
+            7.0,
+            0.05,
+            6.196
+          ],
+          "to": [
+            7.35,
+            0.55,
+            7.696
+          ],
+          "rotationOrigin": [
+            6.25,
+            0.55,
+            6.946
+          ],
+          "rotationY": 20.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                2.0,
+                2.2,
+                3.0
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                2.0,
+                2.2,
+                3.0
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                2.0,
+                2.2,
+                3.0
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                2.0,
+                2.2,
+                3.0
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                2.0,
+                2.2,
+                3.0
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                2.0,
+                2.2,
+                3.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop2-n",
+          "from": [
+            8.75,
+            0.05,
+            4.321
+          ],
+          "to": [
+            10.55,
+            0.55,
+            4.671
+          ],
+          "rotationOrigin": [
+            9.65,
+            0.55,
+            5.221
+          ],
+          "rotationY": -15.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop2-s",
+          "from": [
+            8.75,
+            0.05,
+            5.771
+          ],
+          "to": [
+            10.55,
+            0.55,
+            6.121
+          ],
+          "rotationOrigin": [
+            9.65,
+            0.55,
+            5.221
+          ],
+          "rotationY": -15.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop2-w",
+          "from": [
+            8.75,
+            0.05,
+            4.671
+          ],
+          "to": [
+            9.1,
+            0.55,
+            5.771
+          ],
+          "rotationOrigin": [
+            9.65,
+            0.55,
+            5.221
+          ],
+          "rotationY": -15.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop2-e",
+          "from": [
+            10.2,
+            0.05,
+            4.671
+          ],
+          "to": [
+            10.55,
+            0.55,
+            5.771
+          ],
+          "rotationOrigin": [
+            9.65,
+            0.55,
+            5.221
+          ],
+          "rotationY": -15.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop3-n",
+          "from": [
+            4.1,
+            0.325,
+            8.046
+          ],
+          "to": [
+            6.1,
+            0.825,
+            8.396
+          ],
+          "rotationOrigin": [
+            5.1,
+            0.825,
+            9.046
+          ],
+          "rotationY": 35.0,
+          "rotationZ": 17.75,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop3-s",
+          "from": [
+            4.1,
+            0.325,
+            9.696
+          ],
+          "to": [
+            6.1,
+            0.825,
+            10.046
+          ],
+          "rotationOrigin": [
+            5.1,
+            0.825,
+            9.046
+          ],
+          "rotationY": 35.0,
+          "rotationZ": 17.75,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop3-w",
+          "from": [
+            4.1,
+            0.325,
+            8.396
+          ],
+          "to": [
+            4.45,
+            0.825,
+            9.696
+          ],
+          "rotationOrigin": [
+            5.1,
+            0.825,
+            9.046
+          ],
+          "rotationY": 35.0,
+          "rotationZ": 17.75,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop3-e",
+          "from": [
+            5.75,
+            0.325,
+            8.396
+          ],
+          "to": [
+            6.1,
+            0.825,
+            9.696
+          ],
+          "rotationOrigin": [
+            5.1,
+            0.825,
+            9.046
+          ],
+          "rotationY": 35.0,
+          "rotationZ": 17.75,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop4-n",
+          "from": [
+            9.331,
+            0.075,
+            10.095
+          ],
+          "to": [
+            10.915,
+            0.405,
+            10.326
+          ],
+          "rotationOrigin": [
+            10.123,
+            0.405,
+            10.887
+          ],
+          "rotationY": -30.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop4-s",
+          "from": [
+            9.331,
+            0.075,
+            11.448
+          ],
+          "to": [
+            10.915,
+            0.405,
+            11.679
+          ],
+          "rotationOrigin": [
+            10.123,
+            0.405,
+            10.887
+          ],
+          "rotationY": -30.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop4-w",
+          "from": [
+            9.331,
+            0.075,
+            10.326
+          ],
+          "to": [
+            9.562,
+            0.405,
+            11.448
+          ],
+          "rotationOrigin": [
+            10.123,
+            0.405,
+            10.887
+          ],
+          "rotationY": -30.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop4-e",
+          "from": [
+            10.684,
+            0.075,
+            10.326
+          ],
+          "to": [
+            10.915,
+            0.405,
+            11.448
+          ],
+          "rotationOrigin": [
+            10.123,
+            0.405,
+            10.887
+          ],
+          "rotationY": -30.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop5-n",
+          "from": [
+            7.2,
+            0.05,
+            7.971
+          ],
+          "to": [
+            8.9,
+            0.55,
+            8.321
+          ],
+          "rotationOrigin": [
+            8.05,
+            0.55,
+            8.821
+          ],
+          "rotationY": 10.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop5-s",
+          "from": [
+            7.2,
+            0.05,
+            9.321
+          ],
+          "to": [
+            8.9,
+            0.55,
+            9.671
+          ],
+          "rotationOrigin": [
+            8.05,
+            0.55,
+            8.821
+          ],
+          "rotationY": 10.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop5-w",
+          "from": [
+            7.2,
+            0.05,
+            8.321
+          ],
+          "to": [
+            7.55,
+            0.55,
+            9.321
+          ],
+          "rotationOrigin": [
+            8.05,
+            0.55,
+            8.821
+          ],
+          "rotationY": 10.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "loop5-e",
+          "from": [
+            8.55,
+            0.05,
+            8.321
+          ],
+          "to": [
+            8.9,
+            0.55,
+            9.321
+          ],
+          "rotationOrigin": [
+            8.05,
+            0.55,
+            8.821
+          ],
+          "rotationY": 10.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "chain1-l0",
+          "from": [
+            5.6,
+            0.05,
+            4.371
+          ],
+          "to": [
+            6.7,
+            0.55,
+            5.271
+          ],
+          "rotationOrigin": [
+            7.45,
+            0.55,
+            4.821
+          ],
+          "rotationY": -25.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "chain1-l1",
+          "from": [
+            6.85,
+            0.2,
+            4.371
+          ],
+          "to": [
+            7.95,
+            0.7,
+            5.271
+          ],
+          "rotationOrigin": [
+            7.4,
+            0.55,
+            4.821
+          ],
+          "rotationY": -25.0,
+          "rotationZ": 15.75,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "chain1-l2",
+          "from": [
+            8.025,
+            0.0,
+            4.371
+          ],
+          "to": [
+            9.125,
+            0.5,
+            5.271
+          ],
+          "rotationOrigin": [
+            7.275,
+            0.5,
+            4.821
+          ],
+          "rotationY": -25.0,
+          "rotationZ": 22.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "chain2-l0",
+          "from": [
+            4.675,
+            0.05,
+            10.646
+          ],
+          "to": [
+            5.775,
+            0.55,
+            11.546
+          ],
+          "rotationOrigin": [
+            6.525,
+            0.55,
+            11.096
+          ],
+          "rotationY": 66.75,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "chain2-l1",
+          "from": [
+            6.175,
+            0.2,
+            10.771
+          ],
+          "to": [
+            7.275,
+            0.7,
+            11.671
+          ],
+          "rotationOrigin": [
+            6.725,
+            0.55,
+            11.221
+          ],
+          "rotationY": 40.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "chain2-l2",
+          "from": [
+            7.45,
+            0.05,
+            10.746
+          ],
+          "to": [
+            8.55,
+            0.55,
+            11.646
+          ],
+          "rotationOrigin": [
+            6.7,
+            0.55,
+            11.196
+          ],
+          "rotationY": 27.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "chain3-l0",
+          "from": [
+            8.2,
+            0.05,
+            7.371
+          ],
+          "to": [
+            9.3,
+            0.55,
+            8.271
+          ],
+          "rotationOrigin": [
+            10.05,
+            0.55,
+            7.821
+          ],
+          "rotationY": -40.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "chain3-l1",
+          "from": [
+            9.275,
+            0.2,
+            7.421
+          ],
+          "to": [
+            10.375,
+            0.7,
+            8.321
+          ],
+          "rotationOrigin": [
+            9.825,
+            0.55,
+            7.871
+          ],
+          "rotationY": -54.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "chain3-l2",
+          "from": [
+            10.8,
+            0.05,
+            7.371
+          ],
+          "to": [
+            11.9,
+            0.55,
+            8.271
+          ],
+          "rotationOrigin": [
+            10.05,
+            0.55,
+            7.821
+          ],
+          "rotationY": -70.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-loopschains-metal",
+              "uv": [
+                0.0,
+                0.0,
+                2.2,
+                1.9
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "textureSizes": {}
+}

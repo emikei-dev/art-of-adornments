@@ -1,0 +1,99 @@
+{
+  "code": "clothes",
+  "variantgroups": [
+    {
+      "code": "category",
+      "states": [
+        "neck"
+      ]
+    },
+    {
+      "code": "neck",
+      "combine": "SelectiveMultiply",
+      "onVariant": "category",
+      "states": [
+        "jestercollar"
+      ]
+    },
+    {
+      "code": "design",
+      "states": [
+        "harlequin",
+        "folly",
+        "mummer"
+      ]
+    }
+  ],
+  "storageFlags": 128,
+  "maxstacksize": 1,
+  "shapeByType": {
+    "*-harlequin": {
+      "base": "garment/jestercollar-harlequin"
+    },
+    "*-folly": {
+      "base": "garment/jestercollar-folly"
+    },
+    "*-mummer": {
+      "base": "garment/jestercollar-mummer"
+    }
+  },
+  "texturesByType": {
+    "*-harlequin": {
+      "seraph": {
+        "base": "game:block/transparent"
+      }
+    },
+    "*-folly": {
+      "seraph": {
+        "base": "game:block/transparent"
+      }
+    },
+    "*-mummer": {
+      "seraph": {
+        "base": "game:block/transparent"
+      }
+    }
+  },
+  "behaviors": [
+    {
+      "name": "Wearable"
+    }
+  ],
+  "attributes": {
+    "clothescategory": "neck",
+    "wearableAttachment": true,
+    "wearableTexturePrefixCode": null,
+    "displaycaseable": true
+  },
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "items": [
+      "*"
+    ],
+    "clothing": [
+      "*"
+    ]
+  },
+  "renderAlphaTest": 0.1,
+  "guiTransform": {
+    "rotate": false,
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": -180,
+      "y": -30,
+      "z": 0
+    },
+    "origin": {
+      "x": 0.5,
+      "y": 1.5,
+      "z": 0.5
+    },
+    "scale": 3.2
+  }
+}

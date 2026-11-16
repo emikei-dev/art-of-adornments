@@ -1,0 +1,74 @@
+{
+  "racialequality:elf": {
+    "artofadornments:jewelry/feralearrings": "artofadornments:jewelry/feralearrings-anchored",
+    "artofadornments:jewelry/earrings-silverhoops": "artofadornments:jewelry/earrings-silverhoops-anchored",
+    "artofadornments:jewelry/earrings-sylvitehelixdrop": "artofadornments:jewelry/earrings-sylvitehelixdrop-anchored",
+    "artofadornments:jewelry/earrings-silvergraphite": "artofadornments:jewelry/earrings-silvergraphite-anchored",
+    "artofadornments:jewelry/earrings-silverlapis": "artofadornments:jewelry/earrings-silverlapis-anchored",
+    "artofadornments:jewelry/earrings-silversylvite": "artofadornments:jewelry/earrings-silversylvite-anchored",
+    "artofadornments:jewelry/earrings-brasshoops": "artofadornments:jewelry/earrings-brasshoops-anchored",
+    "artofadornments:jewelry/earrings-brassgraphite": "artofadornments:jewelry/earrings-brassgraphite-anchored",
+    "artofadornments:jewelry/earrings-brasslapis": "artofadornments:jewelry/earrings-brasslapis-anchored",
+    "artofadornments:jewelry/earrings-brasssylvite": "artofadornments:jewelry/earrings-brasssylvite-anchored"
+  },
+  "racialequality:goblin": {
+    "artofadornments:jewelry/feralearrings": "artofadornments:jewelry/feralearrings-anchored",
+    "artofadornments:jewelry/earrings-silverhoops": "artofadornments:jewelry/earrings-silverhoops-anchored",
+    "artofadornments:jewelry/earrings-sylvitehelixdrop": "artofadornments:jewelry/earrings-sylvitehelixdrop-anchored",
+    "artofadornments:jewelry/earrings-silvergraphite": "artofadornments:jewelry/earrings-silvergraphite-anchored",
+    "artofadornments:jewelry/earrings-silverlapis": "artofadornments:jewelry/earrings-silverlapis-anchored",
+    "artofadornments:jewelry/earrings-silversylvite": "artofadornments:jewelry/earrings-silversylvite-anchored",
+    "artofadornments:jewelry/earrings-brasshoops": "artofadornments:jewelry/earrings-brasshoops-anchored",
+    "artofadornments:jewelry/earrings-brassgraphite": "artofadornments:jewelry/earrings-brassgraphite-anchored",
+    "artofadornments:jewelry/earrings-brasslapis": "artofadornments:jewelry/earrings-brasslapis-anchored",
+    "artofadornments:jewelry/earrings-brasssylvite": "artofadornments:jewelry/earrings-brasssylvite-anchored"
+  },
+  "racialequality:ork": {
+    "artofadornments:jewelry/feralearrings": "artofadornments:jewelry/feralearrings-anchored",
+    "artofadornments:jewelry/earrings-silverhoops": "artofadornments:jewelry/earrings-silverhoops-anchored",
+    "artofadornments:jewelry/earrings-sylvitehelixdrop": "artofadornments:jewelry/earrings-sylvitehelixdrop-anchored",
+    "artofadornments:jewelry/earrings-silvergraphite": "artofadornments:jewelry/earrings-silvergraphite-anchored",
+    "artofadornments:jewelry/earrings-silverlapis": "artofadornments:jewelry/earrings-silverlapis-anchored",
+    "artofadornments:jewelry/earrings-silversylvite": "artofadornments:jewelry/earrings-silversylvite-anchored",
+    "artofadornments:jewelry/earrings-brasshoops": "artofadornments:jewelry/earrings-brasshoops-anchored",
+    "artofadornments:jewelry/earrings-brassgraphite": "artofadornments:jewelry/earrings-brassgraphite-anchored",
+    "artofadornments:jewelry/earrings-brasslapis": "artofadornments:jewelry/earrings-brasslapis-anchored",
+    "artofadornments:jewelry/earrings-brasssylvite": "artofadornments:jewelry/earrings-brasssylvite-anchored"
+  },
+  "koboldrdx:kobold": {
+    "artofadornments:jewelry/feralearrings": "artofadornments:jewelry/feralearrings-anchored",
+    "artofadornments:jewelry/earrings-silverhoops": "artofadornments:jewelry/earrings-silverhoops-anchored",
+    "artofadornments:jewelry/earrings-sylvitehelixdrop": "artofadornments:jewelry/earrings-sylvitehelixdrop-anchored",
+    "artofadornments:jewelry/earrings-silvergraphite": "artofadornments:jewelry/earrings-silvergraphite-anchored",
+    "artofadornments:jewelry/earrings-silverlapis": "artofadornments:jewelry/earrings-silverlapis-anchored",
+    "artofadornments:jewelry/earrings-silversylvite": "artofadornments:jewelry/earrings-silversylvite-anchored",
+    "artofadornments:jewelry/earrings-brasshoops": "artofadornments:jewelry/earrings-brasshoops-anchored",
+    "artofadornments:jewelry/earrings-brassgraphite": "artofadornments:jewelry/earrings-brassgraphite-anchored",
+    "artofadornments:jewelry/earrings-brasslapis": "artofadornments:jewelry/earrings-brasslapis-anchored",
+    "artofadornments:jewelry/earrings-brasssylvite": "artofadornments:jewelry/earrings-brasssylvite-anchored"
+  },
+  "racialequality:human": {
+    "artofadornments:jewelry/feralearrings": "artofadornments:jewelry/feralearrings-anchored",
+    "artofadornments:jewelry/earrings-silverhoops": "artofadornments:jewelry/earrings-silverhoops-anchored",
+    "artofadornments:jewelry/earrings-sylvitehelixdrop": "artofadornments:jewelry/earrings-sylvitehelixdrop-anchored",
+    "artofadornments:jewelry/earrings-silvergraphite": "artofadornments:jewelry/earrings-silvergraphite-anchored",
+    "artofadornments:jewelry/earrings-silverlapis": "artofadornments:jewelry/earrings-silverlapis-anchored",
+    "artofadornments:jewelry/earrings-silversylvite": "artofadornments:jewelry/earrings-silversylvite-anchored",
+    "artofadornments:jewelry/earrings-brasshoops": "artofadornments:jewelry/earrings-brasshoops-anchored",
+    "artofadornments:jewelry/earrings-brassgraphite": "artofadornments:jewelry/earrings-brassgraphite-anchored",
+    "artofadornments:jewelry/earrings-brasslapis": "artofadornments:jewelry/earrings-brasslapis-anchored",
+    "artofadornments:jewelry/earrings-brasssylvite": "artofadornments:jewelry/earrings-brasssylvite-anchored"
+  },
+  "racialequality:dwarf": {
+    "artofadornments:jewelry/feralearrings": "artofadornments:jewelry/feralearrings-anchored",
+    "artofadornments:jewelry/earrings-silverhoops": "artofadornments:jewelry/earrings-silverhoops-anchored",
+    "artofadornments:jewelry/earrings-sylvitehelixdrop": "artofadornments:jewelry/earrings-sylvitehelixdrop-anchored",
+    "artofadornments:jewelry/earrings-silvergraphite": "artofadornments:jewelry/earrings-silvergraphite-anchored",
+    "artofadornments:jewelry/earrings-silverlapis": "artofadornments:jewelry/earrings-silverlapis-anchored",
+    "artofadornments:jewelry/earrings-silversylvite": "artofadornments:jewelry/earrings-silversylvite-anchored",
+    "artofadornments:jewelry/earrings-brasshoops": "artofadornments:jewelry/earrings-brasshoops-anchored",
+    "artofadornments:jewelry/earrings-brassgraphite": "artofadornments:jewelry/earrings-brassgraphite-anchored",
+    "artofadornments:jewelry/earrings-brasslapis": "artofadornments:jewelry/earrings-brasslapis-anchored",
+    "artofadornments:jewelry/earrings-brasssylvite": "artofadornments:jewelry/earrings-brasssylvite-anchored"
+  }
+}

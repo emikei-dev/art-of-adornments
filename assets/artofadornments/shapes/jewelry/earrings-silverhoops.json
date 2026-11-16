@@ -1,0 +1,221 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "earring-metal": [
+      128,
+      85
+    ],
+    "earring-parts": [
+      16,
+      16
+    ],
+    "earring-gem": [
+      32,
+      32
+    ]
+  },
+  "textures": {
+    "earring-metal": "metal/chains",
+    "earring-parts": "garment/earring-parts",
+    "earring-gem": "game:item/resource/ungraded/graphite"
+  },
+  "elements": [
+    {
+      "name": "silverhoops-lobe-L",
+      "stepParentName": "Head",
+      "from": [
+        2.6111,
+        1.745,
+        5.428
+      ],
+      "to": [
+        2.6111,
+        1.745,
+        5.428
+      ],
+      "rotationOrigin": [
+        2.6111,
+        1.745,
+        5.428
+      ],
+      "children": [
+        {
+          "name": "silverhoops-lobe-L-lobe_loop",
+          "from": [
+            -0.0361,
+            -0.8051,
+            -0.5985
+          ],
+          "to": [
+            0.1039,
+            0.211,
+            0.4176
+          ],
+          "rotationOrigin": [
+            0.0339,
+            -0.2971,
+            -0.0904
+          ],
+          "rotationX": -150.8917,
+          "rotationY": 89.9988,
+          "rotationZ": 150.8927,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                36.65,
+                96.35,
+                40.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                11.25,
+                10.85,
+                16.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                36.65,
+                96.35,
+                40.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                87.85,
+                16.0,
+                80.0,
+                11.25
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                36.65,
+                96.35,
+                40.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                36.65,
+                96.35,
+                40.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "silverhoops-lobe-R",
+      "stepParentName": "Head",
+      "from": [
+        2.6111,
+        1.745,
+        -0.428
+      ],
+      "to": [
+        2.6111,
+        1.745,
+        -0.428
+      ],
+      "rotationOrigin": [
+        2.6111,
+        1.745,
+        -0.428
+      ],
+      "children": [
+        {
+          "name": "silverhoops-lobe-R-lobe_loop",
+          "from": [
+            -0.0361,
+            -0.8051,
+            -0.4176
+          ],
+          "to": [
+            0.1039,
+            0.211,
+            0.5985
+          ],
+          "rotationOrigin": [
+            0.0339,
+            -0.2971,
+            0.0904
+          ],
+          "rotationX": 150.8917,
+          "rotationY": -89.9988,
+          "rotationZ": 150.8927,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                36.65,
+                96.35,
+                40.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                11.25,
+                10.85,
+                16.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                36.65,
+                96.35,
+                40.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                87.85,
+                16.0,
+                80.0,
+                11.25
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                36.65,
+                96.35,
+                40.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                36.65,
+                96.35,
+                40.0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

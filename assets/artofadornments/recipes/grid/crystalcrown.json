@@ -1,0 +1,185 @@
+[
+  {
+    "ingredientPattern": "CHC,_W_",
+    "ingredients": {
+      "H": {
+        "type": "item",
+        "code": "game:hoop-*",
+        "name": "metal",
+        "allowedVariants": [
+          "bismuthbronze",
+          "blackbronze",
+          "gold",
+          "meteoriciron",
+          "tinbronze"
+        ]
+      },
+      "C": {
+        "type": "item",
+        "code": "game:ore-*",
+        "quantity": 1,
+        "name": "crystal",
+        "allowedVariants": [
+          "fluorite",
+          "halite",
+          "lapislazuli",
+          "olivine",
+          "sylvite"
+        ]
+      },
+      "W": {
+        "type": "item",
+        "code": "game:resin",
+        "quantity": 1
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-crystalcrown-{metal}-{crystal}",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CHC,_W_",
+    "ingredients": {
+      "H": {
+        "type": "item",
+        "code": "game:hoop-*",
+        "name": "metal",
+        "allowedVariants": [
+          "bismuthbronze",
+          "blackbronze",
+          "gold",
+          "meteoriciron",
+          "tinbronze"
+        ]
+      },
+      "C": {
+        "type": "item",
+        "code": "game:amethyst",
+        "quantity": 1
+      },
+      "W": {
+        "type": "item",
+        "code": "game:resin",
+        "quantity": 1
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-crystalcrown-{metal}-amethyst",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CHC,_W_",
+    "ingredients": {
+      "H": {
+        "type": "item",
+        "code": "game:hoop-*",
+        "name": "metal",
+        "allowedVariants": [
+          "bismuthbronze",
+          "blackbronze",
+          "gold",
+          "meteoriciron",
+          "tinbronze"
+        ]
+      },
+      "C": {
+        "type": "item",
+        "code": "game:clearquartz",
+        "quantity": 1
+      },
+      "W": {
+        "type": "item",
+        "code": "game:resin",
+        "quantity": 1
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-crystalcrown-{metal}-quartz",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CHC,_W_",
+    "ingredients": {
+      "H": {
+        "type": "item",
+        "code": "game:hoop-*",
+        "name": "metal",
+        "allowedVariants": [
+          "bismuthbronze",
+          "blackbronze",
+          "gold",
+          "meteoriciron",
+          "tinbronze"
+        ]
+      },
+      "C": {
+        "type": "item",
+        "code": "game:rosequartz",
+        "quantity": 1
+      },
+      "W": {
+        "type": "item",
+        "code": "game:resin",
+        "quantity": 1
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-crystalcrown-{metal}-rosyquartz",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "CHC,_W_",
+    "ingredients": {
+      "H": {
+        "type": "item",
+        "code": "game:hoop-*",
+        "name": "metal",
+        "allowedVariants": [
+          "bismuthbronze",
+          "blackbronze",
+          "gold",
+          "meteoriciron",
+          "tinbronze"
+        ]
+      },
+      "C": {
+        "type": "item",
+        "code": "game:smokyquartz",
+        "quantity": 1
+      },
+      "W": {
+        "type": "item",
+        "code": "game:resin",
+        "quantity": 1
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "shapeless": false,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-crystalcrown-{metal}-smokyquartz",
+      "quantity": 1
+    }
+  }
+]

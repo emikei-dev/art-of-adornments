@@ -1,0 +1,1393 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "earring-metal": [
+      128,
+      85
+    ],
+    "earring-parts": [
+      16,
+      16
+    ],
+    "earring-gem": [
+      32,
+      32
+    ]
+  },
+  "textures": {
+    "earring-metal": "metal/chains",
+    "earring-parts": "garment/earring-parts",
+    "earring-gem": "game:item/resource/ungraded/graphite"
+  },
+  "elements": [
+    {
+      "name": "brassgraphite-lobe-L",
+      "stepParentName": "aoa-lobe-L",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "brassgraphite-lobe-L-hook_R",
+          "from": [
+            -0.091,
+            -0.665,
+            -0.119
+          ],
+          "to": [
+            0.077,
+            0.035,
+            0.049
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -0.315,
+            -0.035
+          ],
+          "rotationX": -179.999,
+          "rotationY": -0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brassgraphite-lobe-L-link_R",
+          "from": [
+            -0.063,
+            -1.015,
+            -0.091
+          ],
+          "to": [
+            0.049,
+            -0.665,
+            0.021
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -0.84,
+            -0.035
+          ],
+          "rotationX": -179.999,
+          "rotationY": -0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brassgraphite-lobe-L-cap_R",
+          "from": [
+            -0.161,
+            -1.155,
+            -0.105
+          ],
+          "to": [
+            0.147,
+            -1.015,
+            0.035
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -1.085,
+            -0.035
+          ],
+          "rotationX": -179.999,
+          "rotationY": -0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brassgraphite-lobe-L-drop_R",
+          "from": [
+            -0.259,
+            -1.855,
+            -0.119
+          ],
+          "to": [
+            0.245,
+            -1.155,
+            0.049
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -1.505,
+            -0.035
+          ],
+          "rotationX": -179.999,
+          "rotationY": -0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-gem",
+              "uv": [
+                5.0,
+                0.0,
+                0.0,
+                8.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-gem",
+              "uv": [
+                3.0,
+                0.0,
+                0.0,
+                11.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-gem",
+              "uv": [
+                5.0,
+                0.0,
+                0.0,
+                8.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-gem",
+              "uv": [
+                3.0,
+                0.0,
+                0.0,
+                11.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                0.0,
+                5.0,
+                3.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                8.0,
+                7.0,
+                11.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brassgraphite-lobe-L-tip_R",
+          "from": [
+            -0.091,
+            -2.065,
+            -0.091
+          ],
+          "to": [
+            0.077,
+            -1.855,
+            0.021
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -1.96,
+            -0.035
+          ],
+          "rotationX": -179.999,
+          "rotationY": -0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "brassgraphite-conch-L",
+      "stepParentName": "aoa-conch-L",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "brassgraphite-conch-L-conch_loop",
+          "from": [
+            -0.0968,
+            -0.4876,
+            -0.3145
+          ],
+          "to": [
+            0.0733,
+            0.108,
+            0.2811
+          ],
+          "rotationOrigin": [
+            -0.0118,
+            -0.1898,
+            -0.0167
+          ],
+          "rotationX": -150.8917,
+          "rotationY": 89.9988,
+          "rotationZ": 150.8927,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brassgraphite-conch-L-conch_loop",
+          "from": [
+            -0.0078,
+            -1.3107,
+            -0.3694
+          ],
+          "to": [
+            -0.0078,
+            -0.4931,
+            0.3313
+          ],
+          "rotationOrigin": [
+            -0.0078,
+            -0.9019,
+            -0.0191
+          ],
+          "rotationX": -0.0016,
+          "rotationY": 77.751,
+          "rotationZ": 0.0027,
+          "faces": {
+            "east": {
+              "texture": "#earring-parts",
+              "uv": [
+                11.4375,
+                4.375,
+                12.4375,
+                6.4375
+              ]
+            },
+            "west": {
+              "texture": "#earring-parts",
+              "uv": [
+                11.4375,
+                4.375,
+                12.4375,
+                6.4375
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "brassgraphite-helix-L",
+      "stepParentName": "aoa-helix-L",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "brassgraphite-helix-L-helix_earring",
+          "from": [
+            -0.1251,
+            -1.2364,
+            -0.2283
+          ],
+          "to": [
+            -0.1251,
+            -0.4188,
+            0.2832
+          ],
+          "rotationOrigin": [
+            -0.1251,
+            -0.8276,
+            0.0275
+          ],
+          "rotationX": -0.0023,
+          "rotationY": 80.001,
+          "rotationZ": 0.0033,
+          "faces": {
+            "east": {
+              "texture": "#earring-parts",
+              "uv": [
+                158.85,
+                155.0,
+                148.0,
+                138.5
+              ]
+            },
+            "west": {
+              "texture": "#earring-parts",
+              "uv": [
+                11.4375,
+                4.375,
+                12.4375,
+                6.4375
+              ]
+            }
+          }
+        },
+        {
+          "name": "brassgraphite-helix-L-helix_loop",
+          "from": [
+            -0.1636,
+            -0.3986,
+            -0.239
+          ],
+          "to": [
+            -0.0114,
+            0.1339,
+            0.2935
+          ],
+          "rotationOrigin": [
+            -0.0875,
+            -0.1323,
+            0.0272
+          ],
+          "rotationX": -150.8917,
+          "rotationY": 89.9988,
+          "rotationZ": 150.8927,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "brassgraphite-lobe-R",
+      "stepParentName": "aoa-lobe-R",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "brassgraphite-lobe-R-hook_R",
+          "from": [
+            -0.091,
+            -0.665,
+            -0.049
+          ],
+          "to": [
+            0.077,
+            0.035,
+            0.119
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -0.315,
+            0.035
+          ],
+          "rotationX": 179.999,
+          "rotationY": 0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                99.0,
+                58.0,
+                94.0,
+                83.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brassgraphite-lobe-R-link_R",
+          "from": [
+            -0.063,
+            -1.015,
+            -0.021
+          ],
+          "to": [
+            0.049,
+            -0.665,
+            0.091
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -0.84,
+            0.035
+          ],
+          "rotationX": 179.999,
+          "rotationY": 0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                7.0,
+                97.0,
+                10.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brassgraphite-lobe-R-cap_R",
+          "from": [
+            -0.161,
+            -1.155,
+            -0.035
+          ],
+          "to": [
+            0.147,
+            -1.015,
+            0.105
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -1.085,
+            0.035
+          ],
+          "rotationX": 179.999,
+          "rotationY": 0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                35.0,
+                4.0,
+                40.0,
+                6.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brassgraphite-lobe-R-drop_R",
+          "from": [
+            -0.259,
+            -1.855,
+            -0.049
+          ],
+          "to": [
+            0.245,
+            -1.155,
+            0.119
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -1.505,
+            0.035
+          ],
+          "rotationX": 179.999,
+          "rotationY": 0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-gem",
+              "uv": [
+                5.0,
+                0.0,
+                0.0,
+                8.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-gem",
+              "uv": [
+                3.0,
+                0.0,
+                0.0,
+                11.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-gem",
+              "uv": [
+                5.0,
+                0.0,
+                0.0,
+                8.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-gem",
+              "uv": [
+                3.0,
+                0.0,
+                0.0,
+                11.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                0.0,
+                5.0,
+                3.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-gem",
+              "uv": [
+                0.0,
+                8.0,
+                7.0,
+                11.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brassgraphite-lobe-R-tip_R",
+          "from": [
+            -0.091,
+            -2.065,
+            -0.021
+          ],
+          "to": [
+            0.077,
+            -1.855,
+            0.091
+          ],
+          "rotationOrigin": [
+            -0.007,
+            -1.96,
+            0.035
+          ],
+          "rotationX": 179.999,
+          "rotationY": 0.001,
+          "rotationZ": 179.9994,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                62.0,
+                4.4,
+                66.3,
+                5.6
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "brassgraphite-conch-R",
+      "stepParentName": "aoa-conch-R",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "brassgraphite-conch-R-conch_loop",
+          "from": [
+            -0.0968,
+            -0.4876,
+            -0.2811
+          ],
+          "to": [
+            0.0733,
+            0.108,
+            0.3145
+          ],
+          "rotationOrigin": [
+            -0.0118,
+            -0.1898,
+            0.0167
+          ],
+          "rotationX": 150.8917,
+          "rotationY": -89.9988,
+          "rotationZ": 150.8927,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "brassgraphite-conch-R-conch_loop",
+          "from": [
+            -0.0078,
+            -1.3107,
+            -0.3313
+          ],
+          "to": [
+            -0.0078,
+            -0.4931,
+            0.3694
+          ],
+          "rotationOrigin": [
+            -0.0078,
+            -0.9019,
+            0.0191
+          ],
+          "rotationX": 0.0016,
+          "rotationY": -77.751,
+          "rotationZ": 0.0027,
+          "faces": {
+            "east": {
+              "texture": "#earring-parts",
+              "uv": [
+                11.4375,
+                4.375,
+                12.4375,
+                6.4375
+              ]
+            },
+            "west": {
+              "texture": "#earring-parts",
+              "uv": [
+                11.4375,
+                4.375,
+                12.4375,
+                6.4375
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "brassgraphite-helix-R",
+      "stepParentName": "aoa-helix-R",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "brassgraphite-helix-R-helix_earring",
+          "from": [
+            -0.1251,
+            -1.2364,
+            -0.2832
+          ],
+          "to": [
+            -0.1251,
+            -0.4188,
+            0.2283
+          ],
+          "rotationOrigin": [
+            -0.1251,
+            -0.8276,
+            -0.0275
+          ],
+          "rotationX": 0.0023,
+          "rotationY": -80.001,
+          "rotationZ": 0.0033,
+          "faces": {
+            "east": {
+              "texture": "#earring-parts",
+              "uv": [
+                158.85,
+                155.0,
+                148.0,
+                138.5
+              ]
+            },
+            "west": {
+              "texture": "#earring-parts",
+              "uv": [
+                11.4375,
+                4.375,
+                12.4375,
+                6.4375
+              ]
+            }
+          }
+        },
+        {
+          "name": "brassgraphite-helix-R-helix_loop",
+          "from": [
+            -0.1636,
+            -0.3986,
+            -0.2935
+          ],
+          "to": [
+            -0.0114,
+            0.1339,
+            0.239
+          ],
+          "rotationOrigin": [
+            -0.0875,
+            -0.1323,
+            -0.0272
+          ],
+          "rotationX": 150.8917,
+          "rotationY": -89.9988,
+          "rotationZ": 150.8927,
+          "faces": {
+            "north": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "east": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "south": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "west": {
+              "texture": "#earring-metal",
+              "uv": [
+                3.0,
+                3.25,
+                10.85,
+                8.0
+              ]
+            },
+            "up": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            },
+            "down": {
+              "texture": "#earring-metal",
+              "uv": [
+                95.0,
+                63.65,
+                96.35,
+                67.0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "code": "clothes",
+  "variantgroups": [
+    {
+      "code": "category",
+      "states": [
+        "head"
+      ]
+    },
+    {
+      "code": "head",
+      "combine": "SelectiveMultiply",
+      "onVariant": "category",
+      "states": [
+        "crystalcrown"
+      ]
+    },
+    {
+      "code": "metal",
+      "states": [
+        "bismuthbronze",
+        "blackbronze",
+        "gold",
+        "meteoriciron",
+        "tinbronze"
+      ]
+    },
+    {
+      "code": "crystal",
+      "states": [
+        "amethyst",
+        "fluorite",
+        "halite",
+        "lapislazuli",
+        "olivine",
+        "quartz",
+        "rosyquartz",
+        "smokyquartz",
+        "sylvite"
+      ]
+    }
+  ],
+  "storageFlags": 128,
+  "maxstacksize": 1,
+  "shape": {
+    "base": "{head}"
+  },
+  "textures": {
+    "seraph": {
+      "base": "game:block/transparent"
+    },
+    "crystalcrown-metal": {
+      "base": "game:block/metal/riveted/{metal}3"
+    },
+    "crystalcrown-crystal": {
+      "base": "game:item/resource/ungraded/{crystal}"
+    }
+  },
+  "behaviors": [
+    {
+      "name": "Wearable"
+    }
+  ],
+  "attributes": {
+    "clothescategory": "head",
+    "wearableAttachment": true,
+    "wearableTexturePrefixCode": null,
+    "displaycaseable": true,
+    "handbook": {
+      "include": true
+    }
+  },
+  "creativeinventory": {
+    "general": [
+      "*-gold-amethyst"
+    ],
+    "items": [
+      "*-gold-amethyst"
+    ],
+    "clothing": [
+      "*-gold-amethyst"
+    ]
+  },
+  "renderAlphaTest": 0.25,
+  "guiTransform": {
+    "rotate": false,
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": -180,
+      "y": -66,
+      "z": 5
+    },
+    "origin": {
+      "x": 0.51,
+      "y": 2.02,
+      "z": 0.5
+    },
+    "scale": 2.93
+  }
+}

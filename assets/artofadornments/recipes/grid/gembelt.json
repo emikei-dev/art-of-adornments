@@ -1,0 +1,356 @@
+[
+  {
+    "ingredientPattern": "LGL,GLG,NGN",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-silver",
+        "quantity": 1
+      },
+      "N": {
+        "type": "item",
+        "code": "game:metalbit-silver",
+        "quantity": 3
+      },
+      "G": {
+        "type": "item",
+        "code": "game:amethyst",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-waist-gembelt-silveramethyst",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LGL,GLG,NGN",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-gold",
+        "quantity": 1
+      },
+      "N": {
+        "type": "item",
+        "code": "game:metalbit-gold",
+        "quantity": 3
+      },
+      "G": {
+        "type": "item",
+        "code": "game:amethyst",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-waist-gembelt-goldamethyst",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LGL,GLG,NGN",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-silver",
+        "quantity": 1
+      },
+      "N": {
+        "type": "item",
+        "code": "game:metalbit-silver",
+        "quantity": 3
+      },
+      "G": {
+        "type": "item",
+        "code": "game:ore-lapislazuli",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-waist-gembelt-silverlapis",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LGL,GLG,NGN",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-gold",
+        "quantity": 1
+      },
+      "N": {
+        "type": "item",
+        "code": "game:metalbit-gold",
+        "quantity": 3
+      },
+      "G": {
+        "type": "item",
+        "code": "game:ore-lapislazuli",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-waist-gembelt-goldlapis",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LGL,GLG,NGN",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-silver",
+        "quantity": 1
+      },
+      "N": {
+        "type": "item",
+        "code": "game:metalbit-silver",
+        "quantity": 3
+      },
+      "G": {
+        "type": "item",
+        "code": "game:ore-olivine",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-waist-gembelt-silverolivine",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LGL,GLG,NGN",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-gold",
+        "quantity": 1
+      },
+      "N": {
+        "type": "item",
+        "code": "game:metalbit-gold",
+        "quantity": 3
+      },
+      "G": {
+        "type": "item",
+        "code": "game:ore-olivine",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-waist-gembelt-goldolivine",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LGL,GLG,NGN",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-silver",
+        "quantity": 1
+      },
+      "N": {
+        "type": "item",
+        "code": "game:metalbit-silver",
+        "quantity": 3
+      },
+      "G": {
+        "type": "item",
+        "code": "game:ore-sylvite",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-waist-gembelt-silversylvite",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LGL,GLG,NGN",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-gold",
+        "quantity": 1
+      },
+      "N": {
+        "type": "item",
+        "code": "game:metalbit-gold",
+        "quantity": 3
+      },
+      "G": {
+        "type": "item",
+        "code": "game:ore-sylvite",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-waist-gembelt-goldsylvite",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LGL,GLG,NGN",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-silver",
+        "quantity": 1
+      },
+      "N": {
+        "type": "item",
+        "code": "game:metalbit-silver",
+        "quantity": 3
+      },
+      "G": {
+        "type": "item",
+        "code": "game:ore-graphite",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-waist-gembelt-silvergraphite",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LGL,GLG,NGN",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-gold",
+        "quantity": 1
+      },
+      "N": {
+        "type": "item",
+        "code": "game:metalbit-gold",
+        "quantity": 3
+      },
+      "G": {
+        "type": "item",
+        "code": "game:ore-graphite",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-waist-gembelt-goldgraphite",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LAL,BLC,NDN",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-silver",
+        "quantity": 1
+      },
+      "N": {
+        "type": "item",
+        "code": "game:metalbit-silver",
+        "quantity": 3
+      },
+      "A": {
+        "type": "item",
+        "code": "game:ore-graphite",
+        "quantity": 2
+      },
+      "B": {
+        "type": "item",
+        "code": "game:ore-lapislazuli",
+        "quantity": 2
+      },
+      "C": {
+        "type": "item",
+        "code": "game:ore-olivine",
+        "quantity": 2
+      },
+      "D": {
+        "type": "item",
+        "code": "game:ore-sylvite",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-waist-gembelt-silvermixed",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LAL,BLC,NDN",
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:loopschains-gold",
+        "quantity": 1
+      },
+      "N": {
+        "type": "item",
+        "code": "game:metalbit-gold",
+        "quantity": 3
+      },
+      "A": {
+        "type": "item",
+        "code": "game:ore-cinnabar",
+        "quantity": 2
+      },
+      "B": {
+        "type": "item",
+        "code": "game:rosequartz",
+        "quantity": 2
+      },
+      "C": {
+        "type": "item",
+        "code": "game:amethyst",
+        "quantity": 2
+      },
+      "D": {
+        "type": "item",
+        "code": "game:ore-cinnabar",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 3,
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-waist-gembelt-goldmixed",
+      "quantity": 1
+    }
+  }
+]

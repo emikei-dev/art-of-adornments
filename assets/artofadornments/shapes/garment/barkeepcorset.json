@@ -1,0 +1,590 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "aoa-barkeep-fabric": [
+      258,
+      258
+    ]
+  },
+  "textures": {
+    "aoa-barkeep-fabric": "garment/flat-corset"
+  },
+  "elements": [
+    {
+      "name": "barkeepcorset-1-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "barkeepcorset-1",
+          "from": [
+            -0.15,
+            -1.0301,
+            -0.2123
+          ],
+          "to": [
+            5.175,
+            1.9699,
+            1.8127
+          ],
+          "rotationOrigin": [
+            2.5125,
+            0.4699,
+            0.8002
+          ],
+          "rotationX": -5.25,
+          "faces": {
+            "north": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                81.1437,
+                29.425,
+                160.6305,
+                72.3563
+              ]
+            },
+            "east": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                35.6617,
+                29.425,
+                8.5813,
+                72.3563
+              ]
+            },
+            "west": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                8.5813,
+                29.425,
+                43.7242,
+                80.4188
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "barkeepcorset-2-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "barkeepcorset-2",
+          "from": [
+            -0.15,
+            -1.0081,
+            4.3687
+          ],
+          "to": [
+            5.175,
+            1.9919,
+            6.3937
+          ],
+          "rotationOrigin": [
+            2.5125,
+            0.4919,
+            5.3812
+          ],
+          "rotationX": 5.5,
+          "faces": {
+            "east": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                8.5813,
+                29.425,
+                35.6617,
+                72.3563
+              ]
+            },
+            "south": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                81.1437,
+                29.425,
+                160.6305,
+                72.3563
+              ]
+            },
+            "west": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                43.7242,
+                29.425,
+                8.5813,
+                80.4188
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "barkeepcorset-3-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "barkeepcorset-3",
+          "from": [
+            -0.175,
+            -0.95,
+            1.35
+          ],
+          "to": [
+            5.2,
+            2.1,
+            4.875
+          ],
+          "rotationOrigin": [
+            2.5125,
+            0.575,
+            3.1125
+          ],
+          "faces": {
+            "east": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                104.6469,
+                28.45,
+                152.8921,
+                72.5473
+              ]
+            },
+            "west": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                104.6469,
+                29.2563,
+                160.9546,
+                80.6098
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "barkeepcorset-4-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "barkeepcorset-4",
+          "from": [
+            -0.125,
+            -0.2577,
+            -0.3091
+          ],
+          "to": [
+            5.125,
+            4.7423,
+            1.7159
+          ],
+          "rotationOrigin": [
+            2.5,
+            2.2423,
+            0.7034
+          ],
+          "rotationX": 9.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                81.1437,
+                104.6063,
+                160.6305,
+                24.5875
+              ]
+            },
+            "east": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                0.1726,
+                105.2466,
+                32.2628,
+                24.4187
+              ]
+            },
+            "west": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                40.3253,
+                121.3716,
+                0.1726,
+                24.4187
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "barkeepcorset-5-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "barkeepcorset-5",
+          "from": [
+            -0.125,
+            -0.2538,
+            4.2838
+          ],
+          "to": [
+            5.125,
+            4.7462,
+            6.3088
+          ],
+          "rotationOrigin": [
+            2.5,
+            2.2462,
+            5.2963
+          ],
+          "rotationX": -9.0,
+          "faces": {
+            "east": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                32.2628,
+                105.2466,
+                0.1726,
+                24.4187
+              ]
+            },
+            "south": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                81.1437,
+                104.6063,
+                160.6305,
+                24.5875
+              ]
+            },
+            "west": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                0.1726,
+                121.3716,
+                40.3253,
+                24.4187
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "barkeepcorset-6-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "barkeepcorset-6",
+          "from": [
+            -0.15,
+            -1.125,
+            1.25
+          ],
+          "to": [
+            5.15,
+            4.625,
+            4.775
+          ],
+          "rotationOrigin": [
+            2.5,
+            1.75,
+            3.0125
+          ],
+          "faces": {
+            "east": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                104.6469,
+                96.7348,
+                152.8921,
+                17.1625
+              ]
+            },
+            "west": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                96.5844,
+                112.8598,
+                152.8921,
+                17.1625
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "barkeepcorset-7-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "barkeepcorset-7",
+          "from": [
+            -0.125,
+            -0.925,
+            -0.025
+          ],
+          "to": [
+            4.8,
+            1.425,
+            6.215
+          ],
+          "rotationOrigin": [
+            2.3375,
+            0.25,
+            3.095
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                81.1437,
+                32.65,
+                160.6305,
+                64.2938
+              ]
+            },
+            "east": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                81.1437,
+                32.65,
+                160.6305,
+                64.2938
+              ]
+            },
+            "south": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                81.1437,
+                32.65,
+                160.6305,
+                64.2938
+              ]
+            },
+            "west": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                81.1437,
+                32.65,
+                160.6305,
+                64.2938
+              ]
+            },
+            "down": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                81.1437,
+                32.65,
+                160.6305,
+                64.2938
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "barkeepcorset-8-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "barkeepcorset-8",
+          "from": [
+            -0.0093,
+            2.2246,
+            -0.025
+          ],
+          "to": [
+            4.8157,
+            5.0746,
+            6.075
+          ],
+          "rotationOrigin": [
+            2.4032,
+            3.6496,
+            3.025
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                81.1437,
+                72.3563,
+                176.7555,
+                32.65
+              ]
+            },
+            "east": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                81.1437,
+                72.3563,
+                176.7555,
+                32.65
+              ]
+            },
+            "south": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                81.1437,
+                72.3563,
+                176.7555,
+                32.65
+              ]
+            },
+            "west": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                81.1437,
+                72.3563,
+                176.7555,
+                32.65
+              ]
+            },
+            "up": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                81.1437,
+                152.9812,
+                160.6305,
+                56.8375
+              ]
+            },
+            "down": {
+              "texture": "#aoa-barkeep-fabric",
+              "uv": [
+                81.1437,
+                72.3563,
+                176.7555,
+                32.65
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

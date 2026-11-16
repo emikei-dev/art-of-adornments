@@ -1,0 +1,2405 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "aoa-hornedhennin-cloth": [
+      32,
+      32
+    ],
+    "aoa-hornedhennin-metal": [
+      32,
+      32
+    ],
+    "aoa-hornedhennin-veil": [
+      128,
+      104
+    ]
+  },
+  "textures": {
+    "aoa-hornedhennin-cloth": "game:block/cloth/basic/pink",
+    "aoa-hornedhennin-metal": "game:block/metal/plate/platinum",
+    "aoa-hornedhennin-veil": "fabric/lace/delicate-lace/white"
+  },
+  "elements": [
+    {
+      "name": "hornedhennin-princess-1-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-1",
+          "from": [
+            0.3839,
+            3.5576,
+            0.6326
+          ],
+          "to": [
+            4.0639,
+            6.8926,
+            1.6676
+          ],
+          "rotationOrigin": [
+            2.2239,
+            5.2251,
+            1.1501
+          ],
+          "rotationX": -105.1027,
+          "rotationY": 21.7968,
+          "rotationZ": 173.2224,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                15.3,
+                3.1,
+                16.5,
+                9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                15.3,
+                3.1,
+                16.5,
+                9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                15.3,
+                3.1,
+                16.5,
+                9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                15.3,
+                3.1,
+                16.5,
+                9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                15.3,
+                3.1,
+                16.5,
+                9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                15.3,
+                3.1,
+                16.5,
+                9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-2-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-2",
+          "from": [
+            0.3839,
+            3.5576,
+            3.3324
+          ],
+          "to": [
+            4.0639,
+            6.8926,
+            4.3674
+          ],
+          "rotationOrigin": [
+            2.2239,
+            5.2251,
+            3.8499
+          ],
+          "rotationX": -74.8973,
+          "rotationY": 21.7968,
+          "rotationZ": 6.7776,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                16.5,
+                3.1,
+                15.3,
+                9
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                16.5,
+                3.1,
+                15.3,
+                9
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                16.5,
+                3.1,
+                15.3,
+                9
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                16.5,
+                3.1,
+                15.3,
+                9
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                16.5,
+                3.1,
+                15.3,
+                9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                16.5,
+                3.1,
+                15.3,
+                9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-3-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-3",
+          "from": [
+            6.5107,
+            8.5661,
+            6.3268
+          ],
+          "to": [
+            7.2421,
+            10.5154,
+            7.0583
+          ],
+          "rotationOrigin": [
+            6.8764,
+            9.5408,
+            6.6925
+          ],
+          "rotationX": 16.6828,
+          "rotationY": -5.6194,
+          "rotationZ": -26.3907,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                23,
+                27
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                23,
+                27
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                23,
+                27
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                23,
+                27
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                23,
+                27
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                23,
+                27
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-4-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-4",
+          "from": [
+            5.6999,
+            7.4234,
+            5.6071
+          ],
+          "to": [
+            7.0408,
+            9.2576,
+            6.948
+          ],
+          "rotationOrigin": [
+            6.3704,
+            8.3405,
+            6.2775
+          ],
+          "rotationX": 18.9377,
+          "rotationY": -6.726,
+          "rotationZ": -26.1482,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                24,
+                27
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                24,
+                27
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                24,
+                27
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                24,
+                27
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                24,
+                27
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                24,
+                27
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-5-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-5",
+          "from": [
+            4.8362,
+            6.2654,
+            4.7319
+          ],
+          "to": [
+            6.7866,
+            7.9847,
+            6.6823
+          ],
+          "rotationOrigin": [
+            5.8114,
+            7.1251,
+            5.7071
+          ],
+          "rotationX": 28.0756,
+          "rotationY": -11.0311,
+          "rotationZ": -24.7339,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                25,
+                27
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                25,
+                27
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                25,
+                27
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                25,
+                27
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                25,
+                27
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                25,
+                27
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-6-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-6",
+          "from": [
+            4.1574,
+            5.6273,
+            3.9735
+          ],
+          "to": [
+            6.7173,
+            7.2316,
+            6.5334
+          ],
+          "rotationOrigin": [
+            5.4374,
+            6.4295,
+            5.2535
+          ],
+          "rotationX": 28.0756,
+          "rotationY": -11.0311,
+          "rotationZ": -24.7339,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                26,
+                27
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                26,
+                27
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                26,
+                27
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                26,
+                27
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                26,
+                27
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                26,
+                27
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-7-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-7",
+          "from": [
+            3.3828,
+            4.9835,
+            3.0988
+          ],
+          "to": [
+            6.5522,
+            6.1277,
+            6.2682
+          ],
+          "rotationOrigin": [
+            4.9675,
+            5.5556,
+            4.6835
+          ],
+          "rotationX": 28.0756,
+          "rotationY": -11.0311,
+          "rotationZ": -24.7339,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                25.1,
+                27,
+                27
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                25.1,
+                27,
+                27
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                25.1,
+                27,
+                27
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                25.1,
+                27,
+                27
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                25.1,
+                27,
+                27
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                25.1,
+                27,
+                27
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-8-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-8",
+          "from": [
+            0.7821,
+            4.0907,
+            2.1867
+          ],
+          "to": [
+            6.861,
+            5.9192,
+            5.9656
+          ],
+          "rotationOrigin": [
+            3.8215,
+            5.0049,
+            4.0761
+          ],
+          "rotationX": 28.0756,
+          "rotationY": -11.0311,
+          "rotationZ": -24.7339,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                28,
+                27
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                28,
+                27
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                28,
+                27
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                28,
+                27
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                4,
+                20.1,
+                13,
+                26
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                28,
+                27
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-9-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-9",
+          "from": [
+            6.4684,
+            8.487,
+            -2.1869
+          ],
+          "to": [
+            7.1998,
+            10.4363,
+            -1.4555
+          ],
+          "rotationOrigin": [
+            6.8341,
+            9.4617,
+            -1.8212
+          ],
+          "rotationX": -16.6828,
+          "rotationY": 5.6194,
+          "rotationZ": -26.3907,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                23,
+                27
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                23,
+                27
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                23,
+                27
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                23,
+                27
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                23,
+                27
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                23,
+                27
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-10-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-10",
+          "from": [
+            5.669,
+            7.3776,
+            -2.0641
+          ],
+          "to": [
+            7.0099,
+            9.2118,
+            -0.7232
+          ],
+          "rotationOrigin": [
+            6.3394,
+            8.2947,
+            -1.3937
+          ],
+          "rotationX": -18.9377,
+          "rotationY": 6.726,
+          "rotationZ": -26.1482,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                24,
+                27
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                24,
+                27
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                24,
+                27
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                24,
+                27
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                24,
+                27
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                24,
+                27
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-11-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-11",
+          "from": [
+            4.8596,
+            6.3217,
+            -1.8522
+          ],
+          "to": [
+            6.81,
+            8.041,
+            0.0982
+          ],
+          "rotationOrigin": [
+            5.8348,
+            7.1814,
+            -0.877
+          ],
+          "rotationX": -28.0756,
+          "rotationY": 11.0311,
+          "rotationZ": -24.7339,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                25,
+                27
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                25,
+                27
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                25,
+                27
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                25,
+                27
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                25,
+                27
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                25,
+                27
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-12-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-12",
+          "from": [
+            4.1808,
+            5.6837,
+            -1.7032
+          ],
+          "to": [
+            6.7407,
+            7.2879,
+            0.8567
+          ],
+          "rotationOrigin": [
+            5.4607,
+            6.4858,
+            -0.4233
+          ],
+          "rotationX": -28.0756,
+          "rotationY": 11.0311,
+          "rotationZ": -24.7339,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                26,
+                27
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                26,
+                27
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                26,
+                27
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                26,
+                27
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                26,
+                27
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                26,
+                27
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-13-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-13",
+          "from": [
+            3.4061,
+            5.0398,
+            -1.4381
+          ],
+          "to": [
+            6.5755,
+            6.184,
+            1.7313
+          ],
+          "rotationOrigin": [
+            4.9908,
+            5.6119,
+            0.1466
+          ],
+          "rotationX": -28.0756,
+          "rotationY": 11.0311,
+          "rotationZ": -24.7339,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                25.1,
+                27,
+                27
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                25.1,
+                27,
+                27
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                25.1,
+                27,
+                27
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                25.1,
+                27,
+                27
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                25.1,
+                27,
+                27
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                25.1,
+                27,
+                27
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-14-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-14",
+          "from": [
+            0.8054,
+            4.147,
+            -1.1354
+          ],
+          "to": [
+            6.8843,
+            5.9755,
+            2.6435
+          ],
+          "rotationOrigin": [
+            3.8448,
+            5.0612,
+            0.7541
+          ],
+          "rotationX": -28.0756,
+          "rotationY": 11.0311,
+          "rotationZ": -24.7339,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                28,
+                27
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                28,
+                27
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                28,
+                27
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                28,
+                27
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                4,
+                20.1,
+                13,
+                26
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-cloth",
+              "uv": [
+                22,
+                24.1,
+                28,
+                27
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-15-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-15",
+          "from": [
+            -0.2579,
+            5.0134,
+            -0.6097
+          ],
+          "to": [
+            0.3516,
+            5.6229,
+            5.6403
+          ],
+          "rotationOrigin": [
+            0.0469,
+            5.3182,
+            2.5153
+          ],
+          "rotationX": 180.0,
+          "rotationZ": -153.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                1,
+                31
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                10,
+                31
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                1,
+                31
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                10,
+                31
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                10,
+                31
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                10,
+                31
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-16-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-16",
+          "from": [
+            -0.12,
+            3.6493,
+            -0.7743
+          ],
+          "to": [
+            5.837,
+            4.2588,
+            -0.1648
+          ],
+          "rotationOrigin": [
+            2.8585,
+            3.9541,
+            -0.4696
+          ],
+          "rotationX": 180.0,
+          "rotationZ": -153.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                10,
+                31
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                1,
+                31
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                10,
+                31
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                10,
+                31
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                10,
+                31
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                10,
+                31
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-17-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-17",
+          "from": [
+            -0.1713,
+            3.5464,
+            5.2034
+          ],
+          "to": [
+            5.7857,
+            4.1559,
+            5.8129
+          ],
+          "rotationOrigin": [
+            2.8072,
+            3.8512,
+            5.5081
+          ],
+          "rotationX": 180.0,
+          "rotationZ": -153.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                10,
+                31
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                1,
+                31
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                10,
+                31
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                10,
+                31
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                10,
+                31
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-metal",
+              "uv": [
+                0,
+                32,
+                10,
+                31
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-18-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-18",
+          "from": [
+            6.9507,
+            -8.5763,
+            6.6293
+          ],
+          "to": [
+            8.9977,
+            10.8702,
+            9.6998
+          ],
+          "rotationOrigin": [
+            7.9742,
+            1.147,
+            8.1645
+          ],
+          "rotationX": 174.2749,
+          "rotationY": 29.4987,
+          "rotationZ": 179.0084,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                7.6424,
+                32.5402,
+                2.9107,
+                66.2119
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                2.9107,
+                32.5402,
+                7.6424,
+                66.2119
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                110.6015,
+                29.366,
+                104.1052,
+                65.7937
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                109.2522,
+                67.9723,
+                113.6206,
+                74.3407
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-19-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-19",
+          "from": [
+            7.0509,
+            -6.9262,
+            5.0711
+          ],
+          "to": [
+            9.0979,
+            10.4733,
+            7.1181
+          ],
+          "rotationOrigin": [
+            8.0744,
+            1.7736,
+            6.0946
+          ],
+          "rotationX": -177.11,
+          "rotationY": 29.4183,
+          "rotationZ": 179.6803,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                13.3091,
+                33.8735,
+                2.9107,
+                66.2119
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                2.9107,
+                32.5402,
+                7.6424,
+                66.2119
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                109.5681,
+                28.0327,
+                103.8052,
+                65.7937
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                107.2522,
+                66.9723,
+                113.6206,
+                73.3407
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-20-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-20",
+          "from": [
+            5.3431,
+            -6.6103,
+            8.2369
+          ],
+          "to": [
+            7.3901,
+            10.7892,
+            10.2839
+          ],
+          "rotationOrigin": [
+            6.3666,
+            2.0895,
+            9.2604
+          ],
+          "rotationX": 165.693,
+          "rotationY": 29.0256,
+          "rotationZ": -171.8759,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                7.6424,
+                32.5402,
+                2.9107,
+                66.2119
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                103.8052,
+                28.0327,
+                109.5681,
+                65.7937
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                107.2522,
+                66.9723,
+                113.6206,
+                73.3407
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-21-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-21",
+          "from": [
+            6.7842,
+            7.1476,
+            2.3552
+          ],
+          "to": [
+            6.7842,
+            10.5976,
+            6.9552
+          ],
+          "rotationOrigin": [
+            6.7842,
+            8.8726,
+            4.6552
+          ],
+          "rotationX": 168.875,
+          "rotationY": 5.7357,
+          "rotationZ": 46.7356,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                100,
+                78,
+                83,
+                67
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                100,
+                78,
+                83,
+                67
+              ]
+            },
+            "west": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                96.6667,
+                78,
+                89,
+                73
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                100,
+                78,
+                83,
+                67
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                100,
+                78,
+                83,
+                67
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-22-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-22",
+          "from": [
+            6.7842,
+            7.1476,
+            -1.9552
+          ],
+          "to": [
+            6.7842,
+            10.5976,
+            2.6448
+          ],
+          "rotationOrigin": [
+            6.7842,
+            8.8726,
+            0.3448
+          ],
+          "rotationX": 11.125,
+          "rotationY": 5.7357,
+          "rotationZ": 133.2644,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                83,
+                78,
+                100,
+                67
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                89,
+                78,
+                96.6667,
+                73
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                83,
+                78,
+                100,
+                67
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                83,
+                78,
+                100,
+                67
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                83,
+                78,
+                100,
+                67
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-23-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-23",
+          "from": [
+            6.9507,
+            -8.6763,
+            -5.0998
+          ],
+          "to": [
+            8.9977,
+            10.7702,
+            -2.0293
+          ],
+          "rotationOrigin": [
+            7.9742,
+            1.047,
+            -3.5645
+          ],
+          "rotationX": 5.7251,
+          "rotationY": 29.4987,
+          "rotationZ": 0.9916,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                2.9107,
+                32.5402,
+                7.6424,
+                66.2119
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                104.1052,
+                29.366,
+                110.6015,
+                65.7937
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                7.6424,
+                32.5402,
+                2.9107,
+                66.2119
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                113.6206,
+                67.9723,
+                109.2522,
+                74.3407
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-24-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-24",
+          "from": [
+            7.0509,
+            -7.0262,
+            -2.5181
+          ],
+          "to": [
+            9.0979,
+            10.3733,
+            -0.4711
+          ],
+          "rotationOrigin": [
+            8.0744,
+            1.6736,
+            -1.4946
+          ],
+          "rotationX": -2.89,
+          "rotationY": 29.4183,
+          "rotationZ": 0.3197,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                2.9107,
+                33.8735,
+                13.3091,
+                66.2119
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                103.8052,
+                28.0327,
+                109.5681,
+                65.7937
+              ]
+            },
+            "south": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                7.6424,
+                32.5402,
+                2.9107,
+                66.2119
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                113.6206,
+                66.9723,
+                107.2522,
+                73.3407
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-25-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-25",
+          "from": [
+            5.3431,
+            -6.7103,
+            -5.6839
+          ],
+          "to": [
+            7.3901,
+            10.6892,
+            -3.6369
+          ],
+          "rotationOrigin": [
+            6.3666,
+            1.9895,
+            -4.6604
+          ],
+          "rotationX": 14.307,
+          "rotationY": 29.0256,
+          "rotationZ": -8.1241,
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                2.9107,
+                32.5402,
+                7.6424,
+                66.2119
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                109.5681,
+                28.0327,
+                103.8052,
+                65.7937
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                113.6206,
+                66.9723,
+                107.2522,
+                73.3407
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "hornedhennin-princess-26-attach",
+      "stepParentName": "Head",
+      "from": [
+        0.5,
+        0,
+        0
+      ],
+      "to": [
+        0.5,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0.5,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "hornedhennin-princess-26",
+          "from": [
+            8.1089,
+            -2.5774,
+            -2.2377
+          ],
+          "to": [
+            8.1089,
+            10.0726,
+            6.9623
+          ],
+          "rotationOrigin": [
+            8.1089,
+            3.7476,
+            2.3623
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                2,
+                1,
+                2,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                15.3333,
+                78,
+                30.6667,
+                101
+              ]
+            },
+            "up": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                0,
+                0,
+                0,
+                8
+              ]
+            },
+            "down": {
+              "texture": "#aoa-hornedhennin-veil",
+              "uv": [
+                0,
+                0,
+                0,
+                8
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

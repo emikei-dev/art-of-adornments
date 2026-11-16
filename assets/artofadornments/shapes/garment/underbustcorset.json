@@ -1,0 +1,1960 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "aoa-underbustcorset-leather": [
+      32,
+      32
+    ],
+    "aoa-underbustcorset-lace": [
+      32,
+      32
+    ]
+  },
+  "textures": {
+    "aoa-underbustcorset-leather": "game:item/tool/shield/leather/brown",
+    "aoa-underbustcorset-lace": "game:block/cloth/basic/black"
+  },
+  "elements": [
+    {
+      "name": "underbustcorset-1-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-1",
+          "from": [
+            -0.4,
+            4.7444,
+            2.4925
+          ],
+          "to": [
+            -0.2,
+            4.9444,
+            3.5425
+          ],
+          "rotationOrigin": [
+            -0.3,
+            4.8444,
+            3.0175
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-2-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-2",
+          "from": [
+            -0.4,
+            4.708,
+            2.4752
+          ],
+          "to": [
+            -0.2,
+            4.908,
+            3.5252
+          ],
+          "rotationOrigin": [
+            -0.3,
+            4.808,
+            3.0002
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-3-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-3",
+          "from": [
+            -0.4,
+            3.833,
+            2.4752
+          ],
+          "to": [
+            -0.2,
+            4.033,
+            3.5252
+          ],
+          "rotationOrigin": [
+            -0.3,
+            3.933,
+            3.0002
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-4-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-4",
+          "from": [
+            -0.4,
+            3.8694,
+            2.4925
+          ],
+          "to": [
+            -0.2,
+            4.0694,
+            3.5425
+          ],
+          "rotationOrigin": [
+            -0.3,
+            3.9694,
+            3.0175
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-5-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-5",
+          "from": [
+            5.2,
+            3.8694,
+            2.4925
+          ],
+          "to": [
+            5.4,
+            4.0694,
+            3.5425
+          ],
+          "rotationOrigin": [
+            5.3,
+            3.9694,
+            3.0175
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-6-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-6",
+          "from": [
+            5.2,
+            3.833,
+            2.4752
+          ],
+          "to": [
+            5.4,
+            4.033,
+            3.5252
+          ],
+          "rotationOrigin": [
+            5.3,
+            3.933,
+            3.0002
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-7-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-7",
+          "from": [
+            5.2,
+            4.708,
+            2.4752
+          ],
+          "to": [
+            5.4,
+            4.908,
+            3.5252
+          ],
+          "rotationOrigin": [
+            5.3,
+            4.808,
+            3.0002
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-8-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-8",
+          "from": [
+            5.2,
+            4.7444,
+            2.4925
+          ],
+          "to": [
+            5.4,
+            4.9444,
+            3.5425
+          ],
+          "rotationOrigin": [
+            5.3,
+            4.8444,
+            3.0175
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-9-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-9",
+          "from": [
+            5.2,
+            1.3444,
+            2.5925
+          ],
+          "to": [
+            5.4,
+            1.5444,
+            3.6425
+          ],
+          "rotationOrigin": [
+            5.3,
+            1.4444,
+            3.1175
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-10-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-10",
+          "from": [
+            5.2,
+            1.308,
+            2.5752
+          ],
+          "to": [
+            5.4,
+            1.508,
+            3.6252
+          ],
+          "rotationOrigin": [
+            5.3,
+            1.408,
+            3.1002
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-11-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-11",
+          "from": [
+            5.2,
+            0.458,
+            2.5752
+          ],
+          "to": [
+            5.4,
+            0.658,
+            3.6252
+          ],
+          "rotationOrigin": [
+            5.3,
+            0.558,
+            3.1002
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-12-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-12",
+          "from": [
+            5.2,
+            0.4944,
+            2.5925
+          ],
+          "to": [
+            5.4,
+            0.6944,
+            3.6425
+          ],
+          "rotationOrigin": [
+            5.3,
+            0.5944,
+            3.1175
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-13-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-13",
+          "from": [
+            -0.4,
+            1.3444,
+            2.5925
+          ],
+          "to": [
+            -0.2,
+            1.5444,
+            3.6425
+          ],
+          "rotationOrigin": [
+            -0.3,
+            1.4444,
+            3.1175
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-14-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-14",
+          "from": [
+            -0.4,
+            1.308,
+            2.5752
+          ],
+          "to": [
+            -0.2,
+            1.508,
+            3.6252
+          ],
+          "rotationOrigin": [
+            -0.3,
+            1.408,
+            3.1002
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-15-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-15",
+          "from": [
+            -0.4,
+            0.458,
+            2.5752
+          ],
+          "to": [
+            -0.2,
+            0.658,
+            3.6252
+          ],
+          "rotationOrigin": [
+            -0.3,
+            0.558,
+            3.1002
+          ],
+          "rotationX": 152.5,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-16-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-16",
+          "from": [
+            -0.4,
+            0.4944,
+            2.5925
+          ],
+          "to": [
+            -0.2,
+            0.6944,
+            3.6425
+          ],
+          "rotationOrigin": [
+            -0.3,
+            0.5944,
+            3.1175
+          ],
+          "rotationX": -152.5,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                2.9,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                3,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-lace",
+              "uv": [
+                0,
+                3,
+                1,
+                5.9
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-17-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-17",
+          "from": [
+            -0.25,
+            -0.4614,
+            -0.1682
+          ],
+          "to": [
+            5.25,
+            1.5386,
+            3.0818
+          ],
+          "rotationOrigin": [
+            2.5,
+            0.5386,
+            1.4568
+          ],
+          "rotationX": 166.0,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                26,
+                4,
+                32,
+                0
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                32,
+                0,
+                26,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                11,
+                0,
+                21,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                26,
+                0,
+                32,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                24,
+                6,
+                32,
+                0
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                26,
+                4,
+                32,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-18-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-18",
+          "from": [
+            -0.25,
+            -0.4493,
+            3.0697
+          ],
+          "to": [
+            5.25,
+            1.5507,
+            6.3197
+          ],
+          "rotationOrigin": [
+            2.5,
+            0.5507,
+            4.6947
+          ],
+          "rotationX": -166.0,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                11,
+                0,
+                21,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                26,
+                0,
+                32,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                26,
+                4,
+                32,
+                0
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                32,
+                0,
+                26,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                24,
+                0,
+                32,
+                6
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                26,
+                4,
+                32,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-19-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        1,
+        0
+      ],
+      "to": [
+        0,
+        1,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        1,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-19",
+          "from": [
+            -0.275,
+            2.7481,
+            -0.2544
+          ],
+          "to": [
+            5.225,
+            4.7481,
+            2.9956
+          ],
+          "rotationOrigin": [
+            2.475,
+            3.7481,
+            1.3706
+          ],
+          "rotationX": -171.0,
+          "rotationZ": 180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                26,
+                4,
+                32,
+                0
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                32,
+                4,
+                26,
+                0
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                8,
+                4,
+                18,
+                0
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                26,
+                4,
+                32,
+                0
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                26,
+                4,
+                32,
+                0
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                24,
+                0,
+                32,
+                6
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "underbustcorset-20-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        1,
+        0
+      ],
+      "to": [
+        0,
+        1,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        1,
+        0
+      ],
+      "children": [
+        {
+          "name": "underbustcorset-20",
+          "from": [
+            -0.275,
+            2.709,
+            2.9575
+          ],
+          "to": [
+            5.225,
+            4.709,
+            6.2075
+          ],
+          "rotationOrigin": [
+            2.475,
+            3.709,
+            4.5825
+          ],
+          "rotationX": 171.0,
+          "rotationZ": -180.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                8,
+                4,
+                18,
+                0
+              ]
+            },
+            "east": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                26,
+                4,
+                32,
+                0
+              ]
+            },
+            "south": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                26,
+                4,
+                32,
+                0
+              ]
+            },
+            "west": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                32,
+                4,
+                26,
+                0
+              ]
+            },
+            "up": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                26,
+                4,
+                32,
+                0
+              ]
+            },
+            "down": {
+              "texture": "#aoa-underbustcorset-leather",
+              "uv": [
+                24,
+                6,
+                32,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "aoa-barkeepersblouse-fabric": [
+      128,
+      104
+    ]
+  },
+  "textures": {
+    "aoa-barkeepersblouse-fabric": "fabric/lace/plain"
+  },
+  "elements": [
+    {
+      "name": "barkeepersblouse-1-attach",
+      "stepParentName": "UpperArmL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "barkeepersblouse-1",
+          "from": [
+            -0.5,
+            3.0,
+            -0.675
+          ],
+          "to": [
+            3.5,
+            6.0,
+            2.325
+          ],
+          "rotationOrigin": [
+            1.5,
+            4.5,
+            0.825
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                92,
+                74,
+                83,
+                67
+              ]
+            },
+            "east": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                92,
+                74.6667,
+                83.9333,
+                66.7667
+              ]
+            },
+            "south": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                93.3333,
+                74.6667,
+                84.1667,
+                66.7667
+              ]
+            },
+            "west": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                92,
+                74.6667,
+                83.9333,
+                66.7667
+              ]
+            },
+            "up": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                82.8333,
+                74.6667,
+                92,
+                66.5667
+              ]
+            },
+            "down": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                82.8333,
+                74.6667,
+                92,
+                66.5667
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "barkeepersblouse-2-attach",
+      "stepParentName": "UpperArmR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "barkeepersblouse-2",
+          "from": [
+            -0.5,
+            3.0,
+            -0.35
+          ],
+          "to": [
+            3.5,
+            6.0,
+            2.65
+          ],
+          "rotationOrigin": [
+            1.5,
+            4.5,
+            1.15
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                93.3333,
+                74.6667,
+                84.1667,
+                66.7667
+              ]
+            },
+            "east": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                92,
+                74.6667,
+                83.9333,
+                66.7667
+              ]
+            },
+            "south": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                92,
+                74.6667,
+                83.9333,
+                67
+              ]
+            },
+            "west": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                92,
+                74.6667,
+                83.9333,
+                66.7667
+              ]
+            },
+            "up": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                82.8333,
+                74.6667,
+                92,
+                66.5667
+              ]
+            },
+            "down": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                82.8333,
+                74.6667,
+                92,
+                66.5667
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "barkeepersblouse-3-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "barkeepersblouse-3",
+          "from": [
+            -0.05,
+            -0.025,
+            -0.075
+          ],
+          "to": [
+            5.05,
+            4.175,
+            6.225
+          ],
+          "rotationOrigin": [
+            2.5,
+            2.075,
+            3.075
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                97.3333,
+                74.6,
+                83.9333,
+                67
+              ]
+            },
+            "east": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                13.5333,
+                90.6,
+                29.3333,
+                79
+              ]
+            },
+            "south": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                97.3333,
+                74.6,
+                83.9333,
+                67
+              ]
+            },
+            "west": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                13.5333,
+                90.6,
+                29.3333,
+                79
+              ]
+            },
+            "up": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                13.5333,
+                93.2667,
+                24,
+                76.3333
+              ]
+            },
+            "down": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                13.5333,
+                90.6,
+                29.3333,
+                79
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "barkeepersblouse-4-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "barkeepersblouse-4",
+          "from": [
+            -0.28,
+            1.8135,
+            -0.025
+          ],
+          "to": [
+            0.92,
+            3.8135,
+            6.175
+          ],
+          "rotationOrigin": [
+            0.32,
+            2.8135,
+            3.075
+          ],
+          "rotationZ": -12.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                3,
+                29,
+                8,
+                34
+              ]
+            },
+            "east": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                4,
+                19,
+                10,
+                24
+              ]
+            },
+            "south": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                29,
+                5,
+                34,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                84.2,
+                73.2667,
+                100,
+                68.3333
+              ]
+            },
+            "up": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                26,
+                16,
+                21,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                84.0667,
+                68.7333,
+                99.7333,
+                68.0667
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "barkeepersblouse-5-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "barkeepersblouse-5",
+          "from": [
+            -0.05,
+            2.0996,
+            -0.075
+          ],
+          "to": [
+            5.05,
+            5.0996,
+            6.025
+          ],
+          "rotationOrigin": [
+            2.5,
+            3.5996,
+            2.975
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                97.3333,
+                67,
+                83.9333,
+                74.6
+              ]
+            },
+            "east": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                13.5333,
+                83,
+                29.3333,
+                90.6
+              ]
+            },
+            "south": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                83.9333,
+                67,
+                97.3333,
+                74.6
+              ]
+            },
+            "west": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                13.5333,
+                83,
+                29.3333,
+                90.6
+              ]
+            },
+            "up": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                83,
+                67,
+                100,
+                75
+              ]
+            },
+            "down": {
+              "texture": "#aoa-barkeepersblouse-fabric",
+              "uv": [
+                83,
+                67,
+                100,
+                75
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

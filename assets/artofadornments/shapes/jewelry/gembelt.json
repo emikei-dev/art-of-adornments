@@ -1,0 +1,5168 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "aoa-gembelt-metal": [
+      32,
+      32
+    ],
+    "aoa-gembelt-gem1": [
+      32,
+      32
+    ],
+    "aoa-gembelt-gem2": [
+      32,
+      32
+    ],
+    "aoa-gembelt-gem3": [
+      32,
+      32
+    ]
+  },
+  "textures": {
+    "aoa-gembelt-metal": "game:block/metal/plate/brass",
+    "aoa-gembelt-gem1": "game:item/resource/ungraded/cinnabar",
+    "aoa-gembelt-gem2": "game:item/resource/ungraded/rosyquartz",
+    "aoa-gembelt-gem3": "game:item/resource/ungraded/amethyst"
+  },
+  "elements": [
+    {
+      "name": "gembelt-1-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-1",
+          "from": [
+            5.1295,
+            -0.0272,
+            4.0048
+          ],
+          "to": [
+            5.347,
+            1.0603,
+            5.0923
+          ],
+          "rotationOrigin": [
+            5.2382,
+            0.5166,
+            4.5485
+          ],
+          "rotationX": -152.5322,
+          "rotationY": 1.3847,
+          "rotationZ": -177.3384,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-2-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-2",
+          "from": [
+            5.3035,
+            0.1651,
+            4.1987
+          ],
+          "to": [
+            5.521,
+            0.8611,
+            4.8947
+          ],
+          "rotationOrigin": [
+            5.4123,
+            0.5131,
+            4.5467
+          ],
+          "rotationX": -152.5322,
+          "rotationY": 1.3847,
+          "rotationZ": -177.3384,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-3-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-3",
+          "from": [
+            5.1295,
+            -0.0272,
+            0.9077
+          ],
+          "to": [
+            5.347,
+            1.0603,
+            1.9952
+          ],
+          "rotationOrigin": [
+            5.2382,
+            0.5166,
+            1.4515
+          ],
+          "rotationX": -27.4678,
+          "rotationY": 1.3847,
+          "rotationZ": -2.6616,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                0,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                0,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-4-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-4",
+          "from": [
+            5.3035,
+            0.1651,
+            1.1053
+          ],
+          "to": [
+            5.521,
+            0.8611,
+            1.8013
+          ],
+          "rotationOrigin": [
+            5.4123,
+            0.5131,
+            1.4533
+          ],
+          "rotationX": -27.4678,
+          "rotationY": 1.3847,
+          "rotationZ": -2.6616,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                12,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-5-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-5",
+          "from": [
+            -0.5386,
+            0.32,
+            3.9518
+          ],
+          "to": [
+            -0.3211,
+            1.4075,
+            5.0393
+          ],
+          "rotationOrigin": [
+            -0.4299,
+            0.8637,
+            4.4955
+          ],
+          "rotationX": -152.5322,
+          "rotationY": 1.3847,
+          "rotationZ": -177.3384,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                0,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                0,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-6-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-6",
+          "from": [
+            -0.7121,
+            0.5304,
+            4.1458
+          ],
+          "to": [
+            -0.4946,
+            1.2264,
+            4.8418
+          ],
+          "rotationOrigin": [
+            -0.6033,
+            0.8784,
+            4.4938
+          ],
+          "rotationX": -152.5322,
+          "rotationY": 1.3847,
+          "rotationZ": -177.3384,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                12,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-7-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-7",
+          "from": [
+            5.2061,
+            0.6356,
+            5.4445
+          ],
+          "to": [
+            5.3692,
+            1.4512,
+            6.2601
+          ],
+          "rotationOrigin": [
+            5.2877,
+            1.0434,
+            5.8523
+          ],
+          "rotationX": -152.5322,
+          "rotationY": 1.3847,
+          "rotationZ": -177.3384,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-8-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-8",
+          "from": [
+            5.3367,
+            0.7798,
+            5.5899
+          ],
+          "to": [
+            5.4998,
+            1.3018,
+            6.1119
+          ],
+          "rotationOrigin": [
+            5.4182,
+            1.0408,
+            5.8509
+          ],
+          "rotationX": -152.5322,
+          "rotationY": 1.3847,
+          "rotationZ": -177.3384,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-9-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-9",
+          "from": [
+            -0.8296,
+            0.0608,
+            2.6007
+          ],
+          "to": [
+            -0.5796,
+            0.8608,
+            3.4007
+          ],
+          "rotationOrigin": [
+            -0.7046,
+            0.4608,
+            3.0007
+          ],
+          "rotationX": -44.9607,
+          "rotationY": 2.1208,
+          "rotationZ": -2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-10-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-10",
+          "from": [
+            -0.6302,
+            -0.1815,
+            2.3757
+          ],
+          "to": [
+            -0.3802,
+            1.0685,
+            3.6257
+          ],
+          "rotationOrigin": [
+            -0.5052,
+            0.4435,
+            3.0007
+          ],
+          "rotationX": -44.9607,
+          "rotationY": 2.1208,
+          "rotationZ": -2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-11-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-11",
+          "from": [
+            -0.7762,
+            -1.444,
+            2.7225
+          ],
+          "to": [
+            -0.6087,
+            -0.908,
+            3.2585
+          ],
+          "rotationOrigin": [
+            -0.6925,
+            -1.176,
+            2.9905
+          ],
+          "rotationX": -44.9607,
+          "rotationY": 2.1208,
+          "rotationZ": -2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-12-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-12",
+          "from": [
+            -0.6427,
+            -1.6063,
+            2.5717
+          ],
+          "to": [
+            -0.4752,
+            -0.7688,
+            3.4092
+          ],
+          "rotationOrigin": [
+            -0.5589,
+            -1.1875,
+            2.9905
+          ],
+          "rotationX": -44.9607,
+          "rotationY": 2.1208,
+          "rotationZ": -2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-13-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-13",
+          "from": [
+            -0.8456,
+            -2.7672,
+            2.7225
+          ],
+          "to": [
+            -0.6781,
+            -2.2312,
+            3.2585
+          ],
+          "rotationOrigin": [
+            -0.7618,
+            -2.4992,
+            2.9905
+          ],
+          "rotationX": -44.9607,
+          "rotationY": 2.1208,
+          "rotationZ": -2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-14-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-14",
+          "from": [
+            -0.712,
+            -2.9295,
+            2.5717
+          ],
+          "to": [
+            -0.5445,
+            -2.092,
+            3.4092
+          ],
+          "rotationOrigin": [
+            -0.6283,
+            -2.5107,
+            2.9905
+          ],
+          "rotationX": -44.9607,
+          "rotationY": 2.1208,
+          "rotationZ": -2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-15-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-15",
+          "from": [
+            -0.9162,
+            -4.1153,
+            2.7225
+          ],
+          "to": [
+            -0.7487,
+            -3.5793,
+            3.2585
+          ],
+          "rotationOrigin": [
+            -0.8325,
+            -3.8473,
+            2.9905
+          ],
+          "rotationX": -44.9607,
+          "rotationY": 2.1208,
+          "rotationZ": -2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-16-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-16",
+          "from": [
+            -0.7827,
+            -4.2776,
+            2.5717
+          ],
+          "to": [
+            -0.6152,
+            -3.4401,
+            3.4092
+          ],
+          "rotationOrigin": [
+            -0.6989,
+            -3.8589,
+            2.9905
+          ],
+          "rotationX": -44.9607,
+          "rotationY": 2.1208,
+          "rotationZ": -2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-17-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-17",
+          "from": [
+            -0.9843,
+            -5.4135,
+            2.7225
+          ],
+          "to": [
+            -0.8168,
+            -4.8775,
+            3.2585
+          ],
+          "rotationOrigin": [
+            -0.9005,
+            -5.1455,
+            2.9905
+          ],
+          "rotationX": -44.9607,
+          "rotationY": 2.1208,
+          "rotationZ": -2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-18-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-18",
+          "from": [
+            -0.8507,
+            -5.5758,
+            2.5717
+          ],
+          "to": [
+            -0.6832,
+            -4.7383,
+            3.4092
+          ],
+          "rotationOrigin": [
+            -0.7669,
+            -5.1571,
+            2.9905
+          ],
+          "rotationX": -44.9607,
+          "rotationY": 2.1208,
+          "rotationZ": -2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-19-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-19",
+          "from": [
+            -1.0549,
+            -6.7617,
+            2.7225
+          ],
+          "to": [
+            -0.8874,
+            -6.2257,
+            3.2585
+          ],
+          "rotationOrigin": [
+            -0.9712,
+            -6.4937,
+            2.9905
+          ],
+          "rotationX": -44.9607,
+          "rotationY": 2.1208,
+          "rotationZ": -2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-20-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-20",
+          "from": [
+            -0.9213,
+            -6.924,
+            2.5717
+          ],
+          "to": [
+            -0.7538,
+            -6.0865,
+            3.4092
+          ],
+          "rotationOrigin": [
+            -0.8376,
+            -6.5052,
+            2.9905
+          ],
+          "rotationX": -44.9607,
+          "rotationY": 2.1208,
+          "rotationZ": -2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-21-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-21",
+          "from": [
+            -1.1243,
+            -8.0849,
+            2.7225
+          ],
+          "to": [
+            -0.9568,
+            -7.5489,
+            3.2585
+          ],
+          "rotationOrigin": [
+            -1.0405,
+            -7.8169,
+            2.9905
+          ],
+          "rotationX": -44.9607,
+          "rotationY": 2.1208,
+          "rotationZ": -2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-22-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-22",
+          "from": [
+            -0.9907,
+            -8.2472,
+            2.5717
+          ],
+          "to": [
+            -0.8232,
+            -7.4097,
+            3.4092
+          ],
+          "rotationOrigin": [
+            -0.9069,
+            -7.8284,
+            2.9905
+          ],
+          "rotationX": -44.9607,
+          "rotationY": 2.1208,
+          "rotationZ": -2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-23-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-23",
+          "from": [
+            -1.1936,
+            -9.408,
+            2.7225
+          ],
+          "to": [
+            -1.0261,
+            -8.872,
+            3.2585
+          ],
+          "rotationOrigin": [
+            -1.1099,
+            -9.14,
+            2.9905
+          ],
+          "rotationX": -44.9607,
+          "rotationY": 2.1208,
+          "rotationZ": -2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-24-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-24",
+          "from": [
+            -1.06,
+            -9.5704,
+            2.5717
+          ],
+          "to": [
+            -0.8925,
+            -8.7329,
+            3.4092
+          ],
+          "rotationOrigin": [
+            -0.9763,
+            -9.1516,
+            2.9905
+          ],
+          "rotationX": -44.9607,
+          "rotationY": 2.1208,
+          "rotationZ": -2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-25-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-25",
+          "from": [
+            5.3369,
+            -0.2624,
+            2.6243
+          ],
+          "to": [
+            5.5869,
+            0.5376,
+            3.4243
+          ],
+          "rotationOrigin": [
+            5.4619,
+            0.1376,
+            3.0243
+          ],
+          "rotationX": -135.0393,
+          "rotationY": 2.1208,
+          "rotationZ": -177.8777,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-26-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-26",
+          "from": [
+            5.1369,
+            -0.4837,
+            2.3993
+          ],
+          "to": [
+            5.3869,
+            0.7663,
+            3.6493
+          ],
+          "rotationOrigin": [
+            5.2619,
+            0.1413,
+            3.0243
+          ],
+          "rotationX": -135.0393,
+          "rotationY": 2.1208,
+          "rotationZ": -177.8777,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-27-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-27",
+          "from": [
+            -0.5986,
+            1.0909,
+            -0.0817
+          ],
+          "to": [
+            -0.4354,
+            1.6129,
+            0.4403
+          ],
+          "rotationOrigin": [
+            -0.517,
+            1.3519,
+            0.1793
+          ],
+          "rotationX": -27.4678,
+          "rotationY": 1.3847,
+          "rotationZ": -2.6616,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-28-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-28",
+          "from": [
+            -0.4685,
+            0.933,
+            -0.2298
+          ],
+          "to": [
+            -0.3053,
+            1.7486,
+            0.5858
+          ],
+          "rotationOrigin": [
+            -0.3869,
+            1.3408,
+            0.178
+          ],
+          "rotationX": -27.4678,
+          "rotationY": 1.3847,
+          "rotationZ": -2.6616,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-29-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-29",
+          "from": [
+            0.3578,
+            1.1979,
+            -0.8203
+          ],
+          "to": [
+            0.5209,
+            1.7199,
+            -0.2983
+          ],
+          "rotationOrigin": [
+            0.4394,
+            1.4589,
+            -0.5593
+          ],
+          "rotationX": -87.6212,
+          "rotationY": -42.0027,
+          "rotationZ": -90.176,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-30-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-30",
+          "from": [
+            0.3573,
+            1.0409,
+            -0.8369
+          ],
+          "to": [
+            0.5204,
+            1.8566,
+            -0.0213
+          ],
+          "rotationOrigin": [
+            0.4388,
+            1.4488,
+            -0.4291
+          ],
+          "rotationX": -87.6212,
+          "rotationY": -42.0027,
+          "rotationZ": -90.176,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-31-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-31",
+          "from": [
+            4.4522,
+            0.9833,
+            -0.8203
+          ],
+          "to": [
+            4.6153,
+            1.5053,
+            -0.2983
+          ],
+          "rotationOrigin": [
+            4.5337,
+            1.2443,
+            -0.5593
+          ],
+          "rotationX": -87.6212,
+          "rotationY": -42.0027,
+          "rotationZ": -90.176,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-32-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-32",
+          "from": [
+            4.4517,
+            0.8264,
+            -0.8369
+          ],
+          "to": [
+            4.6148,
+            1.642,
+            -0.0213
+          ],
+          "rotationOrigin": [
+            4.5332,
+            1.2342,
+            -0.4291
+          ],
+          "rotationX": -87.6212,
+          "rotationY": -42.0027,
+          "rotationZ": -90.176,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-33-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-33",
+          "from": [
+            3.0791,
+            1.0553,
+            -0.8203
+          ],
+          "to": [
+            3.2422,
+            1.5773,
+            -0.2983
+          ],
+          "rotationOrigin": [
+            3.1606,
+            1.3163,
+            -0.5593
+          ],
+          "rotationX": -87.6212,
+          "rotationY": -42.0027,
+          "rotationZ": -90.176,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-34-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-34",
+          "from": [
+            3.0785,
+            0.8983,
+            -0.8369
+          ],
+          "to": [
+            3.2416,
+            1.714,
+            -0.0213
+          ],
+          "rotationOrigin": [
+            3.1601,
+            1.3062,
+            -0.4291
+          ],
+          "rotationX": -87.6212,
+          "rotationY": -42.0027,
+          "rotationZ": -90.176,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-35-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-35",
+          "from": [
+            1.681,
+            1.1285,
+            -0.8203
+          ],
+          "to": [
+            1.8441,
+            1.6505,
+            -0.2983
+          ],
+          "rotationOrigin": [
+            1.7625,
+            1.3895,
+            -0.5593
+          ],
+          "rotationX": -87.6212,
+          "rotationY": -42.0027,
+          "rotationZ": -90.176,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-36-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-36",
+          "from": [
+            1.6804,
+            0.9716,
+            -0.8369
+          ],
+          "to": [
+            1.8436,
+            1.7872,
+            -0.0213
+          ],
+          "rotationOrigin": [
+            1.762,
+            1.3794,
+            -0.4291
+          ],
+          "rotationX": -87.6212,
+          "rotationY": -42.0027,
+          "rotationZ": -90.176,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-37-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-37",
+          "from": [
+            -0.7121,
+            0.5305,
+            1.1582
+          ],
+          "to": [
+            -0.4946,
+            1.2265,
+            1.8542
+          ],
+          "rotationOrigin": [
+            -0.6033,
+            0.8785,
+            1.5062
+          ],
+          "rotationX": -27.4678,
+          "rotationY": 1.3847,
+          "rotationZ": -2.6616,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                12,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                16,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-38-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-38",
+          "from": [
+            -0.5386,
+            0.32,
+            0.9607
+          ],
+          "to": [
+            -0.3211,
+            1.4075,
+            2.0482
+          ],
+          "rotationOrigin": [
+            -0.4299,
+            0.8637,
+            1.5044
+          ],
+          "rotationX": -27.4678,
+          "rotationY": 1.3847,
+          "rotationZ": -2.6616,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                4,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-39-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-39",
+          "from": [
+            5.3367,
+            0.7798,
+            -0.1119
+          ],
+          "to": [
+            5.4998,
+            1.3018,
+            0.4101
+          ],
+          "rotationOrigin": [
+            5.4182,
+            1.0408,
+            0.1491
+          ],
+          "rotationX": -27.4678,
+          "rotationY": 1.3847,
+          "rotationZ": -2.6616,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                12,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-40-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-40",
+          "from": [
+            5.2061,
+            0.6356,
+            -0.2601
+          ],
+          "to": [
+            5.3692,
+            1.4512,
+            0.5555
+          ],
+          "rotationOrigin": [
+            5.2877,
+            1.0434,
+            0.1477
+          ],
+          "rotationX": -27.4678,
+          "rotationY": 1.3847,
+          "rotationZ": -2.6616,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                0,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                0,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-41-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-41",
+          "from": [
+            -0.5986,
+            1.0909,
+            5.5597
+          ],
+          "to": [
+            -0.4354,
+            1.6129,
+            6.0817
+          ],
+          "rotationOrigin": [
+            -0.517,
+            1.3519,
+            5.8207
+          ],
+          "rotationX": -152.5322,
+          "rotationY": 1.3847,
+          "rotationZ": -177.3384,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                12,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-42-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-42",
+          "from": [
+            -0.4685,
+            0.933,
+            5.4142
+          ],
+          "to": [
+            -0.3053,
+            1.7486,
+            6.2298
+          ],
+          "rotationOrigin": [
+            -0.3869,
+            1.3408,
+            5.822
+          ],
+          "rotationX": -152.5322,
+          "rotationY": 1.3847,
+          "rotationZ": -177.3384,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                0,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                0,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-43-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-43",
+          "from": [
+            4.4517,
+            0.8264,
+            6.0213
+          ],
+          "to": [
+            4.6148,
+            1.642,
+            6.8369
+          ],
+          "rotationOrigin": [
+            4.5332,
+            1.2342,
+            6.4291
+          ],
+          "rotationX": -92.3788,
+          "rotationY": -42.0027,
+          "rotationZ": -89.824,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                0,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                0,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-44-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-44",
+          "from": [
+            4.4522,
+            0.9833,
+            6.2983
+          ],
+          "to": [
+            4.6153,
+            1.5053,
+            6.8203
+          ],
+          "rotationOrigin": [
+            4.5337,
+            1.2443,
+            6.5593
+          ],
+          "rotationX": -92.3788,
+          "rotationY": -42.0027,
+          "rotationZ": -89.824,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                12,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-45-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-45",
+          "from": [
+            3.0785,
+            0.8983,
+            6.0213
+          ],
+          "to": [
+            3.2416,
+            1.714,
+            6.8369
+          ],
+          "rotationOrigin": [
+            3.1601,
+            1.3062,
+            6.4291
+          ],
+          "rotationX": -92.3788,
+          "rotationY": -42.0027,
+          "rotationZ": -89.824,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                0,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                0,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-46-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-46",
+          "from": [
+            3.0791,
+            1.0553,
+            6.2983
+          ],
+          "to": [
+            3.2422,
+            1.5773,
+            6.8203
+          ],
+          "rotationOrigin": [
+            3.1606,
+            1.3163,
+            6.5593
+          ],
+          "rotationX": -92.3788,
+          "rotationY": -42.0027,
+          "rotationZ": -89.824,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                15,
+                7,
+                12,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem2",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-47-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-47",
+          "from": [
+            1.681,
+            1.1285,
+            6.2983
+          ],
+          "to": [
+            1.8441,
+            1.6505,
+            6.8203
+          ],
+          "rotationOrigin": [
+            1.7625,
+            1.3895,
+            6.5593
+          ],
+          "rotationX": -92.3788,
+          "rotationY": -42.0027,
+          "rotationZ": -89.824,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                15,
+                7,
+                12,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem1",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-48-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-48",
+          "from": [
+            1.6804,
+            0.9716,
+            6.0213
+          ],
+          "to": [
+            1.8436,
+            1.7872,
+            6.8369
+          ],
+          "rotationOrigin": [
+            1.762,
+            1.3794,
+            6.4291
+          ],
+          "rotationX": -92.3788,
+          "rotationY": -42.0027,
+          "rotationZ": -89.824,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                0,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                0,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-49-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-49",
+          "from": [
+            0.3573,
+            1.0409,
+            6.0213
+          ],
+          "to": [
+            0.5204,
+            1.8566,
+            6.8369
+          ],
+          "rotationOrigin": [
+            0.4388,
+            1.4488,
+            6.4291
+          ],
+          "rotationX": -92.3788,
+          "rotationY": -42.0027,
+          "rotationZ": -89.824,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                0,
+                0,
+                4
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                0,
+                0,
+                4
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                1,
+                0,
+                0,
+                4
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-50-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-50",
+          "from": [
+            0.3578,
+            1.1979,
+            6.2983
+          ],
+          "to": [
+            0.5209,
+            1.7199,
+            6.8203
+          ],
+          "rotationOrigin": [
+            0.4394,
+            1.4589,
+            6.5593
+          ],
+          "rotationX": -92.3788,
+          "rotationY": -42.0027,
+          "rotationZ": -89.824,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                15,
+                7,
+                12,
+                10
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-gem3",
+              "uv": [
+                16,
+                7,
+                15,
+                10
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-51-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-51",
+          "from": [
+            -5.5875,
+            -4.5957,
+            2.85
+          ],
+          "to": [
+            4.4125,
+            -4.3457,
+            3.1
+          ],
+          "rotationOrigin": [
+            -0.5875,
+            -4.4707,
+            2.975
+          ],
+          "rotationZ": 87.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                30,
+                88.5,
+                34
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                30,
+                88.5,
+                34
+              ]
+            },
+            "south": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                30,
+                88.5,
+                34
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                30,
+                88.5,
+                34
+              ]
+            },
+            "up": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                30,
+                88.5,
+                34
+              ]
+            },
+            "down": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                4,
+                30,
+                88.5,
+                34
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-52-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-52",
+          "from": [
+            -0.3103,
+            0.6223,
+            2.9033
+          ],
+          "to": [
+            5.1897,
+            0.8723,
+            6.4033
+          ],
+          "rotationOrigin": [
+            2.4397,
+            0.7473,
+            4.6533
+          ],
+          "rotationX": 160.0252,
+          "rotationY": -1.0256,
+          "rotationZ": -177.1806,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                40,
+                29,
+                3,
+                35
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                40,
+                29,
+                3,
+                35
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                40,
+                29,
+                3,
+                35
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "gembelt-53-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "gembelt-53",
+          "from": [
+            -0.3103,
+            0.6223,
+            -0.4033
+          ],
+          "to": [
+            5.1897,
+            0.8723,
+            3.0967
+          ],
+          "rotationOrigin": [
+            2.4397,
+            0.7473,
+            1.3467
+          ],
+          "rotationX": 19.9748,
+          "rotationY": -1.0256,
+          "rotationZ": -2.8194,
+          "faces": {
+            "north": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                3,
+                29,
+                40,
+                35
+              ]
+            },
+            "east": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                3,
+                29,
+                40,
+                35
+              ]
+            },
+            "west": {
+              "texture": "#aoa-gembelt-metal",
+              "uv": [
+                3,
+                29,
+                40,
+                35
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

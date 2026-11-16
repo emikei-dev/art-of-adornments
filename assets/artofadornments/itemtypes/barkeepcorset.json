@@ -1,0 +1,91 @@
+{
+  "code": "clothes",
+  "variantgroups": [
+    {
+      "code": "category",
+      "states": [
+        "upperbodyover"
+      ]
+    },
+    {
+      "code": "upperbodyover",
+      "combine": "SelectiveMultiply",
+      "onVariant": "category",
+      "states": [
+        "barkeepcorset"
+      ]
+    },
+    {
+      "code": "color",
+      "states": [
+        "natural",
+        "black"
+      ]
+    }
+  ],
+  "storageFlags": 128,
+  "maxstacksize": 1,
+  "shape": {
+    "base": "garment/barkeepcorset"
+  },
+  "texturesByType": {
+    "*-natural": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-barkeep-fabric": {
+        "base": "garment/flat-corset"
+      }
+    },
+    "*-black": {
+      "seraph": {
+        "base": "game:block/transparent"
+      },
+      "aoa-barkeep-fabric": {
+        "base": "garment/flat-corset-black"
+      }
+    }
+  },
+  "behaviors": [
+    {
+      "name": "Wearable"
+    }
+  ],
+  "attributes": {
+    "clothescategory": "upperbodyover",
+    "wearableAttachment": true,
+    "wearableTexturePrefixCode": null,
+    "displaycaseable": true
+  },
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "items": [
+      "*"
+    ],
+    "clothing": [
+      "*"
+    ]
+  },
+  "renderAlphaTest": 0.25,
+  "guiTransform": {
+    "rotate": false,
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": -180,
+      "y": -66,
+      "z": 5
+    },
+    "origin": {
+      "x": 0.53,
+      "y": 1.2,
+      "z": 0.5
+    },
+    "scale": 2.4
+  }
+}

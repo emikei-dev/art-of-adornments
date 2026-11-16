@@ -1,0 +1,2526 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "aoa-highneck-fabric": [
+      32,
+      32
+    ],
+    "aoa-highneck-button": [
+      32,
+      32
+    ]
+  },
+  "textures": {
+    "aoa-highneck-fabric": "garment/highneck-red",
+    "aoa-highneck-button": "game:block/metal/plate/gold"
+  },
+  "elements": [
+    {
+      "name": "highneck-red-1-attach",
+      "stepParentName": "Neck",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-1",
+          "from": [
+            -0.1724,
+            0.0369,
+            -0.075
+          ],
+          "to": [
+            3.0276,
+            4.0369,
+            3.125
+          ],
+          "rotationOrigin": [
+            1.4276,
+            2.0369,
+            1.525
+          ],
+          "rotationZ": 1.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-fabric",
+              "uv": [
+                13,
+                18.5,
+                15.95,
+                14.5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-fabric",
+              "uv": [
+                13,
+                18.5,
+                15.95,
+                14.5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-fabric",
+              "uv": [
+                13,
+                18.5,
+                15.95,
+                14.5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-fabric",
+              "uv": [
+                13,
+                18.5,
+                15.95,
+                14.5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-fabric",
+              "uv": [
+                13,
+                18.5,
+                15.95,
+                14.5
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-2-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-2",
+          "from": [
+            -0.0148,
+            -0.0977,
+            -0.125
+          ],
+          "to": [
+            5.0352,
+            5.1023,
+            6.15
+          ],
+          "rotationOrigin": [
+            2.5102,
+            2.5023,
+            3.0125
+          ],
+          "rotationZ": 0.25,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-fabric",
+              "uv": [
+                6.5,
+                12,
+                11.45,
+                17.25
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-fabric",
+              "uv": [
+                0.5,
+                6,
+                6.5,
+                10.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-fabric",
+              "uv": [
+                6.5,
+                12,
+                11.45,
+                17.25
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-fabric",
+              "uv": [
+                0.5,
+                6,
+                6.5,
+                10.75
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-3-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-3",
+          "from": [
+            -0.113,
+            -0.0995,
+            -0.05
+          ],
+          "to": [
+            5.087,
+            5.1005,
+            6.265
+          ],
+          "rotationOrigin": [
+            2.487,
+            2.5005,
+            3.1075
+          ],
+          "rotationZ": 1.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-fabric",
+              "uv": [
+                12,
+                12,
+                17.25,
+                17.25
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-fabric",
+              "uv": [
+                7.5,
+                0,
+                13.5,
+                4.95
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-fabric",
+              "uv": [
+                12,
+                12,
+                16.95,
+                17.05
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-fabric",
+              "uv": [
+                7.5,
+                6,
+                13.5,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-fabric",
+              "uv": [
+                4.95,
+                18.5,
+                0,
+                12.5
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-4-attach",
+      "stepParentName": "Neck",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-4",
+          "from": [
+            -0.392,
+            1.8229,
+            1.3397
+          ],
+          "to": [
+            -0.0566,
+            2.1583,
+            1.6751
+          ],
+          "rotationOrigin": [
+            -0.2243,
+            1.9906,
+            1.5074
+          ],
+          "rotationX": 44.7198,
+          "rotationY": -5.6476,
+          "rotationZ": -5.6753,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-5-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-5",
+          "from": [
+            -0.2969,
+            4.1022,
+            2.9396
+          ],
+          "to": [
+            0.0385,
+            4.4376,
+            3.275
+          ],
+          "rotationOrigin": [
+            -0.1292,
+            4.2699,
+            3.1073
+          ],
+          "rotationX": 44.9301,
+          "rotationY": 2.8273,
+          "rotationZ": 2.8307,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-6-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-6",
+          "from": [
+            -0.2707,
+            3.7281,
+            1.6147
+          ],
+          "to": [
+            0.0647,
+            4.0635,
+            1.9501
+          ],
+          "rotationOrigin": [
+            -0.103,
+            3.8958,
+            1.7824
+          ],
+          "rotationX": 44.9301,
+          "rotationY": 2.8273,
+          "rotationZ": 2.8307,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-7-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-7",
+          "from": [
+            -0.1957,
+            2.6557,
+            0.2646
+          ],
+          "to": [
+            0.1397,
+            2.9911,
+            0.6
+          ],
+          "rotationOrigin": [
+            -0.028,
+            2.8234,
+            0.4323
+          ],
+          "rotationX": 44.9301,
+          "rotationY": 2.8273,
+          "rotationZ": 2.8307,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-8-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-8",
+          "from": [
+            -0.0211,
+            2.2162,
+            -0.1328
+          ],
+          "to": [
+            0.3143,
+            2.5516,
+            0.2026
+          ],
+          "rotationOrigin": [
+            0.1466,
+            2.3839,
+            0.0349
+          ],
+          "rotationX": 90.0,
+          "rotationY": -43.0,
+          "rotationZ": 90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-9-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-9",
+          "from": [
+            0.008,
+            1.4414,
+            -0.1328
+          ],
+          "to": [
+            0.3434,
+            1.7768,
+            0.2026
+          ],
+          "rotationOrigin": [
+            0.1757,
+            1.6091,
+            0.0349
+          ],
+          "rotationX": 90.0,
+          "rotationY": -43.0,
+          "rotationZ": 90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-10-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-10",
+          "from": [
+            0.0354,
+            0.6914,
+            -0.1328
+          ],
+          "to": [
+            0.3708,
+            1.0268,
+            0.2026
+          ],
+          "rotationOrigin": [
+            0.2031,
+            0.8591,
+            0.0349
+          ],
+          "rotationX": 90.0,
+          "rotationY": -43.0,
+          "rotationZ": 90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-11-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-11",
+          "from": [
+            0.061,
+            -0.0335,
+            -0.1328
+          ],
+          "to": [
+            0.3964,
+            0.3019,
+            0.2026
+          ],
+          "rotationOrigin": [
+            0.2287,
+            0.1342,
+            0.0349
+          ],
+          "rotationX": 90.0,
+          "rotationY": -43.0,
+          "rotationZ": 90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-12-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-12",
+          "from": [
+            0.008,
+            1.4414,
+            6.0172
+          ],
+          "to": [
+            0.3434,
+            1.7768,
+            6.3526
+          ],
+          "rotationOrigin": [
+            0.1757,
+            1.6091,
+            6.1849
+          ],
+          "rotationX": 90.0,
+          "rotationY": -43.0,
+          "rotationZ": 90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-13-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-13",
+          "from": [
+            -0.0211,
+            2.2162,
+            6.0172
+          ],
+          "to": [
+            0.3143,
+            2.5516,
+            6.3526
+          ],
+          "rotationOrigin": [
+            0.1466,
+            2.3839,
+            6.1849
+          ],
+          "rotationX": 90.0,
+          "rotationY": -43.0,
+          "rotationZ": 90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-14-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-14",
+          "from": [
+            0.0354,
+            0.6914,
+            6.0172
+          ],
+          "to": [
+            0.3708,
+            1.0268,
+            6.3526
+          ],
+          "rotationOrigin": [
+            0.2031,
+            0.8591,
+            6.1849
+          ],
+          "rotationX": 90.0,
+          "rotationY": -43.0,
+          "rotationZ": 90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-15-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-15",
+          "from": [
+            0.061,
+            -0.0335,
+            6.0172
+          ],
+          "to": [
+            0.3964,
+            0.3019,
+            6.3526
+          ],
+          "rotationOrigin": [
+            0.2287,
+            0.1342,
+            6.1849
+          ],
+          "rotationX": 90.0,
+          "rotationY": -43.0,
+          "rotationZ": 90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-16-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-16",
+          "from": [
+            0.1006,
+            2.1155,
+            5.9172
+          ],
+          "to": [
+            0.436,
+            2.4509,
+            6.2526
+          ],
+          "rotationOrigin": [
+            0.2683,
+            2.2832,
+            6.0849
+          ],
+          "rotationX": 90.0,
+          "rotationY": -44.0,
+          "rotationZ": 90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-17-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-17",
+          "from": [
+            0.0864,
+            2.8658,
+            5.9172
+          ],
+          "to": [
+            0.4218,
+            3.2012,
+            6.2526
+          ],
+          "rotationOrigin": [
+            0.2541,
+            3.0335,
+            6.0849
+          ],
+          "rotationX": 90.0,
+          "rotationY": -44.0,
+          "rotationZ": 90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-18-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-18",
+          "from": [
+            0.0708,
+            3.641,
+            5.9172
+          ],
+          "to": [
+            0.4062,
+            3.9764,
+            6.2526
+          ],
+          "rotationOrigin": [
+            0.2385,
+            3.8087,
+            6.0849
+          ],
+          "rotationX": 90.0,
+          "rotationY": -44.0,
+          "rotationZ": 90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-19-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-19",
+          "from": [
+            0.1006,
+            2.1155,
+            -0.2328
+          ],
+          "to": [
+            0.436,
+            2.4509,
+            0.1026
+          ],
+          "rotationOrigin": [
+            0.2683,
+            2.2832,
+            -0.0651
+          ],
+          "rotationX": 90.0,
+          "rotationY": -44.0,
+          "rotationZ": 90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-20-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-20",
+          "from": [
+            0.0864,
+            2.8658,
+            -0.2328
+          ],
+          "to": [
+            0.4218,
+            3.2012,
+            0.1026
+          ],
+          "rotationOrigin": [
+            0.2541,
+            3.0335,
+            -0.0651
+          ],
+          "rotationX": 90.0,
+          "rotationY": -44.0,
+          "rotationZ": 90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-21-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-21",
+          "from": [
+            0.0708,
+            3.641,
+            -0.2328
+          ],
+          "to": [
+            0.4062,
+            3.9764,
+            0.1026
+          ],
+          "rotationOrigin": [
+            0.2385,
+            3.8087,
+            -0.0651
+          ],
+          "rotationX": 90.0,
+          "rotationY": -44.0,
+          "rotationZ": 90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-22-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-22",
+          "from": [
+            -0.1887,
+            2.5559,
+            5.5146
+          ],
+          "to": [
+            0.1467,
+            2.8913,
+            5.85
+          ],
+          "rotationOrigin": [
+            -0.021,
+            2.7236,
+            5.6823
+          ],
+          "rotationX": 44.9301,
+          "rotationY": 2.8273,
+          "rotationZ": 2.8307,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-23-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-23",
+          "from": [
+            -0.2707,
+            3.7281,
+            4.2646
+          ],
+          "to": [
+            0.0647,
+            4.0635,
+            4.6
+          ],
+          "rotationOrigin": [
+            -0.103,
+            3.8958,
+            4.4323
+          ],
+          "rotationX": 44.9301,
+          "rotationY": 2.8273,
+          "rotationZ": 2.8307,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-24-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-24",
+          "from": [
+            -0.2411,
+            3.3041,
+            5.0396
+          ],
+          "to": [
+            0.0943,
+            3.6395,
+            5.375
+          ],
+          "rotationOrigin": [
+            -0.0734,
+            3.4718,
+            5.2073
+          ],
+          "rotationX": 44.9301,
+          "rotationY": 2.8273,
+          "rotationZ": 2.8307,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-25-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-25",
+          "from": [
+            -0.2411,
+            3.3041,
+            0.8396
+          ],
+          "to": [
+            0.0943,
+            3.6395,
+            1.175
+          ],
+          "rotationOrigin": [
+            -0.0734,
+            3.4718,
+            1.0073
+          ],
+          "rotationX": 44.9301,
+          "rotationY": 2.8273,
+          "rotationZ": 2.8307,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "highneck-red-26-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "highneck-red-26",
+          "from": [
+            -0.3352,
+            4.6508,
+            2.9396
+          ],
+          "to": [
+            0.0002,
+            4.9862,
+            3.275
+          ],
+          "rotationOrigin": [
+            -0.1675,
+            4.8185,
+            3.1073
+          ],
+          "rotationX": 44.9301,
+          "rotationY": 2.8273,
+          "rotationZ": 2.8307,
+          "faces": {
+            "north": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "east": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "south": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "west": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "up": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            },
+            "down": {
+              "texture": "#aoa-highneck-button",
+              "uv": [
+                14,
+                10,
+                15,
+                11
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,719 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "aoa-regalcorset-fabric": [
+      258,
+      258
+    ]
+  },
+  "textures": {
+    "aoa-regalcorset-fabric": "garment/regal/redsilver"
+  },
+  "elements": [
+    {
+      "name": "regalcorset-1-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "regalcorset-1",
+          "from": [
+            -0.225,
+            0.2815,
+            -0.2597
+          ],
+          "to": [
+            5.175,
+            3.2815,
+            1.7403
+          ],
+          "rotationOrigin": [
+            2.475,
+            1.7815,
+            0.7403
+          ],
+          "rotationX": -9.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                32.2859,
+                37.7822,
+                113.2851,
+                88.1983
+              ]
+            },
+            "east": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                209.6609,
+                38.125,
+                242.2851,
+                88.6723
+              ]
+            },
+            "west": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                8.0984,
+                38.125,
+                40.7226,
+                88.6723
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "regalcorset-2-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "regalcorset-2",
+          "from": [
+            -0.225,
+            0.3065,
+            4.4597
+          ],
+          "to": [
+            5.175,
+            3.3065,
+            6.4597
+          ],
+          "rotationOrigin": [
+            2.475,
+            1.8065,
+            5.4597
+          ],
+          "rotationX": 9.0,
+          "faces": {
+            "east": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                242.2851,
+                38.125,
+                209.6609,
+                88.6723
+              ]
+            },
+            "south": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                40.3484,
+                37.7822,
+                121.3476,
+                88.1983
+              ]
+            },
+            "west": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                40.7226,
+                38.125,
+                8.0984,
+                88.6723
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "regalcorset-3-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "regalcorset-3",
+          "from": [
+            -0.275,
+            0.475,
+            1.4
+          ],
+          "to": [
+            5.275,
+            3.475,
+            4.9
+          ],
+          "rotationOrigin": [
+            2.5,
+            1.975,
+            3.15
+          ],
+          "faces": {
+            "east": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                169.3484,
+                38.125,
+                226.1601,
+                88.6723
+              ]
+            },
+            "west": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                40.3484,
+                37.7822,
+                97.1601,
+                88.1983
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "regalcorset-4-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "regalcorset-4",
+          "from": [
+            -0.2,
+            1.0692,
+            -0.2589
+          ],
+          "to": [
+            5.125,
+            6.0692,
+            1.7411
+          ],
+          "rotationOrigin": [
+            2.4625,
+            3.5692,
+            0.7411
+          ],
+          "rotationX": 9.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                24.2234,
+                112.7634,
+                105.2226,
+                193.0108
+              ]
+            },
+            "east": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                177.2172,
+                102.4265,
+                145.125,
+                184.3718
+              ]
+            },
+            "west": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                8.0625,
+                94.364,
+                40.1547,
+                176.3093
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "regalcorset-5-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "regalcorset-5",
+          "from": [
+            -0.2,
+            1.0692,
+            4.2839
+          ],
+          "to": [
+            5.125,
+            6.0692,
+            6.2839
+          ],
+          "rotationOrigin": [
+            2.4625,
+            3.5692,
+            5.2839
+          ],
+          "rotationX": -9.0,
+          "faces": {
+            "east": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                145.125,
+                102.4265,
+                177.2172,
+                184.3718
+              ]
+            },
+            "south": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                105.2226,
+                112.7634,
+                24.2234,
+                193.0108
+              ]
+            },
+            "west": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                40.1547,
+                94.364,
+                8.0625,
+                176.3093
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "regalcorset-6-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "regalcorset-6",
+          "from": [
+            -0.225,
+            0.2,
+            1.3
+          ],
+          "to": [
+            5.25,
+            5.95,
+            4.8
+          ],
+          "rotationOrigin": [
+            2.5125,
+            3.075,
+            3.05
+          ],
+          "faces": {
+            "east": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                169.3484,
+                99.0572,
+                226.1601,
+                194.6233
+              ]
+            },
+            "west": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                40.3484,
+                99.0572,
+                97.1601,
+                194.6233
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "regalcorset-7-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "regalcorset-7",
+          "from": [
+            -0.1,
+            2.2107,
+            4.97
+          ],
+          "to": [
+            5.15,
+            5.2107,
+            5.72
+          ],
+          "rotationOrigin": [
+            2.525,
+            3.7107,
+            5.345
+          ],
+          "rotationX": 10.0,
+          "faces": {
+            "east": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                120.6603,
+                193.7355,
+                136.6697,
+                257.2946
+              ]
+            },
+            "west": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                120.6603,
+                193.7355,
+                136.6697,
+                257.2946
+              ]
+            },
+            "up": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                153.7166,
+                209.8605,
+                233.4197,
+                225.0446
+              ]
+            },
+            "down": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                153.7166,
+                209.8605,
+                233.4197,
+                225.0446
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "regalcorset-8-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "regalcorset-8",
+          "from": [
+            -0.1,
+            2.1937,
+            0.524
+          ],
+          "to": [
+            5.15,
+            5.1937,
+            1.274
+          ],
+          "rotationOrigin": [
+            2.525,
+            3.6937,
+            0.899
+          ],
+          "rotationX": -10.0,
+          "faces": {
+            "east": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                120.6603,
+                193.7355,
+                136.6697,
+                257.2946
+              ]
+            },
+            "west": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                120.6603,
+                193.7355,
+                136.6697,
+                257.2946
+              ]
+            },
+            "up": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                153.7166,
+                209.8605,
+                233.4197,
+                225.0446
+              ]
+            },
+            "down": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                153.7166,
+                209.8605,
+                233.4197,
+                225.0446
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "regalcorset-9-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "regalcorset-9",
+          "from": [
+            0.1,
+            0.0,
+            -0.05
+          ],
+          "to": [
+            5.15,
+            2.35,
+            6.225
+          ],
+          "rotationOrigin": [
+            2.625,
+            1.175,
+            3.0875
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                3.9531,
+                29.0781,
+                126.8594,
+                88.5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                3.9531,
+                29.0781,
+                126.8594,
+                88.5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                3.9531,
+                29.0781,
+                126.8594,
+                88.5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                3.9531,
+                29.0781,
+                126.8594,
+                88.5
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "regalcorset-10-attach",
+      "stepParentName": "LowerTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "regalcorset-10",
+          "from": [
+            0.1157,
+            2.4496,
+            -0.05
+          ],
+          "to": [
+            5.1157,
+            5.2996,
+            6.025
+          ],
+          "rotationOrigin": [
+            2.6157,
+            3.8746,
+            2.9875
+          ],
+          "faces": {
+            "north": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                3.9531,
+                29.0781,
+                126.8594,
+                88.5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                3.9531,
+                29.0781,
+                126.8594,
+                88.5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                3.9531,
+                29.0781,
+                126.8594,
+                88.5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-regalcorset-fabric",
+              "uv": [
+                3.9531,
+                29.0781,
+                126.8594,
+                88.5
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

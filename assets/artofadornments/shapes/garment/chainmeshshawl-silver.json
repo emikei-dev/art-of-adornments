@@ -1,0 +1,559 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "aoa-shawl-mesh": [
+      18,
+      17
+    ],
+    "aoa-shawl-metal": [
+      32,
+      32
+    ],
+    "aoa-shawl-clasp": [
+      32,
+      32
+    ]
+  },
+  "textures": {
+    "aoa-shawl-mesh": "garment/chain-mesh-silver",
+    "aoa-shawl-metal": "game:block/metal/plate/steel",
+    "aoa-shawl-clasp": "game:item/resource/ungraded/graphite"
+  },
+  "elements": [
+    {
+      "name": "shawl-silver-1-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "shawl-silver-1",
+          "from": [
+            -0.6419,
+            4.0447,
+            2.8225
+          ],
+          "to": [
+            -0.4744,
+            4.5807,
+            3.3585
+          ],
+          "rotationOrigin": [
+            -0.5581,
+            4.3127,
+            3.0905
+          ],
+          "rotationX": -44.9607,
+          "rotationY": -2.1208,
+          "rotationZ": 2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-shawl-clasp",
+              "uv": [
+                0,
+                0,
+                1,
+                2
+              ]
+            },
+            "east": {
+              "texture": "#aoa-shawl-clasp",
+              "uv": [
+                0,
+                0,
+                1,
+                2
+              ]
+            },
+            "south": {
+              "texture": "#aoa-shawl-clasp",
+              "uv": [
+                0,
+                0,
+                1,
+                2
+              ]
+            },
+            "west": {
+              "texture": "#aoa-shawl-clasp",
+              "uv": [
+                4,
+                5,
+                6,
+                7
+              ]
+            },
+            "up": {
+              "texture": "#aoa-shawl-clasp",
+              "uv": [
+                0,
+                0,
+                1,
+                2
+              ]
+            },
+            "down": {
+              "texture": "#aoa-shawl-clasp",
+              "uv": [
+                0,
+                0,
+                1,
+                2
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "shawl-silver-2-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "shawl-silver-2",
+          "from": [
+            -0.5078,
+            3.8964,
+            2.6717
+          ],
+          "to": [
+            -0.3403,
+            4.7339,
+            3.5092
+          ],
+          "rotationOrigin": [
+            -0.4241,
+            4.3151,
+            3.0905
+          ],
+          "rotationX": -44.9607,
+          "rotationY": -2.1208,
+          "rotationZ": 2.1223,
+          "faces": {
+            "north": {
+              "texture": "#aoa-shawl-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                2
+              ]
+            },
+            "east": {
+              "texture": "#aoa-shawl-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                2
+              ]
+            },
+            "south": {
+              "texture": "#aoa-shawl-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                2
+              ]
+            },
+            "west": {
+              "texture": "#aoa-shawl-metal",
+              "uv": [
+                3,
+                7,
+                6,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-shawl-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                2
+              ]
+            },
+            "down": {
+              "texture": "#aoa-shawl-metal",
+              "uv": [
+                0,
+                0,
+                1,
+                2
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "shawl-silver-3-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "shawl-silver-3",
+          "from": [
+            0.7874,
+            2.8377,
+            2.05
+          ],
+          "to": [
+            3.9874,
+            5.0377,
+            7.35
+          ],
+          "rotationOrigin": [
+            2.3874,
+            3.9377,
+            4.7
+          ],
+          "rotationX": 90.0,
+          "rotationY": 89.5,
+          "rotationZ": -90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                12,
+                13.0,
+                18,
+                17.0
+              ]
+            },
+            "south": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                14,
+                6,
+                8,
+                10
+              ]
+            },
+            "west": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                0,
+                13.0,
+                11.0,
+                17.0
+              ]
+            },
+            "up": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                0,
+                0,
+                6,
+                11.0
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "shawl-silver-4-attach",
+      "stepParentName": "UpperArmL",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "shawl-silver-4",
+          "from": [
+            -0.1052,
+            1.862,
+            -0.0587
+          ],
+          "to": [
+            3.0948,
+            7.062,
+            2.2413
+          ],
+          "rotationOrigin": [
+            1.4948,
+            4.462,
+            1.0913
+          ],
+          "rotationX": 179.9247,
+          "rotationY": 1.2125,
+          "rotationZ": -179.8931,
+          "faces": {
+            "north": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                8,
+                2,
+                14,
+                12
+              ]
+            },
+            "east": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                12,
+                2,
+                8,
+                12
+              ]
+            },
+            "south": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                8,
+                2,
+                14,
+                12
+              ]
+            },
+            "west": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                8,
+                2,
+                12,
+                12
+              ]
+            },
+            "up": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                8,
+                2,
+                14,
+                6
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "shawl-silver-5-attach",
+      "stepParentName": "UpperArmR",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "shawl-silver-5",
+          "from": [
+            -0.101,
+            1.8964,
+            -0.2444
+          ],
+          "to": [
+            3.099,
+            7.0964,
+            2.0556
+          ],
+          "rotationOrigin": [
+            1.499,
+            4.4964,
+            0.9056
+          ],
+          "rotationX": 0.0753,
+          "rotationY": 1.2125,
+          "rotationZ": -0.1069,
+          "faces": {
+            "north": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                8,
+                2,
+                14,
+                12
+              ]
+            },
+            "east": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                12,
+                2,
+                8,
+                12
+              ]
+            },
+            "south": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                8,
+                2,
+                14,
+                12
+              ]
+            },
+            "west": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                8,
+                2,
+                12,
+                12
+              ]
+            },
+            "up": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                8,
+                2,
+                14,
+                6
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "shawl-silver-6-attach",
+      "stepParentName": "UpperTorso",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "children": [
+        {
+          "name": "shawl-silver-6",
+          "from": [
+            0.7874,
+            2.8377,
+            -1.15
+          ],
+          "to": [
+            3.9874,
+            5.0377,
+            4.15
+          ],
+          "rotationOrigin": [
+            2.3874,
+            3.9377,
+            1.5
+          ],
+          "rotationX": 90.0,
+          "rotationY": 89.5,
+          "rotationZ": -90.0,
+          "faces": {
+            "north": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                18,
+                13.0,
+                12,
+                17.0
+              ]
+            },
+            "east": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                0,
+                13.0,
+                11.0,
+                17.0
+              ]
+            },
+            "south": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                14,
+                6,
+                8,
+                10
+              ]
+            },
+            "up": {
+              "texture": "#aoa-shawl-mesh",
+              "uv": [
+                6,
+                0,
+                0,
+                11.0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

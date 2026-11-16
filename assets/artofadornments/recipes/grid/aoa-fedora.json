@@ -1,0 +1,268 @@
+[
+  {
+    "ingredientPattern": "_CP,CXC,TK_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "game:cloth-black",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit",
+        "quantity": 1
+      },
+      "P": {
+        "type": "item",
+        "code": "game:compost",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-white",
+        "quantity": 1
+      },
+      "X": {
+        "type": "item",
+        "code": "game:leather-normal-white",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-fedora-black",
+      "quantity": 1
+    },
+    "requiresTrait": "clothier"
+  },
+  {
+    "ingredientPattern": "_CP,CXC,TK_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "game:cloth-brown",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit",
+        "quantity": 1
+      },
+      "P": {
+        "type": "item",
+        "code": "game:compost",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-darkgreen",
+        "quantity": 1
+      },
+      "X": {
+        "type": "item",
+        "code": "tailorsdelight:leather-darkgreen",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-fedora-brown",
+      "quantity": 1
+    },
+    "requiresTrait": "clothier"
+  },
+  {
+    "ingredientPattern": "_CP,CXC,TK_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "tailorsdelight:cloth-darkgreen",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit",
+        "quantity": 1
+      },
+      "P": {
+        "type": "item",
+        "code": "game:compost",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-darkbrown",
+        "quantity": 1
+      },
+      "X": {
+        "type": "item",
+        "code": "tailorsdelight:leather-darkbrown",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-fedora-green",
+      "quantity": 1
+    },
+    "requiresTrait": "clothier"
+  },
+  {
+    "ingredientPattern": "_CP,CXC,TK_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "tailorsdelight:cloth-darkblue",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit",
+        "quantity": 1
+      },
+      "P": {
+        "type": "item",
+        "code": "game:compost",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-red",
+        "quantity": 1
+      },
+      "X": {
+        "type": "item",
+        "code": "game:leather-normal-red",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-fedora-navy",
+      "quantity": 1
+    },
+    "requiresTrait": "clothier"
+  },
+  {
+    "ingredientPattern": "_CP,CXC,TK_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "game:cloth-pink",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit",
+        "quantity": 1
+      },
+      "P": {
+        "type": "item",
+        "code": "game:compost",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-darkgreen",
+        "quantity": 1
+      },
+      "X": {
+        "type": "item",
+        "code": "tailorsdelight:leather-darkgreen",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-fedora-pink",
+      "quantity": 1
+    },
+    "requiresTrait": "clothier"
+  },
+  {
+    "ingredientPattern": "_CP,CXC,TK_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "tailorsdelight:cloth-darkred",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit",
+        "quantity": 1
+      },
+      "P": {
+        "type": "item",
+        "code": "game:compost",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-purple",
+        "quantity": 1
+      },
+      "X": {
+        "type": "item",
+        "code": "game:leather-normal-purple",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-fedora-red",
+      "quantity": 1
+    },
+    "requiresTrait": "clothier"
+  },
+  {
+    "ingredientPattern": "_CP,CXC,TK_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "game:cloth-white",
+        "quantity": 1
+      },
+      "K": {
+        "type": "item",
+        "code": "game:sewingkit",
+        "quantity": 1
+      },
+      "P": {
+        "type": "item",
+        "code": "game:compost",
+        "quantity": 1
+      },
+      "T": {
+        "type": "item",
+        "code": "tailorsdelight:twine-black",
+        "quantity": 1
+      },
+      "X": {
+        "type": "item",
+        "code": "game:leather-normal-black",
+        "quantity": 1
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-fedora-white",
+      "quantity": 1
+    },
+    "requiresTrait": "clothier"
+  }
+]

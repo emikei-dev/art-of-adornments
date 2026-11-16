@@ -1,0 +1,5052 @@
+{
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+    "aoa-fedora-cloth": [
+      32,
+      32
+    ]
+  },
+  "textures": {
+    "aoa-fedora-cloth": "garment/fedora/black"
+  },
+  "elements": [
+    {
+      "name": "fedora",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        0,
+        0,
+        0
+      ],
+      "rotationOrigin": [
+        0,
+        0,
+        0
+      ],
+      "stepParentName": "Head",
+      "children": [
+        {
+          "name": "rondo_kurwa_jebane_0",
+          "from": [
+            -2.924,
+            3.5374,
+            -0.2988
+          ],
+          "to": [
+            -2.2117,
+            3.8081,
+            5.3988
+          ],
+          "rotationOrigin": [
+            -2.5679,
+            3.6728,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                23,
+                9,
+                24,
+                1
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.25,
+                1,
+                16.8
+              ]
+            }
+          }
+        },
+        {
+          "name": "rondo_kurwa_jebane_1",
+          "from": [
+            -2.2244,
+            3.6798,
+            -1.3671
+          ],
+          "to": [
+            -1.5122,
+            3.9505,
+            6.4671
+          ],
+          "rotationOrigin": [
+            -1.8683,
+            3.8152,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                28,
+                13,
+                29,
+                1
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.25,
+                1,
+                16.8
+              ]
+            }
+          }
+        },
+        {
+          "name": "rondo_kurwa_jebane_2",
+          "from": [
+            -1.5257,
+            3.8293,
+            -2.0793
+          ],
+          "to": [
+            -0.8135,
+            4.0999,
+            7.1793
+          ],
+          "rotationOrigin": [
+            -1.1696,
+            3.9646,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                22,
+                16,
+                23,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.25,
+                1,
+                16.8
+              ]
+            }
+          }
+        },
+        {
+          "name": "rondo_kurwa_jebane_3",
+          "from": [
+            -0.8196,
+            3.9223,
+            -2.4354
+          ],
+          "to": [
+            -0.1074,
+            4.1929,
+            7.5354
+          ],
+          "rotationOrigin": [
+            -0.4635,
+            4.0576,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                30,
+                16,
+                31,
+                1
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.25,
+                1,
+                16.8
+              ]
+            }
+          }
+        },
+        {
+          "name": "rondo_kurwa_jebane_left",
+          "from": [
+            -0.1348,
+            4.3406,
+            5.2564
+          ],
+          "to": [
+            5.5629,
+            4.6112,
+            7.5354
+          ],
+          "rotationOrigin": [
+            2.714,
+            4.4759,
+            6.3959
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                7,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.25,
+                7.25,
+                17
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.25,
+                7.25,
+                17
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.25,
+                7.25,
+                17
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                7,
+                5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.25,
+                7.25,
+                17
+              ]
+            }
+          }
+        },
+        {
+          "name": "rondo_kurwa_jebane_right",
+          "from": [
+            -0.1348,
+            4.3406,
+            -2.4354
+          ],
+          "to": [
+            5.5629,
+            4.6112,
+            -0.1564
+          ],
+          "rotationOrigin": [
+            2.714,
+            4.4759,
+            -1.2959
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.25,
+                7.25,
+                17
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.25,
+                7.25,
+                17
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                7,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                7,
+                5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.25,
+                7.25,
+                17
+              ]
+            }
+          }
+        },
+        {
+          "name": "rondo_kurwa_jebane_5",
+          "from": [
+            5.528,
+            4.8154,
+            -2.0793
+          ],
+          "to": [
+            6.2402,
+            5.086,
+            7.1793
+          ],
+          "rotationOrigin": [
+            5.8841,
+            4.9507,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                30,
+                16,
+                31,
+                1
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.25,
+                1,
+                16.8
+              ]
+            }
+          }
+        },
+        {
+          "name": "rondo_kurwa_jebane_6",
+          "from": [
+            6.2267,
+            4.9648,
+            -1.7232
+          ],
+          "to": [
+            6.9389,
+            5.2355,
+            6.8232
+          ],
+          "rotationOrigin": [
+            6.5828,
+            5.1002,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                22,
+                16,
+                23,
+                3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.25,
+                1,
+                16.8
+              ]
+            }
+          }
+        },
+        {
+          "name": "rondo_kurwa_jebane_7",
+          "from": [
+            6.9254,
+            5.1143,
+            -1.011
+          ],
+          "to": [
+            7.6376,
+            5.3849,
+            6.111
+          ],
+          "rotationOrigin": [
+            7.2815,
+            5.2496,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                28,
+                13,
+                29,
+                1
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.25,
+                1,
+                16.8
+              ]
+            }
+          }
+        },
+        {
+          "name": "rondo_kurwa_jebane_8",
+          "from": [
+            7.624,
+            5.2637,
+            0.0573
+          ],
+          "to": [
+            8.3363,
+            5.5344,
+            5.0427
+          ],
+          "rotationOrigin": [
+            7.9801,
+            5.3991,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                1,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                23,
+                9,
+                24,
+                1
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.25,
+                1,
+                16.8
+              ]
+            }
+          }
+        },
+        {
+          "name": "podstawa_\u0142ba_pierdolona_dolna_0",
+          "from": [
+            -0.9861,
+            4.1326,
+            0.4134
+          ],
+          "to": [
+            -0.5587,
+            4.3107,
+            4.6866
+          ],
+          "rotationOrigin": [
+            -0.7724,
+            4.2216,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                11.25
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                11.25
+              ]
+            }
+          }
+        },
+        {
+          "name": "podstawa_\u0142ba_pierdolona_dolna_1L",
+          "from": [
+            -0.5633,
+            4.2023,
+            4.2949
+          ],
+          "to": [
+            0.0777,
+            4.3804,
+            5.3276
+          ],
+          "rotationOrigin": [
+            -0.2428,
+            4.2913,
+            4.8112
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.1375,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.1375,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                3.8875
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                3.8875
+              ]
+            }
+          }
+        },
+        {
+          "name": "podstawa_\u0142ba_pierdolona_dolna_1R",
+          "from": [
+            -0.5633,
+            4.2023,
+            -0.2276
+          ],
+          "to": [
+            0.0777,
+            4.3804,
+            0.8051
+          ],
+          "rotationOrigin": [
+            -0.2428,
+            4.2913,
+            0.2887
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.1375,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.1375,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                3.8875
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                3.8875
+              ]
+            }
+          }
+        },
+        {
+          "name": "podstawa_\u0142ba_pierdolona_dolna_2L",
+          "from": [
+            0.0521,
+            4.5928,
+            4.9359
+          ],
+          "to": [
+            5.3936,
+            4.7708,
+            5.6837
+          ],
+          "rotationOrigin": [
+            2.7229,
+            4.6818,
+            5.3098
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.4,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.4,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                3.15
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                3.15
+              ]
+            }
+          }
+        },
+        {
+          "name": "podstawa_\u0142ba_pierdolona_dolna_2R",
+          "from": [
+            0.0521,
+            4.5928,
+            -0.5837
+          ],
+          "to": [
+            5.3936,
+            4.7708,
+            0.1641
+          ],
+          "rotationOrigin": [
+            2.7229,
+            4.6818,
+            -0.2098
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.4,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.4,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                3.15
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                3.15
+              ]
+            }
+          }
+        },
+        {
+          "name": "podstawa_\u0142ba_pierdolona_dolna_3L",
+          "from": [
+            5.368,
+            4.9832,
+            4.2949
+          ],
+          "to": [
+            6.009,
+            5.1613,
+            5.3276
+          ],
+          "rotationOrigin": [
+            5.6885,
+            5.0722,
+            4.8112
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.1375,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.1375,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                3.8875
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                3.8875
+              ]
+            }
+          }
+        },
+        {
+          "name": "podstawa_\u0142ba_pierdolona_dolna_3R",
+          "from": [
+            5.368,
+            4.9832,
+            -0.2276
+          ],
+          "to": [
+            6.009,
+            5.1613,
+            0.8051
+          ],
+          "rotationOrigin": [
+            5.6885,
+            5.0722,
+            0.2887
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.1375,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.1375,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                3.8875
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                3.8875
+              ]
+            }
+          }
+        },
+        {
+          "name": "podstawa_\u0142ba_pierdolona_dolna_4",
+          "from": [
+            6.0045,
+            5.0529,
+            0.4134
+          ],
+          "to": [
+            6.4318,
+            5.231,
+            4.6866
+          ],
+          "rotationOrigin": [
+            6.2181,
+            5.1419,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                11.25
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                11.25
+              ]
+            }
+          }
+        },
+        {
+          "name": "podstawa_\u0142ba_pierdolona_gorna_0",
+          "from": [
+            -1.1023,
+            5.0508,
+            0.4134
+          ],
+          "to": [
+            -0.6749,
+            5.1577,
+            4.6866
+          ],
+          "rotationOrigin": [
+            -0.8886,
+            5.1043,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                11.25
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                11.25
+              ]
+            }
+          }
+        },
+        {
+          "name": "podstawa_\u0142ba_pierdolona_gorna_1L",
+          "from": [
+            -0.6795,
+            5.1206,
+            4.2949
+          ],
+          "to": [
+            -0.0385,
+            5.2274,
+            5.3276
+          ],
+          "rotationOrigin": [
+            -0.359,
+            5.174,
+            4.8112
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.1375,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.1375,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                3.8875
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                3.8875
+              ]
+            }
+          }
+        },
+        {
+          "name": "podstawa_\u0142ba_pierdolona_gorna_1R",
+          "from": [
+            -0.6795,
+            5.1206,
+            -0.2276
+          ],
+          "to": [
+            -0.0385,
+            5.2274,
+            0.8051
+          ],
+          "rotationOrigin": [
+            -0.359,
+            5.174,
+            0.2887
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.1375,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.1375,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                3.8875
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                3.8875
+              ]
+            }
+          }
+        },
+        {
+          "name": "podstawa_\u0142ba_pierdolona_gorna_2L",
+          "from": [
+            -0.0641,
+            5.511,
+            4.9359
+          ],
+          "to": [
+            5.2774,
+            5.6178,
+            5.6837
+          ],
+          "rotationOrigin": [
+            2.6067,
+            5.5644,
+            5.3098
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.4,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.4,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                3.15
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                3.15
+              ]
+            }
+          }
+        },
+        {
+          "name": "podstawa_\u0142ba_pierdolona_gorna_2R",
+          "from": [
+            -0.0641,
+            5.511,
+            -0.5837
+          ],
+          "to": [
+            5.2774,
+            5.6178,
+            0.1641
+          ],
+          "rotationOrigin": [
+            2.6067,
+            5.5644,
+            -0.2098
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.4,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.4,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                3.15
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                3.15
+              ]
+            }
+          }
+        },
+        {
+          "name": "podstawa_\u0142ba_pierdolona_gorna_3L",
+          "from": [
+            5.2518,
+            5.9014,
+            4.2949
+          ],
+          "to": [
+            5.8928,
+            6.0083,
+            5.3276
+          ],
+          "rotationOrigin": [
+            5.5723,
+            5.9549,
+            4.8112
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.1375,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.1375,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                3.8875
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                3.8875
+              ]
+            }
+          }
+        },
+        {
+          "name": "podstawa_\u0142ba_pierdolona_gorna_3R",
+          "from": [
+            5.2518,
+            5.9014,
+            -0.2276
+          ],
+          "to": [
+            5.8928,
+            6.0083,
+            0.8051
+          ],
+          "rotationOrigin": [
+            5.5723,
+            5.9549,
+            0.2887
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.1375,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.1375,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                3.8875
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.1375,
+                3.8875
+              ]
+            }
+          }
+        },
+        {
+          "name": "podstawa_\u0142ba_pierdolona_gorna_4",
+          "from": [
+            5.8883,
+            5.9712,
+            0.4134
+          ],
+          "to": [
+            6.3156,
+            6.078,
+            4.6866
+          ],
+          "rotationOrigin": [
+            6.1019,
+            6.0246,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                11.25
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                11.25
+              ]
+            }
+          }
+        },
+        {
+          "name": "wstazka_jebana_czarna_0",
+          "from": [
+            -1.1174,
+            4.302,
+            0.3422
+          ],
+          "to": [
+            -0.6189,
+            5.0499,
+            4.7578
+          ],
+          "rotationOrigin": [
+            -0.8681,
+            4.676,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                18.6575,
+                25.95
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                30,
+                25.95
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                18.6575,
+                25.95
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                30,
+                25.95
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                18.6575,
+                30
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                18.6575,
+                30
+              ]
+            }
+          }
+        },
+        {
+          "name": "wstazka_jebana_czarna_1L",
+          "from": [
+            -0.6237,
+            4.3764,
+            4.2949
+          ],
+          "to": [
+            0.0173,
+            5.1242,
+            5.3988
+          ],
+          "rotationOrigin": [
+            -0.3032,
+            4.7503,
+            4.8469
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.1288,
+                25.95
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                20.6562,
+                25.95
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.1288,
+                25.95
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                20.6562,
+                25.95
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.1288,
+                26.4062
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.1288,
+                26.4062
+              ]
+            }
+          }
+        },
+        {
+          "name": "wstazka_jebana_czarna_1R",
+          "from": [
+            -0.6237,
+            4.3764,
+            -0.2988
+          ],
+          "to": [
+            0.0173,
+            5.1242,
+            0.8051
+          ],
+          "rotationOrigin": [
+            -0.3032,
+            4.7503,
+            0.2531
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.1288,
+                25.95
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                20.6562,
+                25.95
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.1288,
+                25.95
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                20.6562,
+                25.95
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.1288,
+                26.4062
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.1288,
+                26.4062
+              ]
+            }
+          }
+        },
+        {
+          "name": "wstazka_jebana_czarna_2L",
+          "from": [
+            -0.0083,
+            4.7669,
+            4.9359
+          ],
+          "to": [
+            5.3332,
+            5.5147,
+            5.7549
+          ],
+          "rotationOrigin": [
+            2.6624,
+            5.1408,
+            5.3454
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                30,
+                25.95
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.7138,
+                25.95
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                30,
+                25.95
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.7138,
+                25.95
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                30,
+                26.0437
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                30,
+                26.0437
+              ]
+            }
+          }
+        },
+        {
+          "name": "wstazka_jebana_czarna_2R",
+          "from": [
+            -0.0083,
+            4.7669,
+            -0.6549
+          ],
+          "to": [
+            5.3332,
+            5.5147,
+            0.1641
+          ],
+          "rotationOrigin": [
+            2.6624,
+            5.1408,
+            -0.2454
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                30,
+                25.95
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.7138,
+                25.95
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                30,
+                25.95
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.7138,
+                25.95
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                30,
+                26.0437
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                30,
+                26.0437
+              ]
+            }
+          }
+        },
+        {
+          "name": "wstazka_jebana_czarna_3L",
+          "from": [
+            5.3076,
+            5.1573,
+            4.2949
+          ],
+          "to": [
+            5.9486,
+            5.9051,
+            5.3988
+          ],
+          "rotationOrigin": [
+            5.6281,
+            5.5312,
+            4.8469
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.1288,
+                25.95
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                20.6562,
+                25.95
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.1288,
+                25.95
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                20.6562,
+                25.95
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.1288,
+                26.4062
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.1288,
+                26.4062
+              ]
+            }
+          }
+        },
+        {
+          "name": "wstazka_jebana_czarna_3R",
+          "from": [
+            5.3076,
+            5.1573,
+            -0.2988
+          ],
+          "to": [
+            5.9486,
+            5.9051,
+            0.8051
+          ],
+          "rotationOrigin": [
+            5.6281,
+            5.5312,
+            0.2531
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.1288,
+                25.95
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                20.6562,
+                25.95
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.1288,
+                25.95
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                20.6562,
+                25.95
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.1288,
+                26.4062
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                19.1288,
+                26.4062
+              ]
+            }
+          }
+        },
+        {
+          "name": "wstazka_jebana_czarna_4",
+          "from": [
+            5.9437,
+            5.2317,
+            0.3422
+          ],
+          "to": [
+            6.4423,
+            5.9795,
+            4.7578
+          ],
+          "rotationOrigin": [
+            6.193,
+            5.6056,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                18.6575,
+                25.95
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                30,
+                25.95
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                18.6575,
+                25.95
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                30,
+                25.95
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                18.6575,
+                30
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                18.6575,
+                30
+              ]
+            }
+          }
+        },
+        {
+          "name": "srodek_czaszki_chuj_wie_co_0",
+          "from": [
+            -1.0825,
+            5.173,
+            0.7339
+          ],
+          "to": [
+            -0.579,
+            6.8467,
+            4.3661
+          ],
+          "rotationOrigin": [
+            -0.8308,
+            6.0098,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.7875,
+                5.5125
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.95,
+                7,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.7875,
+                5.5125
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                16.7625,
+                5.5125
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                12.05,
+                1,
+                5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.7875,
+                10.5125
+              ]
+            }
+          }
+        },
+        {
+          "name": "srodek_czaszki_chuj_wie_co_1L",
+          "from": [
+            -0.6466,
+            5.2436,
+            3.9032
+          ],
+          "to": [
+            0.0574,
+            6.9173,
+            5.1545
+          ],
+          "rotationOrigin": [
+            -0.2946,
+            6.0804,
+            4.5289
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.3,
+                5.5125
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.6875,
+                5.5125
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.3,
+                5.5125
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.6875,
+                5.5125
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.3,
+                4.4375
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.3,
+                4.4375
+              ]
+            }
+          }
+        },
+        {
+          "name": "srodek_czaszki_chuj_wie_co_1R",
+          "from": [
+            -0.6466,
+            5.2436,
+            -0.0546
+          ],
+          "to": [
+            0.0574,
+            6.9173,
+            1.1968
+          ],
+          "rotationOrigin": [
+            -0.2946,
+            6.0804,
+            0.5711
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.3,
+                5.5125
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.6875,
+                5.5125
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.3,
+                5.5125
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.6875,
+                5.5125
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.3,
+                4.4375
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.3,
+                4.4375
+              ]
+            }
+          }
+        },
+        {
+          "name": "srodek_czaszki_chuj_wie_co_2L",
+          "from": [
+            0.033,
+            5.6149,
+            4.5798
+          ],
+          "to": [
+            5.0185,
+            7.2886,
+            5.6175
+          ],
+          "rotationOrigin": [
+            2.5258,
+            6.4517,
+            5.0986
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                9,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.15,
+                5.5125
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                5.5125
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                1,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                9,
+                6
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                3.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "srodek_czaszki_chuj_wie_co_2R",
+          "from": [
+            0.033,
+            5.6149,
+            -0.5175
+          ],
+          "to": [
+            5.0185,
+            7.2886,
+            0.5202
+          ],
+          "rotationOrigin": [
+            2.5258,
+            6.4517,
+            0.0014
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                5.5125
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.15,
+                5.5125
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                9,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                10.15,
+                5.5125
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                9,
+                6
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                3.9
+              ]
+            }
+          }
+        },
+        {
+          "name": "srodek_czaszki_chuj_wie_co_3L",
+          "from": [
+            4.9946,
+            5.9792,
+            4.0812
+          ],
+          "to": [
+            5.5917,
+            7.6529,
+            5.2258
+          ],
+          "rotationOrigin": [
+            5.2932,
+            6.8161,
+            4.6535
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                1,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                1,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                1,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                2,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                1.8
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                1,
+                5
+              ]
+            }
+          }
+        },
+        {
+          "name": "srodek_czaszki_chuj_wie_co_3R",
+          "from": [
+            4.9946,
+            5.9792,
+            -0.1258
+          ],
+          "to": [
+            5.5917,
+            7.6529,
+            1.0188
+          ],
+          "rotationOrigin": [
+            5.2932,
+            6.8161,
+            0.4465
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                2,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                2,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                1,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                2,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                1.8
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                8.05,
+                2,
+                5
+              ]
+            }
+          }
+        },
+        {
+          "name": "srodek_czaszki_chuj_wie_co_4",
+          "from": [
+            5.5246,
+            6.0428,
+            0.5558
+          ],
+          "to": [
+            6.0281,
+            7.7165,
+            4.5442
+          ],
+          "rotationOrigin": [
+            5.7764,
+            6.8797,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.7875,
+                5.5125
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                5.5125
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.7875,
+                5.5125
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                7.95,
+                7,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                16.85,
+                1,
+                10
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.7875,
+                11.25
+              ]
+            }
+          }
+        },
+        {
+          "name": "czubek_jebanego_lba_0",
+          "from": [
+            -0.8526,
+            6.8827,
+            0.9831
+          ],
+          "to": [
+            -0.4079,
+            7.4525,
+            4.1168
+          ],
+          "rotationOrigin": [
+            -0.6302,
+            7.1676,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                1.55,
+                1.8
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5,
+                5,
+                6.05
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                1.55,
+                1.8
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                5.4,
+                1.8
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                10.05,
+                1,
+                5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                5.4,
+                7
+              ]
+            }
+          }
+        },
+        {
+          "name": "czubek_jebanego_lba_1L",
+          "from": [
+            -0.4493,
+            6.9489,
+            3.6183
+          ],
+          "to": [
+            0.1931,
+            7.5186,
+            4.7752
+          ],
+          "rotationOrigin": [
+            -0.1281,
+            7.2337,
+            4.1968
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                1.85,
+                1.8
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                1.8
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                1.85,
+                1.8
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                1.8
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                7
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                7
+              ]
+            }
+          }
+        },
+        {
+          "name": "czubek_jebanego_lba_1R",
+          "from": [
+            -0.4493,
+            6.9489,
+            0.3248
+          ],
+          "to": [
+            0.1931,
+            7.5186,
+            1.4817
+          ],
+          "rotationOrigin": [
+            -0.1281,
+            7.2337,
+            0.9032
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                1.85,
+                1.8
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                1.8
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                1.85,
+                1.8
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                1.8
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                7
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                7
+              ]
+            }
+          }
+        },
+        {
+          "name": "czubek_jebanego_lba_2L",
+          "from": [
+            0.1712,
+            7.2836,
+            4.2237
+          ],
+          "to": [
+            4.6581,
+            7.8534,
+            5.345
+          ],
+          "rotationOrigin": [
+            2.4147,
+            7.5685,
+            4.7843
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                7.3,
+                1.8
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.5,
+                1.8
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                7.3,
+                1.8
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.5,
+                1.8
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.5,
+                7.3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.5,
+                7.3
+              ]
+            }
+          }
+        },
+        {
+          "name": "czubek_jebanego_lba_2R",
+          "from": [
+            0.1712,
+            7.2836,
+            -0.245
+          ],
+          "to": [
+            4.6581,
+            7.8534,
+            0.8763
+          ],
+          "rotationOrigin": [
+            2.4147,
+            7.5685,
+            0.3157
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                7.3,
+                1.8
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.5,
+                1.8
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                7.3,
+                1.8
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.5,
+                1.8
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.5,
+                7.3
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.5,
+                7.3
+              ]
+            }
+          }
+        },
+        {
+          "name": "czubek_jebanego_lba_3L",
+          "from": [
+            4.6366,
+            7.6114,
+            3.832
+          ],
+          "to": [
+            5.1722,
+            8.1812,
+            4.9889
+          ],
+          "rotationOrigin": [
+            4.9044,
+            7.8963,
+            4.4104
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                1.7,
+                1.8
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                1.8
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                1.7,
+                1.8
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                1.8
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                7
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                7
+              ]
+            }
+          }
+        },
+        {
+          "name": "czubek_jebanego_lba_3R",
+          "from": [
+            4.6366,
+            7.6114,
+            0.1111
+          ],
+          "to": [
+            5.1722,
+            8.1812,
+            1.268
+          ],
+          "rotationOrigin": [
+            4.9044,
+            7.8963,
+            0.6896
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                1.7,
+                1.8
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                1.8
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                1.7,
+                1.8
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                1.8
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                7
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.55,
+                7
+              ]
+            }
+          }
+        },
+        {
+          "name": "czubek_jebanego_lba_4",
+          "from": [
+            5.1313,
+            7.6705,
+            0.7695
+          ],
+          "to": [
+            5.576,
+            8.2403,
+            4.3305
+          ],
+          "rotationOrigin": [
+            5.3536,
+            7.9554,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                1.55,
+                1.8
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                6,
+                1.8
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                1.55,
+                1.8
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                6,
+                1.8
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                10.05,
+                1,
+                5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                6,
+                7
+              ]
+            }
+          }
+        },
+        {
+          "name": "dach_skurwysynski_lewy_0",
+          "from": [
+            -0.8301,
+            7.2047,
+            3.4403
+          ],
+          "to": [
+            -0.4383,
+            7.5964,
+            4.1168
+          ],
+          "rotationOrigin": [
+            -0.6342,
+            7.4006,
+            3.7786
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            }
+          }
+        },
+        {
+          "name": "dach_skurwysynski_prawy_0",
+          "from": [
+            -0.8301,
+            7.2047,
+            0.9831
+          ],
+          "to": [
+            -0.4383,
+            7.5964,
+            1.6597
+          ],
+          "rotationOrigin": [
+            -0.6342,
+            7.4006,
+            1.3214
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            }
+          }
+        },
+        {
+          "name": "dach_skurwysynski_lewy_1",
+          "from": [
+            -0.4426,
+            7.2698,
+            3.4403
+          ],
+          "to": [
+            0.1628,
+            7.6615,
+            4.7222
+          ],
+          "rotationOrigin": [
+            -0.1399,
+            7.4656,
+            4.0812
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            }
+          }
+        },
+        {
+          "name": "dach_skurwysynski_prawy_1",
+          "from": [
+            -0.4426,
+            7.2698,
+            0.3778
+          ],
+          "to": [
+            0.1628,
+            7.6615,
+            1.6597
+          ],
+          "rotationOrigin": [
+            -0.1399,
+            7.4656,
+            1.0188
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            }
+          }
+        },
+        {
+          "name": "dach_skurwysynski_lewy_2",
+          "from": [
+            0.141,
+            7.6021,
+            3.4403
+          ],
+          "to": [
+            4.6279,
+            7.9938,
+            5.292
+          ],
+          "rotationOrigin": [
+            2.3844,
+            7.798,
+            4.3661
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7,
+                5,
+                0,
+                6.05
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.5,
+                1.8
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7,
+                5,
+                0,
+                6.05
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                12.225,
+                2.25
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7,
+                8.05,
+                0,
+                5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                5.975
+              ]
+            }
+          }
+        },
+        {
+          "name": "dach_skurwysynski_prawy_2",
+          "from": [
+            0.141,
+            7.6021,
+            -0.192
+          ],
+          "to": [
+            4.6279,
+            7.9938,
+            1.6597
+          ],
+          "rotationOrigin": [
+            2.3844,
+            7.798,
+            0.7339
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7,
+                5,
+                0,
+                6.05
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                1,
+                1,
+                2.5,
+                1.8
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5,
+                7,
+                6.05
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5,
+                2,
+                6.05
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5,
+                7,
+                8.05
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                5.975
+              ]
+            }
+          }
+        },
+        {
+          "name": "dach_skurwysynski_lewy_3",
+          "from": [
+            4.6066,
+            7.9275,
+            3.4403
+          ],
+          "to": [
+            5.1051,
+            8.3192,
+            4.9359
+          ],
+          "rotationOrigin": [
+            4.8558,
+            8.1233,
+            4.1881
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            }
+          }
+        },
+        {
+          "name": "dach_skurwysynski_prawy_3",
+          "from": [
+            4.6066,
+            7.9275,
+            0.1641
+          ],
+          "to": [
+            5.1051,
+            8.3192,
+            1.6597
+          ],
+          "rotationOrigin": [
+            4.8558,
+            8.1233,
+            0.9119
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            }
+          }
+        },
+        {
+          "name": "dach_skurwysynski_lewy_4",
+          "from": [
+            5.1013,
+            7.9856,
+            3.4403
+          ],
+          "to": [
+            5.493,
+            8.3773,
+            4.3305
+          ],
+          "rotationOrigin": [
+            5.2972,
+            8.1814,
+            3.8854
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            }
+          }
+        },
+        {
+          "name": "dach_skurwysynski_prawy_4",
+          "from": [
+            5.1013,
+            7.9856,
+            0.7695
+          ],
+          "to": [
+            5.493,
+            8.3773,
+            1.6597
+          ],
+          "rotationOrigin": [
+            5.2972,
+            8.1814,
+            1.2146
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                5.95,
+                2,
+                5
+              ]
+            }
+          }
+        },
+        {
+          "name": "kokarda_zajebista_przod",
+          "from": [
+            1.2089,
+            4.6816,
+            5.7478
+          ],
+          "to": [
+            2.1704,
+            5.3725,
+            5.9615
+          ],
+          "rotationOrigin": [
+            1.6897,
+            5.0271,
+            5.8546
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                20.185,
+                25.8813
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                17.715,
+                25.8813
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                20.185,
+                25.8813
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                17.715,
+                25.8813
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                20.185,
+                25.275
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                20.185,
+                25.275
+              ]
+            }
+          }
+        },
+        {
+          "name": "kokarda_zajebista_tyl",
+          "from": [
+            2.4093,
+            4.8397,
+            5.7478
+          ],
+          "to": [
+            3.3708,
+            5.5305,
+            5.9615
+          ],
+          "rotationOrigin": [
+            2.8901,
+            5.1851,
+            5.8546
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                20.185,
+                25.8813
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                17.715,
+                25.8813
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                20.185,
+                25.8813
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                17.715,
+                25.8813
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                20.185,
+                25.275
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                20.185,
+                25.275
+              ]
+            }
+          }
+        },
+        {
+          "name": "kokarda_wezel_kurwa",
+          "from": [
+            2.094,
+            4.8105,
+            5.7407
+          ],
+          "to": [
+            2.4857,
+            5.4016,
+            6.054
+          ],
+          "rotationOrigin": [
+            2.2899,
+            5.1061,
+            5.8974
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                18.3,
+                25.7563
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                18.04,
+                25.7563
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                18.3,
+                25.7563
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                18.04,
+                25.7563
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                18.3,
+                25.4
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                17,
+                25,
+                18.3,
+                25.4
+              ]
+            }
+          }
+        },
+        {
+          "name": "zaglebienie_pierdolone_skos_lewy_merged",
+          "from": [
+            -0.8422,
+            7.596,
+            3.0129
+          ],
+          "to": [
+            5.5321,
+            7.7812,
+            3.4403
+          ],
+          "rotationOrigin": [
+            2.345,
+            7.6886,
+            3.2266
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7,
+                6.05,
+                0,
+                5
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7,
+                6.05,
+                0,
+                5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                2.3375
+              ]
+            }
+          }
+        },
+        {
+          "name": "zaglebienie_pierdolone_skos_prawy_merged",
+          "from": [
+            -0.8422,
+            7.596,
+            1.6597
+          ],
+          "to": [
+            5.5321,
+            7.7812,
+            2.0871
+          ],
+          "rotationOrigin": [
+            2.345,
+            7.6886,
+            1.8734
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7,
+                6.05,
+                0,
+                5
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                8.5875,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                0,
+                6.05,
+                7,
+                5
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                2.3375
+              ]
+            }
+          }
+        },
+        {
+          "name": "zaglebienie_kurwa_dno_merged",
+          "from": [
+            -0.4309,
+            7.4549,
+            2.0871
+          ],
+          "to": [
+            5.1599,
+            7.6258,
+            3.0129
+          ],
+          "rotationOrigin": [
+            2.3645,
+            7.5403,
+            2.55
+          ],
+          "rotationX": -180.0,
+          "rotationZ": 172.5,
+          "faces": {
+            "north": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "east": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.8625,
+                1.75
+              ]
+            },
+            "south": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                1.75
+              ]
+            },
+            "west": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                9.8625,
+                1.75
+              ]
+            },
+            "up": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                5,
+                10.05,
+                12,
+                8
+              ]
+            },
+            "down": {
+              "texture": "#aoa-fedora-cloth",
+              "uv": [
+                7.5,
+                1.25,
+                17.5,
+                3.6125
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

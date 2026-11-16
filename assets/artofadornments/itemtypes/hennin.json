@@ -1,0 +1,135 @@
+{
+  "code": "clothes",
+  "variantgroups": [
+    {
+      "code": "category",
+      "states": [
+        "head"
+      ]
+    },
+    {
+      "code": "head",
+      "combine": "SelectiveMultiply",
+      "onVariant": "category",
+      "states": [
+        "hennin"
+      ]
+    },
+    {
+      "code": "design",
+      "states": [
+        "mourning",
+        "ruby",
+        "bridal",
+        "princess",
+        "dahlia",
+        "emerald",
+        "lapis"
+      ]
+    }
+  ],
+  "storageFlags": 128,
+  "maxstacksize": 1,
+  "shapeByType": {
+    "*-mourning": {
+      "base": "garment/hennin-mourning"
+    },
+    "*-ruby": {
+      "base": "garment/hennin-ruby"
+    },
+    "*-bridal": {
+      "base": "garment/hennin-bridal"
+    },
+    "*-princess": {
+      "base": "garment/hennin-princess"
+    },
+    "*-dahlia": {
+      "base": "garment/hennin-dahlia"
+    },
+    "*-emerald": {
+      "base": "garment/hennin-emerald"
+    },
+    "*-lapis": {
+      "base": "garment/hennin-lapis"
+    }
+  },
+  "texturesByType": {
+    "*-mourning": {
+      "seraph": {
+        "base": "game:block/transparent"
+      }
+    },
+    "*-ruby": {
+      "seraph": {
+        "base": "game:block/transparent"
+      }
+    },
+    "*-bridal": {
+      "seraph": {
+        "base": "game:block/transparent"
+      }
+    },
+    "*-princess": {
+      "seraph": {
+        "base": "game:block/transparent"
+      }
+    },
+    "*-dahlia": {
+      "seraph": {
+        "base": "game:block/transparent"
+      }
+    },
+    "*-emerald": {
+      "seraph": {
+        "base": "game:block/transparent"
+      }
+    },
+    "*-lapis": {
+      "seraph": {
+        "base": "game:block/transparent"
+      }
+    }
+  },
+  "behaviors": [
+    {
+      "name": "Wearable"
+    }
+  ],
+  "attributes": {
+    "clothescategory": "head",
+    "wearableAttachment": true,
+    "wearableTexturePrefixCode": null,
+    "displaycaseable": true
+  },
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "items": [
+      "*"
+    ],
+    "clothing": [
+      "*"
+    ]
+  },
+  "renderAlphaTest": 0.1,
+  "guiTransform": {
+    "rotate": false,
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": -180,
+      "y": -40,
+      "z": 0
+    },
+    "origin": {
+      "x": 0.74,
+      "y": 1.81,
+      "z": 0.5
+    },
+    "scale": 1.26
+  }
+}

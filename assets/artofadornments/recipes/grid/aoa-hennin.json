@@ -1,0 +1,576 @@
+[
+  {
+    "ingredientPattern": "LCL,MDM,BS_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-black",
+        "quantity": 1
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cloth-black",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-blackbronze",
+        "quantity": 1
+      },
+      "D": {
+        "type": "item",
+        "code": "tailorsdelight:down-plain",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "S": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-hennin-mourning",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LCL,MDM,BS_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-white",
+        "quantity": 1
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cloth-white",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-gold",
+        "quantity": 1
+      },
+      "D": {
+        "type": "item",
+        "code": "tailorsdelight:down-plain",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "S": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-hennin-bridal",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LCL,MDM,BS_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-white",
+        "quantity": 1
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cloth-pink",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-silver",
+        "quantity": 1
+      },
+      "D": {
+        "type": "item",
+        "code": "tailorsdelight:down-plain",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "S": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-hennin-princess",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LCL,MDM,BS_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-plain",
+        "quantity": 1
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cloth-purple",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-brass",
+        "quantity": 1
+      },
+      "D": {
+        "type": "item",
+        "code": "tailorsdelight:down-plain",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "S": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-hennin-dahlia",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LCL,MDM,BS_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-plain",
+        "quantity": 1
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cloth-green",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-brass",
+        "quantity": 1
+      },
+      "D": {
+        "type": "item",
+        "code": "tailorsdelight:down-plain",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "S": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-hennin-emerald",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LCL,MDM,BS_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-plain",
+        "quantity": 1
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cloth-blue",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-silver",
+        "quantity": 1
+      },
+      "D": {
+        "type": "item",
+        "code": "tailorsdelight:down-plain",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "S": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-hennin-lapis",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LCL,MDM,BSB",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-black",
+        "quantity": 1
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cloth-black",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-blackbronze",
+        "quantity": 1
+      },
+      "D": {
+        "type": "item",
+        "code": "tailorsdelight:down-plain",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "S": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-hornedhennin-mourning",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LCL,MDM,BSB",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-black",
+        "quantity": 1
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cloth-red",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-blackbronze",
+        "quantity": 1
+      },
+      "D": {
+        "type": "item",
+        "code": "tailorsdelight:down-plain",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "S": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-hornedhennin-ruby",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LCL,MDM,BSB",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-white",
+        "quantity": 1
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cloth-white",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-gold",
+        "quantity": 1
+      },
+      "D": {
+        "type": "item",
+        "code": "tailorsdelight:down-plain",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "S": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-hornedhennin-bridal",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LCL,MDM,BSB",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-white",
+        "quantity": 1
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cloth-pink",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-silver",
+        "quantity": 1
+      },
+      "D": {
+        "type": "item",
+        "code": "tailorsdelight:down-plain",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "S": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-hornedhennin-princess",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LCL,MDM,BSB",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-plain",
+        "quantity": 1
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cloth-purple",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-brass",
+        "quantity": 1
+      },
+      "D": {
+        "type": "item",
+        "code": "tailorsdelight:down-plain",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "S": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-hornedhennin-dahlia",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LCL,MDM,BSB",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-plain",
+        "quantity": 1
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cloth-green",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-brass",
+        "quantity": 1
+      },
+      "D": {
+        "type": "item",
+        "code": "tailorsdelight:down-plain",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "S": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-hornedhennin-emerald",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LCL,MDM,BSB",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-plain",
+        "quantity": 1
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cloth-blue",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-silver",
+        "quantity": 1
+      },
+      "D": {
+        "type": "item",
+        "code": "tailorsdelight:down-plain",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "S": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-hornedhennin-lapis",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "LCL,MDM,BS_",
+    "width": 3,
+    "height": 3,
+    "ingredients": {
+      "L": {
+        "type": "item",
+        "code": "artofadornments:lace-black",
+        "quantity": 1
+      },
+      "C": {
+        "type": "item",
+        "code": "game:cloth-red",
+        "quantity": 1
+      },
+      "M": {
+        "type": "item",
+        "code": "tailorsdelight:metalband-blackbronze",
+        "quantity": 1
+      },
+      "D": {
+        "type": "item",
+        "code": "tailorsdelight:down-plain",
+        "quantity": 1
+      },
+      "B": {
+        "type": "item",
+        "code": "artofadornments:boneinsert",
+        "quantity": 1
+      },
+      "S": {
+        "type": "item",
+        "code": "game:sewingkit"
+      }
+    },
+    "output": {
+      "type": "item",
+      "code": "artofadornments:clothes-head-hennin-ruby",
+      "quantity": 1
+    }
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "code": "clothes",
+  "variantgroups": [
+    {
+      "code": "category",
+      "states": [
+        "neck"
+      ]
+    },
+    {
+      "code": "neck",
+      "combine": "SelectiveMultiply",
+      "onVariant": "category",
+      "states": [
+        "feralearrings"
+      ]
+    }
+  ],
+  "storageFlags": 128,
+  "maxstacksize": 1,
+  "shape": {
+    "base": "jewelry/feralearrings"
+  },
+  "textures": {
+    "seraph": {
+      "base": "game:block/transparent"
+    },
+    "feralearrings-feather": {
+      "base": "game:item/tool/feather"
+    },
+    "feralearrings-bone": {
+      "base": "game:block/creature/bone/bone2"
+    },
+    "feralearrings-chain": {
+      "base": "metal/chains"
+    }
+  },
+  "behaviors": [
+    {
+      "name": "Wearable"
+    }
+  ],
+  "attributes": {
+    "clothescategory": "neck",
+    "wearableAttachment": true,
+    "wearableTexturePrefixCode": null,
+    "displaycaseable": true
+  },
+  "creativeinventory": {
+    "general": [
+      "*"
+    ],
+    "items": [
+      "*"
+    ],
+    "clothing": [
+      "*"
+    ]
+  },
+  "renderAlphaTest": 0.25,
+  "guiTransform": {
+    "rotate": false,
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": -180,
+      "y": -20,
+      "z": 0
+    },
+    "origin": {
+      "x": 0.494,
+      "y": 1.625,
+      "z": 0.669
+    },
+    "scale": 7.75
+  }
+}
